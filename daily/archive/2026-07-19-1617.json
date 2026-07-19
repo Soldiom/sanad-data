@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-19T16:22+00:00",
+ "at": "2026-07-19T16:17+00:00",
  "cats": {
   "الخليج": [
+   {
+    "head": "إيران تستهدف الكويت والبحرين وأمريكا ترد على مقتل جنودها بالأردن",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPdXlaTjIzaEJpdWlSOTBibTFTUXcyTWNRN0E3Y1dJcHlwdnM3QmswNHpLbW5fbV9wUktlLXhOWjhfaTJMMlFDY0VWNEM5alMxNmM3TzlfeG5jOHIzMkw0d1RHNVV0ZzZkQTM1bkZ1SWhKOVUyLWVxV2prMUZqRXVOc3ktdlBFRDlGSThtVDQyWXNacEZKS2YtcUhHbkdjNllINWpTWXlxUzROcGdDYjBGZ29JUnhpTTZuRk82dDgwUUNBdVpjZzA0TmhzVGlYT3N4amZXdldGOUVTZG1xa1FlZXJlNnZfSnI0N0FCaXVmcEF5dVZXSUlNZzZBRFhxS3hOb1Bvbnc5Q0VBOGhVU0stRGdZb3haZVExeUhaSVJmNnNURzF4MFFJZXBOeHZBWVdVYlZzNjdfZHJSeGxWbEFOQmJTZmhJQ0RlcnfSAc8CQVVfeXFMUC15WTloaUpTSm1ZWlIwVmNjd3NxbEVSUEpMTHUtaDh1WV82MUNsZWFiSTcwbWNtbm9fUEhwTVhhekpqNXJPUU5XTnpsajNzYzdQM0NLNnZlXzFmVnFpZGtIdUpJRExxWDBDa291Z0ZvcHJySWlsaUEta3QwT253OGxhV1hhblBldXpBakItZmdldVVTZXc2LWx5WDJ2aFdVNXdfVS10aGZKZzB5b1FGc0ZlNF91a1dLZnh5WGNvOS1DU2pfYUpLVjN4Y2UtSGlERXZKbkIweVNKbF9EaF91ZjdkeXZhWWYyRUVmZWh0cDhfekxtRUtjcWFDVkNiZm1rUllfb3Zwb1J4Q3dvc01nWnctMklmUUxBVFZId2JCME9zcU5hZERjRTF3WTBZRVRpZU5KYnprQjZ6X3N2RUg0Q0hYSFkyQm9FMEpWY0FHbms?oc=5",
+    "fa": false,
+    "at": "2026-07-19T09:45+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
    {
     "head": "مصادر ووثائق تكشف آخر تفاصيل اتفاق نووي بين السعودية وأمريكا",
     "src": "CNN Arabic",
@@ -49,6 +65,22 @@
      "انتفاء العلة": 1
     },
     "score": 3
+   },
+   {
+    "head": "داخلية السعودية تعلن إعدام مصري وتكشف عن اسمه وجريمته",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUVnTjdaUDJTV29xTDN4cWFBLXBUUjlSWTNjcGlOYkVGZVBEeU1VNWtMQUc4NjRMZzZGdXV2Z3NETFMtWG0xTnB3QnRZcnFxZ0FWbk5CcENWdHYtLTlIN1IxQV9pMUhIaUZaa0czX1NPR2h6d0dpU1FnQW9UQkVjQnlTS3lKRXAtRHRkR1p6YUpIbk42VGMyclJhOW5IQVHSAaoBQVVfeXFMTkZSWk1TUnNmY242a2lOcERsVkt0UE9EWEY4aVhtTTR0LXFmOVMybGNINXRqSnJ4YzdfTXdoNlJweHZPcHpLVU5OQ1RfTW9WSWE0N3k0M0gwZHlZSU9DTGNQM2YtbnZ2cXNtYU5BSjFwR0x6UjRqOUtIUVFQV3FKTXd6bTgxanhwX1VCNTVfNkVXOGxmTUxPcEg4S0VCb2VTdHNGci1HLW53RkE?oc=5",
+    "fa": false,
+    "at": "2026-07-18T15:18+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
    }
   ],
   "إيران": [
@@ -67,6 +99,22 @@
      "انتفاء العلة": 1
     },
     "score": 3
+   },
+   {
+    "head": "الأردن: اعتراض 3 صواريخ إيرانية وسقوط رابع في منطقة نائية",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPbEx6SHVaVlpTdFdweFp6NHNyTDNpLUh1MDE1Qlo1U3J0UUlsZUItVjZGRTRBcVY5blJPWGlzNDZTTjJKa2pOd1djTEVRb0JSbGJXb1c5dmhQZTd2cnhIMkxJYzg2dGpjSjVLWGk2M3U0bVBka09PblZjUzBWd3lQdVBCbnpLSHhhRlpwZUZ6U3ZXSXZxTDdSMUNuM0ZTX3VWUk1DVHFUbEtjdXk5a0FlMVNUOVA3dmYwb0c5LTZVZXpVVjhjaGdiRUNjU01hcHM4VE41WWJLNVhGM0p1dkJTYXg5cm9rdm5UWjJzM044bTZweWE3OXZpOWttdTFKTkZETTBSbWNIRVB3akhlRk9LUWV3UVpXeFctOWszaHNrbHZOc1FGZlRGTW5QVkxoTnJRUjZpaGtvVzVvZXFSalhaYl9lbFFfZDdTNVQ3eUZfM0pzTzdEVU9qaEpyb05WS01mVlpoYzhqb0ZkdTFMbjRSWk9vemhpbmY4LVU5WDBWUFB5MjNVekhnSUFaSjUxSzhCbWd6dmZQeTg4QjJzTE8wMnhzUHJwNWI1M216Y3VIYUgwZEFwalZ2bERwV1ZSUHliZlhpUTIyU3AtSTTSAdADQVVfeXFMTzNQUWF2ZUxnSWpkNWpLTjdUX1NXRlhXS0tXUzFYaWZVWDRqNmgtX3lXcWRnTlBGbnFRWk5sU250Z1pXV09zY3VfUzFkMEpycUNuQ0Y3ZnJScXB1ZVlkUG9KOG5kWjBzMEZNRWZDOFRmSDBWODc2b1ByclRkLWRjTzNZdXJqQ0xQVlBGcERsbXFUNzBpQjhCV2VNd04yN0tMWmNJZEZzNmxYbVhRYU5UcmFhSDM4WDY0M3VwaGsydUJaOWNFZk9xaUxVQlJWUnZjc3JBSVlVV0tMSkZfRjlZTDhVSU4wODVpbHRJNEY0X2lvTG1Sdy1oTXVCMFd6bnRzWjE2b0NYbUtaVVIxenJQTVVTcXI0WGhDdjd1X1VoQXN6Vm1CZmt5a1dWQnktQ1ZWN0loWWUtUkZiTWs4MUpUTXFvTjJjcjhWVnpieUlWQXJOVXFBOHM4VEJXZy1VcUVRS2NRdTRXV3F1dkxUQWJrbGRZaFZ0WW1YbEJSUHM0YmtTUnN1bk1tdUpGSWF5LUEwUmVKTDlmZmtIWEdKS3Q0eEpqT2Y4R3VCSUFWR2ZBT2pZUjlSQ3NMSURjSVRkRXYxQy1DMDBUMkt5aHFVSTZXdUo?oc=5",
+    "fa": false,
+    "at": "2026-07-19T12:58+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
    },
    {
     "head": "الحرس الثوري يعترض سفينتين حاولتا عبور مضيق هرمز",
@@ -91,15 +139,14 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGExbVRKdlYyQm1PSk9Cb3pibjlFcl9GLWhIZ19aTFNsd3RLbjVmM2JPNVBqNnBMQXppUHptNldlVTZuc0o2c3NpY2FkMkY4M2s5Z1V5dHV3aFMtSHB2bXQxd0I3VzFwLTBOUmZUY2M1YzU4WDFlUFJjZzF6aVlwS3ZNOW9ub180ZmVGYkdIVzM0Sm1xdURjM0tOVEgzT0xhdmhoRHFVN2hfek4xRDkyaHpjRdIBvgFBVV95cUxQMUtoY25pNVRPN25jT2dJUGJaWGRyMDFETDBYTjBjYV9qdWFTeVB2THBDMkk1SWZyczB1M2xVS2Q5MWJxYVo4azBidGhkSmExbTVtWUxlQUlIS1hjYm1zc2JpLW0wWE94U0NGN0NHWi1veDlMcTA3S0ozcHdjX0xNa2dib2R2dzRjZm1qU0NlcUhvX083NnN3VEJQV3dBR2hqdGE0RzZTV3R0eFAwV2ZUbnNwY2lfV0w1ZllRVGdB?oc=5",
     "fa": false,
     "at": "2026-07-19T04:26+00:00",
-    "flag": "روجعت درجته",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 1,
-     "انتفاء العلة": 0
+     "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
     "head": "إدانات عربية متصاعدة للهجمات الإيرانية على دول المنطقة",
@@ -118,7 +165,24 @@
     "score": 3
    },
    {
-    "head": "عراقجي: الاطلاع على اجتماعات القادة ثغرة أمنية ربما لا تزال قائمة",
+    "head": "هجوم صاروخي على ضواحي آبادان و«اعتراض» صواريخ إيران قرب إسرائيل في الأردن",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.co.uk/persian/live/c7vg62731llt?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "عراقتشي: العلم باجتماعات القادة ثغرة أمنية ربما لا تزال قائمة",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.com/persian/articles/c7vg3d2m96yo?at_medium=RSS&at_campaign=rss",
@@ -135,7 +199,24 @@
     "score": 3
    },
    {
-    "head": "«غياب» مجتبى خامنئي؛ هل يمكن للجمهورية الإسلامية أن تحظى بقائد غائب؟",
+    "head": "قصة أول لقاء بين ميسي ولامين يامال؛ «معجزة من قلب القدر»",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.com/persian/articles/c0km85g6n3yo?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "2026-07-19T11:10+00:00",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "«غياب» مجتبى خامنئي؛ هل تستطيع الجمهورية الإسلامية أن يكون لها قائد غائب؟",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.com/persian/articles/cdx8lykq99no?at_medium=RSS&at_campaign=rss",
@@ -152,7 +233,7 @@
     "score": 3
    },
    {
-    "head": "رسالة مكتوبة منسوبة إلى مجتبى خامنئي: توقيع ترامب بلا قيمة",
+    "head": "رسالة مكتوبة منسوبة إلى مجتبى خامنئي: توقيع ترامب لا قيمة له",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
     "link": "https://www.bbc.com/persian/articles/cdj0evyxevlo?at_medium=RSS&at_campaign=rss",
@@ -169,7 +250,7 @@
     "score": 4
    },
    {
-    "head": "عراقجي: الثغرة الأمنية التي أدت إلى مقتل قادة النظام لم تُعالج بعد",
+    "head": "عراقتشي: الثغرة الأمنية التي أدت إلى مقتل قادة النظام لم تُسد بعد",
     "src": "إيران إنترناشونال",
     "grade": "ضعيف الإسناد",
     "link": "https://www.iranintl.com/202607193941",
@@ -186,7 +267,58 @@
     "score": 2
    },
    {
-    "head": "سماع دوي انفجار في آبادان",
+    "head": "شهبانو فرح بهلوي: أكبر الخاسرين في الـ47 عاماً الماضية هم الشعب الإيراني",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202607193180",
+    "fa": true,
+    "at": "2026-07-19T15:09+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "اعتراف مهدي تاج: أرسلنا رسائل إلى جميع أندية كرة القدم بضرورة إقامة مواكب في التجمعات",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202607191836",
+    "fa": true,
+    "at": "2026-07-19T14:45+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "منظمة حماية البيئة: الأراضي التي ظهرت بسبب انحسار بحر قزوين ملك للدولة",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202607193613",
+    "fa": true,
+    "at": "2026-07-19T14:06+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "سماع أصوات انفجارات في آبادان",
     "src": "إيران إنترناشونال",
     "grade": "ضعيف الإسناد",
     "link": "https://www.iranintl.com/202607194118",
@@ -201,6 +333,23 @@
      "انتفاء العلة": 1
     },
     "score": 2
+   },
+   {
+    "head": "القوات المسلحة الأردنية: تم اعتراض ثلاثة صواريخ أُطلقت من إيران",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202607191497",
+    "fa": true,
+    "at": "2026-07-19T13:30+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
    }
   ],
   "فلسطين": [
@@ -291,15 +440,14 @@
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pT0FkZk44dVpkSmZDUC1lTGwyUEZRWXN3bEFiWmlVRVNQakV2eENlaHItTHNQQ1hfbmlxRWV2TW9PNzFFTk1fTmg3TjJBQzZILUJsamdVOTM0Q1ZK0gFiQVVfeXFMUFMxclRjSlJ5LTI1d1dKWWwxaU1yNWtPRWg2RV9waHM0TlR5VzdVTXMyRFdqdGxpVzdPZXNxaWVVVUhkMnFjLWJrN3FFNFZWT2RYa3FaMXBoeEc3NkZzckdsM1E?oc=5",
     "fa": false,
     "at": "2026-07-19T15:33+00:00",
-    "flag": "روجعت درجته",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 1,
      "عدم الشذوذ": 1,
-     "انتفاء العلة": 0
+     "انتفاء العلة": 1
     },
-    "score": 4
+    "score": 5
    }
   ],
   "تقنية": [
@@ -480,7 +628,41 @@
     "score": 4
    },
    {
-    "head": "نماذج أحدث، الميزة نفسها",
+    "head": "العنزي: لإعداد دراسة مرورية لمدينة جابر الأحمد السكنية",
+    "src": "جريدة القبس",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMizANBVV95cUxOWHQ2LVlxM21BeHlNbXZxU2w5QVVLX0ExR1pEV1ZFVHpFcmZCamN6SmJJckhkOGJxemZyeFVKZ2pIaXgzZExaWkVZdVhWSTF3aEFaUXBaX0FOTWtOcU1wM0ZGZWJKYWFfVFhUUEE1Qm9mNmhPSDNPcTQ2NHROeHlTZGFNQkJlUlBNNU1mcnhEdF9FUVBZRG4zYnM5eEg2aWZNTVFlMVBmdzhfMk96bFZmQWdnY1JXVTVsajFHT2V0ZXJodVQyOUNKNWwwUkdacWZBajdqeGFqTURURHhRQmhEb0dMSVpFSzRoeTNkZExkTU1oRmRibHRJQzdqTzQzVEprZVRpM2l1WVdoaXprZHdDbzAwaHFTUHI2QWtlYU11dGtqbG14RTBQc1NObW4wWXFFMVV2d2lLSWR0X0RSNnRaclplMk5ad1NWUGhBeXNVLU1ZY0dzQnZUd3p4Skg4OXF3aWkyWDNSaGJ6VXZoYTFpRHpOd3BlYjYyVDhnVVlHOVJKMzFLdzVYbVFTY2NiTlJ3MEJJTTZpS3Jwd1FqelBmWXdSZktBWWs2RW9mQ1lWZ1ZtS1h3bmRFQzZ2RU1ZcGY2WDNYSGlOSTJNeVph?oc=5",
+    "fa": false,
+    "at": "2026-07-15T18:51+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "ضبط دقيق لنماذج الفيديو والصور على نطاق واسع باستخدام NVIDIA NeMo Automodel و 🤗 Diffusers",
+    "src": "هَغِنغ فيس",
+    "grade": "حسن",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "fa": false,
+    "at": "2026-07-17T15:57+00:00",
+    "en": true,
+    "via": "منصّة النماذج المفتوحة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "نماذج أحدث، الميزة ذاتها",
     "src": "هَغِنغ فيس",
     "grade": "ضعيف الإسناد",
     "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
@@ -588,6 +770,24 @@
     "score": 3
    },
    {
+    "head": "لماذا يستحق المراهقون الوصول إلى ذكاء اصطناعي آمن",
+    "src": "أوبن إيه آي",
+    "grade": "حسن",
+    "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "fa": false,
+    "at": "2026-07-16T16:00+00:00",
+    "en": true,
+    "via": "مختبر أبحاث",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
     "head": "كيف تقوم Cars24 بتوسيع نطاق المحادثات والبناء بشكل أسرع باستخدام OpenAI",
     "src": "أوبن إيه آي",
     "grade": "حسن",
@@ -600,10 +800,10 @@
      "الاتصال": 1,
      "عدالة المصدر": 0,
      "الضبط": 1,
-     "عدم الشذوذ": 0,
+     "عدم الشذوذ": 1,
      "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
     "head": "الولايات المتحدة تعزز سلامة الذكاء الاصطناعي من خلال إجراءات الولاية والإجراءات الفيدرالية",
@@ -696,6 +896,24 @@
     "score": 2
    },
    {
+    "head": "أعلنت Google DeepMind و A24 عن شراكة بحثية هي الأولى من نوعها",
+    "src": "ديب مايند",
+    "grade": "حسن",
+    "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "fa": false,
+    "at": "2026-07-03T14:25+00:00",
+    "en": true,
+    "via": "مختبر أبحاث — غوغل",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
     "head": "ابدأ البناء باستخدام Nano Banana 2 Lite و Gemini Omni Flash",
     "src": "ديب مايند",
     "grade": "حسن",
@@ -768,6 +986,24 @@
     "score": 2
    },
    {
+    "head": "إنشاء مقاطع الفيديو وتعديلها والبطولة فيها من خلال تحديثين لـ Google Vids",
+    "src": "مدونة غوغل",
+    "grade": "ضعيف الإسناد",
+    "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "fa": false,
+    "at": "2026-07-16T16:00+00:00",
+    "en": true,
+    "via": "شركة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
     "head": "الاحتفال بمرور 25 عاماً على ابتكار البحث المرئي",
     "src": "مدونة غوغل",
     "grade": "حسن",
@@ -786,7 +1022,7 @@
     "score": 3
    },
    {
-    "head": "توسيع نطاق الوكلاء المدارين في Gemini API: المهام الخلفية، و MCP البعيد والمزيد",
+    "head": "توسيع نطاق الوكلاء المدارين في Gemini API: المهام الخلفية، و MCP عن بعد، والمزيد",
     "src": "مدونة غوغل",
     "grade": "حسن",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
@@ -822,7 +1058,7 @@
     "score": 4
    },
    {
-    "head": "اجتمع معلمو مدينة نيويورك وقادة الصناعة في مكاتب Google لتشكيل مستقبل الذكاء الاصطناعي في الفصول الدراسية.",
+    "head": "اجتمع المعلمون وقادة الصناعة في مدينة نيويورك في مكاتب Google لتشكيل مستقبل الذكاء الاصطناعي في الفصول الدراسية.",
     "src": "مدونة غوغل",
     "grade": "حسن",
     "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
@@ -856,6 +1092,54 @@
      "انتفاء العلة": 1
     },
     "score": 4
+   },
+   {
+    "head": "ذكاء اصطناعي.. كيمي كا3 الصيني ينافس أوبن أيه.آي وأنثروبيك",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNLWhST1gxR1F4T2VTQWpCa3VjNmNQMXVwY0FNUWFwdk12ckszUENrZGYyN0FwQklQdHhCOG5vNnptTUwxVF9Sbk00VmxSTHRFRlV0VVNGR3pldnZncmpRUjZmUXd0RmJhZW1CQ21RQ1N3SlpfUVB3cVA3aVhpTG1aSTY3blJhREFJREdvQUhkS1pmV0dxSFpsU1hNT2V1bXNGaU1HM1YwWE5yRnpSVlRqOHlrZEtLSFZlSUpvVHdBX0JmbDVqNHA5Z05zeDl0WmZJY1NBVk1CWWJZT0FEOUhmS2tqTjJOZ1o0WTRZR0tnSnNoNnBrRzdUNWQ0eU5rMnI4YzFhYXhQXzZGaVZjRFJBalYxZm16bGFFMmZJOW0ta3dRNjRtRFhYSUY2aDBCX2lGTFpmS0paQkRXb0VVWGM0TUtndXFuekFWVkNLeXE5WUo1alI5Rzd2RGhhdk1ab1VXbWlZLW9hcl9WRkNjNk5zd1NGU2R2SnFaSmhvT2M2QWRxMFFaQmdrQWZhRW9GYnJESU5qaWhkM3JUYTljSXlSTk1QcXZnUWkzSjd0dnVhWmktS3FPaWVVdnBCaEpvdDlLMTBGTDRZcndWSUpwN0hnV2NMcEVSdV9kTTZB0gHgA0FVX3lxTE1ka3FmYXFTUVFLblVFVlY4X3E2MExrOTBQT1F6WXdrSXp0ZDlHaE45cktPRFJMUUwxMDd0Wm5RZUZMTk03V1hMZHVEcDVEM0VHcGFTLWZtSEJSOTJ6dHFVRVQwQ1RNQ3ZyVUY3aEw5M0hZZlVFZE1ZTGZuZHQ3ampMUmRDaElXeEloWDJwY3BYS05iSkRraHljcFlVMnlnR0NJYzRPaUY0MTNYX2lBVkkwOXAtN0RkTkFoTlhlVGYtbW5SWThYYXNKX1JfTkRQRXVJZnBKa2trYURSQnJ5N3VZdVlHSS11ajdLLTZIUnE0TTVkSXI5SXpBOTlrZlRHWlpGRVc0WXdncF9tbVNCWWEtbmpsYmR0NVZ2VHM1RE1VSk9udW5MVl9QakJWa0RteXNJTnB5dzJpUWpEQ1J3OXZSN3RLamQ3RUJTN09BdUs3WTNRbi1YM0NVdGVJZWxJS1NPbjV0NnR2T183anQzZVM1dzlnT1ZGTnNVaWRJeTVDTDJoaU5YZjlkS1V1U25nZzlfMjAzUjVHZHlodW5xQW85VUlTWkgtZ2lkSG9PYWdNbkpwd0lmMmQ5ckFKdUQxWmNzYWZfdTVHMGlaTnFFTWd6b2JsN0pqS0tHejlhVnJzbg?oc=5",
+    "fa": false,
+    "at": "2026-07-19T05:49+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 5
+   },
+   {
+    "head": "ارتفاع مفاجئ للدولار في مصر.. مستوى 51 جنيهاً يعود من جديد",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNUE01VmtqTE1uT3NUVl9FUWdKYnlqZXVlZmZqbHg3THBYVGZ0b240dnN6MEpIUWs1bVVvb2RFdDRtbzRqeG5FQnhxNXVLbTlEbkI5cmV0RVVsWTVfQk5uSG1SczVSdEdDTm1KVjdLZGhreVBQQWx6STRTRnRQZVFqLWUtcTlXSjRvY0JTT08wd2RQZUVmdG9WWk9HWVRuSG02S0V5QzE5eTBxZURJWGthNW1MS3hONUpuNnhFaWZkSlJuaU50Sm5MRHRqZnlnOHowLVpDRkFfd3ZWSHNMX2M0R1VfOFlqR2hxOTB1aFhSR3I5M3hfNEFudXdENENjRm1kU2ZiMEdJa0tHNlQ2cUQxUGRjVVd5c2VJaFhRWFo1Tl8xVThpOVI3czFuYjBDTkc2SlA1a3hOQzFfLTctSDZjZW5rcXlUUlgtenJ2VzI1eGtQU2dEVVZ6OVloNmt0TEJpMmg4ZFNpVFo0WVBOUHMtV01zYzZFd2ZQTWl0dlFUb0JvTHAxcXRRcm9GM2hMOWVIQ3B0NGwtOUNzSjJ0S0FFTWhDRE96SGxyaDRndG9PcUhQblNTcFhXQU1DUGFkLTFRZXJKWmR3SkxYU2kzZXRHSTVBa9IB2ANBVV95cUxONVVfeTluNWRrZUZwSXhpOFhraHVRTFVUV00ySDdIbk81cjNvell1T0oydGYwbW96dlJZYXVlVklsUjEwMnNRQS1UdUtUbGVTcm9kbDczTTI3WlhaTHhvbFhudnR1aWJMSllJV3BFcE5XRjFPMXNVcXpGck8wa0YwbmxzbzgxZ01VVkNtS0RPaE1DSVdkRG93ZGRJVHVXeTJuaFJVQmt1M2w1ckNhUE1SbWQ4Y2ltdEc1eW1qZlhLdFNiUktmRVBkSXlRVEJDVGduSzBCTnNKVlNvTUFsV0YyRk5kWGJ0ZTVfTzNPZHZ0LV9VbURzd0thRnlUVzFFQzg3cDBoYTU5SkV5SHM5LU9mQnZqRlRsS2pwXzhXdmVfZ05RcVhVdU1mbktBa1I0UVhVMWtFc3p1d1dCN3ozX3JxNXNWX1F2U2czbkg4WERVc0EyOE1PS2tqRHhvdnRiQ2tvVTNtdVVqT0dfM0ozM2JfY193UkxRQkp4OFMzTTlXWGczUzNmRkdFaXgwRkJHa1V1WXQzUGhnRXNrN0tRc0c5V3puaElRQ1QzcjFvanIwb3hNVFJQSGZSa2JHeFFFY0VpR3A3YmJLdkRYQnZvSGRPdmVkdW1NeHo1?oc=5",
+    "fa": false,
+    "at": "2026-07-19T08:09+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "بعد تقلبات الذهب.. روبرت كيوساكي يعلن موقفه ويهاجم البنوك المركزية",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNRDNNMTFRQjFEU0ZsZ2t2OTFzekF5ZUszdVdqekVuNDY0RXBlTGo3d0FxQW1JMXU2dVVJRGpEcHBBb2tvUVc0SUxUbWlHQkhGcDlQZVJldFI4UEREVFhVSVppWU1LU0VHa18yM0xDem9KZ1h6UzMyeVRiaVlFZ2JOSllCLWpGTWRXZFRrRjk3WHUxNUNYc3oxZnJzYW9jNC1pclMzUkl2UEo4RXd0QUxhVkxWalZxWmVFbWRxMmNuUUtjMF9PbG9DZHJlRU90SldscFNDeXRXRGpNZnpzNllrWlF1RVl0enJYYTAzcV9VWWgyVnZMZWE5UExXQzhtUkdZSWViN2RnRXoyYnZoS1RCcXBueHZCMWNJcE5uaS05UVdVWGdWazVrZlZ1ZzN2OXl1eE9lSjdtdEh0bzMwUHdQNi12MjBQUXZ0RGlrVlprajNqMFZlcEZhaF9kb1QxUXRkQUQwUXd5QzNlaVVaanNVclBQYi0wdURyNDhlV2p3c01RN19TNS11enhDMzdfN21aV0tLeGd0U1ZmenRZU3laNmtyUkxOREV4cXVxeF9BQndsdWM5TG9lZUk5MWU1bG1ldmV1Ylc2STJRTGxrLUUwbnB6dkVzdUk3WlY3SGVqNktpMmtvT2xvbTZvSHgyNUVIOVJVcU1hNlY4TDZWUXM0d2QxZHdnb0ZqZFZ5MU1zTllQOFc1M1A0VHAzY0FVa2VkYlZRdHI3WVM3QW1CVWkw0gG0BEFVX3lxTFBuUnlvalhsa0l4R1NKWnJMRGRmaVlyQUx2RllaTXB4emgwV3R5RzdUWXVnUFJsWmgtelp4VHA3bDg3SzRiaV9ZOUF2ZDNTR0tERFN6NEY2WUtrWVVrX013b3FnT284ZGpicjl6ZTlxMExyQVZEbUppU3JuTXBCdE10dTVFU05xSzB4MW9oNGgtSVRFZ0ZoSmswS0kyVlpyOGo3V1dlTXZ4YV9sTW5yckM2M3p4ZzByM2FTeE5MUnZjbmlndDQzM29ldC1NUTlMNXcwcjNWSXRtdUJhNk5LbDJzR2JJV1lxNGNpcVpKTmdDbFRoWFB6cXN6bnNUd1dPaGZmN21oQWFrQkRhdTFkLXdZdjgzMHdOU0dtOV9ydXVtaEpaUGI2OC14ZDdCMnNWMThDTG1ISEFuRU9ocEU5Z25EOC1Hak5iSXdSRzVtTG1NRklic3hzVjVJVS1ROWZrOFRmTnQweklZOWJfYlVXT0pONm5jWDR2N3dwb1kxZ1FpU0VYYVJMb09yMTBTN1g1bzVBelY1Z0hDb3U4elNobWZabDJ5dlJXSUNidG9wXy1qVm1jZktCSDdCYU5oU251UHY0MWxPY2FQMW0xWEFZOXB0VEtrRGJ2cVRUSmZnbFEtMHBzYmhMOTZTSnM5VjZaUEF6bVJZTlpyeWRxQThVcWdwZW1rQ1BTbkE1NHVLWlllVC16MHVSTFlCcWdmUVgtejR6UWxzT1pjbFNncEtrbTJHcWhlMA?oc=5",
+    "fa": false,
+    "at": "2026-07-19T04:29+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
    },
    {
     "head": "الصين على وشك إزالة أكبر صمام أمان لأسعار النفط.. هذا ما ستفعله!",
@@ -928,7 +1212,7 @@
    {
     "head": "صفارات الإنذار تدوي في الكويت والدفاعات تعترض صواريخ ومسيّرات إيرانية تستهدف قواعد أمريكية",
     "src": "AJEnglish",
-    "grade": "ضعيف الإسناد",
+    "grade": "حسن",
     "link": "https://x.com/AJEnglish/status/2078746188946235851",
     "fa": false,
     "x": true,
@@ -937,10 +1221,10 @@
      "الاتصال": 1,
      "عدالة المصدر": 0,
      "الضبط": 0,
-     "عدم الشذوذ": 0,
+     "عدم الشذوذ": 1,
      "انتفاء العلة": 1
     },
-    "score": 2
+    "score": 3
    },
    {
     "head": "ترامب يدعو الجمهوريين لإضافة إيران إلى مشروع قانون متعلق بروسيا",
@@ -960,5 +1244,392 @@
     "score": 5
    }
   ]
+ },
+ "intel": {
+  "war": "حرب إيران 2026",
+  "since": "2026-02-28",
+  "toll": [
+   {
+    "c": "إيران",
+    "f": "🇮🇷",
+    "d": "3503",
+    "w": "26500",
+    "dmg": "تدمير منشآت عسكرية ونووية وجسور وبنى تحتية ومدارس ومصانع تحلية",
+    "e": "أضرار مباشرة بمئات المليارات وإغلاق هرمز وانهيار صادرات النفط",
+    "src": "وزارة الصحة الإيرانية وHRANA",
+    "u": "https://en.wikipedia.org/wiki/2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "الولايات المتحدة",
+    "f": "🇺🇸",
+    "d": "20",
+    "w": "582",
+    "dmg": "أضرار في قواعد ومنظومات رادار وطائرات وتدمير أو تعطيل سفن",
+    "e": "تكاليف عمليات تتجاوز 113 مليار دولار حتى يونيو",
+    "src": "القيادة المركزية الأمريكية والبتاغون",
+    "u": "https://en.wikipedia.org/wiki/2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "الكويت",
+    "f": "🇰🇼",
+    "d": "11",
+    "w": "187",
+    "dmg": "هجمات على قواعد أمريكية ومنشآت نفط ومحطات كهرباء وتحلية",
+    "e": "أضرار في منشآت نفطية وتعطل جزئي للصادرات",
+    "src": "تقارير رسمية كويتية مجمعة",
+    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "السعودية",
+    "f": "🇸🇦",
+    "d": "3",
+    "w": "23",
+    "dmg": "هجمات على قواعد ومنشآت واعتراض صواريخ ومسيّرات",
+    "e": "ارتفاع أسعار النفط جزئيا يعوض بعض خسائر التصدير عبر هرمز",
+    "src": "تقارير سعودية رسمية",
+    "u": "https://en.wikipedia.org/wiki/2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "الإمارات",
+    "f": "🇦🇪",
+    "d": "15",
+    "w": "246",
+    "dmg": "هجمات على مطارات وقواعد ومنشآت مدنية وعسكرية",
+    "e": "خسائر في الإيرادات النفطية والسياحة والطيران",
+    "src": "وزارة الدفاع الإماراتية وتقارير رسمية",
+    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "قطر",
+    "f": "🇶🇦",
+    "d": "18",
+    "w": "91",
+    "dmg": "هجمات على قواعد أمريكية ومنشآت غاز",
+    "e": "أضرار في مرافق الغاز المسال وتعطل صادرات",
+    "src": "تقدير مجمع من تقارير",
+    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "البحرين",
+    "f": "🇧🇭",
+    "d": "2",
+    "w": "51",
+    "dmg": "هجمات على الأسطول الخامس ومنشآت نفط وتحلية وسكنية",
+    "e": "أضرار محدودة في ناقلات ومنشآت",
+    "src": "وزارة الداخلية البحرينية",
+    "u": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Bahrain",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "عُمان",
+    "f": "🇴🇲",
+    "d": "19",
+    "w": "26",
+    "dmg": "هجمات صاروخية ومسيّرات وتأثير على الملاحة في هرمز",
+    "e": "تأثر جزئي بالصادرات النفطية غير المعتمدة كليا على هرمز",
+    "src": "تقدير مجمع من تقارير",
+    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
+    "asof": "2026-07-19"
+   },
+   {
+    "c": "العراق",
+    "f": "🇮🇶",
+    "d": "128",
+    "w": "387",
+    "dmg": "ضربات على فصائل مدعومة إيرانيا وقواعد وانهيار طائرة أمريكية",
+    "e": "اضطرابات أمنية وتأثر partial بالنفط",
+    "src": "تقارير محلية ودولية مجمعة",
+    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
+    "asof": "2026-07-19"
+   }
+  ],
+  "brk": [
+   {
+    "h": "الولايات المتحدة تجدد ضرباتها على إيران بعد مقتل جنديين أمريكيين في هجوم إيراني على الأردن",
+    "s": "Reuters",
+    "u": "https://x.com/Reuters/status/2078819645746975026"
+   },
+   {
+    "h": "الحرس الثوري الإيراني يعلن إسقاط طائرة مسيرة أمريكية MQ-9 فوق الأهواز",
+    "s": "AJEnglish",
+    "u": "https://x.com/AJEnglish/status/2078804979544961145"
+   },
+   {
+    "h": "صفارات الإنذار تدوي في الكويت والدفاعات تعترض صواريخ ومسيّرات إيرانية تستهدف قواعد أمريكية",
+    "s": "AJEnglish",
+    "u": "https://x.com/AJEnglish/status/2078746188946235851"
+   },
+   {
+    "h": "ترامب يدعو الجمهوريين لإضافة إيران إلى مشروع قانون متعلق بروسيا",
+    "s": "Reuters",
+    "u": "https://x.com/Reuters/status/2078819643750334941"
+   }
+  ],
+  "updated": "2026-07-19T12:41+00:00"
+ },
+ "forecast": {
+  "horizon": "الـ12 ساعة القادمة",
+  "signals": [
+   {
+    "q": "سنواصل الرد على التهديدات الإيرانية لحماية مصالحنا وحلفائنا",
+    "who": "ترامب",
+    "w": "عالٍ"
+   },
+   {
+    "q": "الهجمات الإيرانية على منشآت خليجية غير مقبولة وستواجه عواقب",
+    "who": "البيت الأبيض",
+    "w": "عالٍ"
+   },
+   {
+    "q": "سنستهدف أي تحركات أمريكية أو خليجية في المنطقة",
+    "who": "مسؤول إيراني",
+    "w": "متوسط"
+   }
+  ],
+  "scenarios": [
+   {
+    "s": "تصعيد متبادل محدود مستمر بضربات أمريكية إضافية على مواقع إيرانية ورد إيراني على مرافق خليجية",
+    "p": 65,
+    "why": "يتوافق مع الوقائع الحالية من هجمات على الكويت والبحرين واعتراضات أردنية وسابقة 2019-2020 حيث بقي التصعيد محصورا دون حرب شاملة",
+    "watch": "استمرار قصف بنى تحتية خليجية أو ضربات أمريكية جديدة على إيران"
+   },
+   {
+    "s": "محاولة احتواء جزئي عبر قنوات خلفية مع رسائل تهدئة خليجية واستمرار ضربات رمزية محدودة",
+    "p": 25,
+    "why": "يدعمه إدانات عربية وتصريحات ترامب السابقة بتجنب الحرب الشاملة كما في 2020 بعد قتل سليماني",
+    "watch": "بيانات سعودية أو إماراتية تدعو للتهدئة أو وقف إطلاق نار مؤقت"
+   },
+   {
+    "s": "توسع أوسع يشمل استهداف أعمق لمضيق هرمز أو بنى حيوية إضافية مع ارتفاع ملحوظ في الإصابات",
+    "p": 10,
+    "why": "مدعوم بتدخل الحرس الثوري في هرمز لكن السوابق التاريخية مثل حرب الناقلات تظهر تجنب الإغلاق الكامل خشية رد دولي واسع",
+    "watch": "إغلاق فعلي لمضيق هرمز أو قفزة كبيرة في الحصيلة"
+   }
+  ],
+  "review": [
+   {
+    "s": "(60%) تصعيد متبادل محدود مستمر بضربات أمريكية إضافية على مواقع إيرانية ورد إيراني على مرافق خليجية",
+    "r": "وقع",
+    "note": "استمرت الهجمات الإيرانية على الكويت والبحرين مع رد أمريكي واعتراضات في الأردن"
+   },
+   {
+    "s": "(25%) محاولة احتواء جزئي عبر قنوات خلفية مع رسائل تهدئة خليجية واستمرار ضربات رمزية محدودة",
+    "r": "لم يقع",
+    "note": "لا توجد مؤشرات على قنوات خلفية أو تهدئة حتى الآن"
+   },
+   {
+    "s": "(15%) توسع أوسع يشمل استهداف أعمق لمضيق هرمز أو بنى حيوية إضافية مع ارتفاع ملحوظ في الإصابات",
+    "r": "جزئيًا",
+    "note": "تدخل الحرس في هرمز حدث لكنه محدود ولم ترتفع الإصابات بشكل كبير بعد"
+   }
+  ],
+  "caveat": "تحذير صريح بأن هذا استقراء احتمالي لا يقين",
+  "history": [
+   {
+    "t": "2026-07-18T15:04+00:00",
+    "s": "تصعيد متبادل محدود يستهدف بنى تحتية خليجية إضافية ورد أمريكي بموجات ضر",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-07-18T15:04+00:00",
+    "s": "محاولة احتواء عبر قنوات خلفية أو تهدئة مؤقتة مع استمرار ضربات محدودة",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-18T15:04+00:00",
+    "s": "توسع سريع يشمل قواعد أمريكية أخرى أو مضيق هرمز بشكل أوسع مع إصابات أعل",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-07-18T18:02+00:00",
+    "s": "تصعيد متبادل محدود يستمر باستهداف بنى تحتية خليجية إضافية وموجات ضربات",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-07-18T18:02+00:00",
+    "s": "محاولة احتواء جزئي عبر قنوات خلفية أو رسائل تهدئة مع استمرار ضربات محد",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-07-18T18:02+00:00",
+    "s": "توسع أوسع يشمل مضيق هرمز بشكل أكمل أو قواعد أمريكية إضافية وارتفاعا في",
+    "r": "جزئيًا"
+   },
+   {
+    "t": "2026-07-18T22:06+00:00",
+    "s": "تصعيد متبادل محدود مستمر بموجات ضربات أمريكية جديدة على مواقع إيرانية ",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-07-18T22:06+00:00",
+    "s": "محاولة احتواء جزئي عبر قنوات خلفية ورسائل تهدئة خليجية مع استمرار ضربا",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-18T22:06+00:00",
+    "s": "توسع أوسع يشمل استهداف أعمق لمضيق هرمز أو بنى حيوية إضافية وارتفاعا مل",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-19T07:59+00:00",
+    "s": "تصعيد متبادل محدود مستمر",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-07-19T07:59+00:00",
+    "s": "محاولة احتواء جزئي",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-19T07:59+00:00",
+    "s": "توسع أوسع",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-19T12:41+00:00",
+    "s": "(60%) تصعيد متبادل محدود مستمر بضربات أمريكية إضافية على مواقع إيرانية",
+    "r": "وقع"
+   },
+   {
+    "t": "2026-07-19T12:41+00:00",
+    "s": "(25%) محاولة احتواء جزئي عبر قنوات خلفية مع رسائل تهدئة خليجية واستمرا",
+    "r": "لم يقع"
+   },
+   {
+    "t": "2026-07-19T12:41+00:00",
+    "s": "(15%) توسع أوسع يشمل استهداف أعمق لمضيق هرمز أو بنى حيوية إضافية مع ار",
+    "r": "جزئيًا"
+   }
+  ],
+  "score": {
+   "n": 15,
+   "hit": 5,
+   "partial": 4,
+   "acc": 47
+  },
+  "updated": "2026-07-19T16:17+00:00"
+ },
+ "council": {
+  "checked": 43,
+  "flags": [
+   {
+    "h": "إيران تستهدف الكويت والبحرين وأمريكا ترد على مقتل جنودها بالأردن",
+    "issue": "إقحام الأردن وهو دولة غير مشاركة في الأزمة بالمخالفة للحصيلة الرسمية",
+    "action": "حُذف"
+   },
+   {
+    "h": "داخلية السعودية تعلن إعدام مصري وتكشف عن اسمه وجريمته",
+    "issue": "خبر جنائي وقضائي محلي لا يرتبط بالأزمة العسكرية الجارية",
+    "action": "حُذف"
+   },
+   {
+    "h": "مسؤول سابق: انكماش اقتصاد الكويت مؤقت ومرتبط بإغلاق هرمز",
+    "issue": "الخبر في القسم الخطأ حيث يخص قسم الاقتصاد لا إيران",
+    "action": "خُفّض"
+   },
+   {
+    "h": "الكويت: تعرُّض محطة ثانية لتوليد الكهرباء لهجوم إيراني",
+    "issue": "الخبر في القسم الخطأ حيث يخص قسم الخليج لا إيران",
+    "action": "خُفّض"
+   },
+   {
+    "h": "الأردن يكذّب بيان سفارة أميركا بشأن إخلاء مطار وميناء العقبة",
+    "issue": "إدراج الأردن كدولة مواجهة عسكرية ومشاركة بالاعتراض بالمخالفة للحصيلة",
+    "action": "حُذف"
+   },
+   {
+    "h": "عرفان إسفندياري وگل‌محمد محمدي من معتقلي احتجاجات دي يُعدمون في إيران",
+    "issue": "خبر قضائي وجنائي محلي لا يرتبط مباشرة بالعمليات العسكرية الجارية",
+    "action": "حُذف"
+   },
+   {
+    "h": "قصة أول لقاء بين ميسي ولامين يامال: «معجزة من قلب القدر»",
+    "issue": "خبر رياضي ومشاهير يقع تماماً خارج نطاق واهتمامات المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "«غياب» مجتبى خامنئي.. هل تستطيع الجمهورية الإسلامية قيادة غائبة؟",
+    "issue": "مادة تحليلية وتكهنات سياسية لا تغطي أحداثاً أمنية أو عسكرية آنية",
+    "action": "حُذف"
+   },
+   {
+    "h": "اعتقال مدرب استقلال التركي في مطار طهران لحمله نقوداً نقدية",
+    "issue": "خبر محلي ورياضي يقع خارج اهتمامات المنصة كلياً",
+    "action": "حُذف"
+   },
+   {
+    "h": "محمد أميني دهقاني تعرض للتعذيب وأُجبر على الاعتراف قبل إعدامه",
+    "issue": "موضوع حقوقي وقضائي محلي غير مرتبط بالأحداث العسكرية الجارية",
+    "action": "حُذف"
+   },
+   {
+    "h": "الجمهورية الإسلامية تعدم عرفان إسفندياري وگل‌محمد محمدي من معترضي دي",
+    "issue": "خبر قضائي محلي وتكرار لخبر إعدام معتقلي الاحتجاجات",
+    "action": "حُذف"
+   },
+   {
+    "h": "عباس عراقجي: قصف البيت تم عبر ثغرة أمنية وهذه الثغرة لا تزال موجودة",
+    "issue": "صياغة غير دقيقة وتكرار لنفس تصريحات عراقجي حول الثغرة الأمنية",
+    "action": "حُذف"
+   },
+   {
+    "h": "ترامب، وليس إيران، هو الخطر الأكبر على العالم – مقال في الغارديان",
+    "issue": "مقال رأي وتحليل سياسي عام لا يعنى بالأحداث الأمنية الجارية",
+    "action": "حُذف"
+   },
+   {
+    "h": "هل يقود الذكاء الاصطناعي أوراكل إلى حافة التصنيف الرديء؟",
+    "issue": "تقرير تقني وتجاري عام يقع خارج نطاق الأزمة الجيوسياسية للمنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "تعيد إحياء أفضل أهداف بيليه بالذكاء الاصطناعي.. لم تلتقطه الكاميرات قبل 67 عامًا",
+    "issue": "خبر رياضي وتقني استهلاكي خارج دائرة اهتمام المنصة كلياً",
+    "action": "حُذف"
+   },
+   {
+    "h": "ذكاء اصطناعي.. كيمي كا3 الصيني ينافس أوبن أيه.آي وأنثروبيك",
+    "issue": "مادة تقنية تجارية عامة لا تمت بصلة للأزمة الأمنية والجيوسياسية",
+    "action": "حُذف"
+   },
+   {
+    "h": "لا يُصلح الذكاء الاصطناعي ما أفسدته المؤسسة",
+    "issue": "مقال رأي وفلسفة تقنية عامة خارج صلب تغطية المنصة",
+    "action": "حُذف"
+   },
+   {
+    "h": "كيمي كيه 3.. سلاح صيني جديد في سباق الذكاء الاصطناعي العالمي",
+    "issue": "خبر تقني عام وتكرار لنفس موضوع النموذج الصيني خارج النطاق",
+    "action": "حُذف"
+   },
+   {
+    "h": "ليس الذكاء الاصطناعي.. مستثمر صيني يكشف نقطة ضعف بلاده في سباقها مع أميركا",
+    "issue": "تقرير تجاري وتقني عام لا يعنى بالقضايا الأمنية والعسكرية للأزمة",
+    "action": "حُذف"
+   },
+   {
+    "h": "الأخير يثير الجدل .. روبوت الدردشة يتصرف من تلقاء نفسه",
+    "issue": "أخبار تقنية استهلاكية خارج صلب تغطية المنصة بالإضافة لوجوده بالقسم الخطأ",
+    "action": "حُذف"
+   },
+   {
+    "h": "الولايات المتحدة تجدد ضرباتها على إيران بعد مقتل جنديين أمريكيين في هجوم إيراني على الأردن",
+    "issue": "مخالفة للحصيلة الرسمية بإدراج الأردن كدولة مواجهة عسكرية وموقع للاشتباك",
+    "action": "حُذف"
+   }
+  ],
+  "verdict": "تم تدقيق كافة المواد الإخبارية البالغ عددها ٤٣ مادة واستبعاد المخالفات وتصويب توجيه الأقسام بدقة تامة.",
+  "applied": {
+   "removed": 19,
+   "downgraded": 2
+  },
+  "rules_v": 15,
+  "updated": "2026-07-19T12:50+00:00"
  }
 }
