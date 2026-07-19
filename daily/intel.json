@@ -14,21 +14,27 @@
    "e": "غير معلن",
    "src": "وزارة الصحة الإيرانية وHRANA",
    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
-   "asof": "2026-04"
+   "asof": "2026-04",
+   "mil_q": "لم يُعثر على بيان رسمي بأرقام محددة عن صواريخ أو مسيرات استهدفت إيران واعترضتها",
+   "mil_u": ""
   },
   {
    "c": "الولايات المتحدة",
    "f": "🇺🇸",
    "d": "20",
    "w": "587",
-   "mis": "غير معلن",
-   "drn": "غير معلن",
-   "itc": "غير معلن",
+   "mis": "7",
+   "drn": "4",
+   "itc": "10",
    "dmg": "أضرار في قواعد عسكرية ورادارات وطائرات في المنطقة",
    "e": "29 مليار دولار على الأقل",
    "src": "البنتاغون",
    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
-   "asof": "2026-07"
+   "asof": "2026-07",
+   "mil_src": "U.S. Central Command",
+   "mil_h": "@CENTCOM",
+   "mil_q": "Iran fired seven ballistic missiles toward Kuwait and Bahrain hours after CENTCOM shot down four Iranian one-way attack drones Initial assessments indicate six of the missiles were intercepted",
+   "mil_u": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4510668/centcom-forces-defeat-missiles-drones-launched-by-iran/"
   },
   {
    "c": "الكويت",
@@ -36,55 +42,71 @@
    "d": "11",
    "w": "187",
    "mis": "178",
-   "drn": "154",
-   "itc": "غير معلن",
+   "drn": "32",
+   "itc": "32",
    "dmg": "أضرار في مطار ومرافق كهرباء وقواعد عسكرية",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03"
+   "asof": "2026-03",
+   "mil_src": "رئاسة الأركان العامة للجيش",
+   "mil_h": "@KuwaitArmyGHQ",
+   "mil_q": "رصدت منذ فجر اليوم عدد (32) طائرة مسيّرة معادية داخل المجال الجوي الكويتي وقد تم اعتراضها والتعامل معها",
+   "mil_u": "https://x.com/KuwaitArmyGHQ/status/2077830449292812521"
   },
   {
    "c": "السعودية",
    "f": "🇸🇦",
    "d": "17",
    "w": "23",
-   "mis": "3+",
+   "mis": "5",
    "drn": "83",
-   "itc": "غير معلن",
+   "itc": "5",
    "dmg": "استهداف مصافي وحقول نفط وقواعد مثل الأمير سلطان",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03"
+   "asof": "2026-03",
+   "mil_src": "وزارة الدفاع",
+   "mil_h": "@modgovksa",
+   "mil_q": "اعتراض وتدمير 5 صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية",
+   "mil_u": "https://x.com/modgovksa/status/2041627189708234968"
   },
   {
    "c": "الإمارات",
    "f": "🇦🇪",
    "d": "15",
    "w": "246",
-   "mis": "563",
-   "drn": "2256",
+   "mis": "580",
+   "drn": "2265",
    "itc": "غير معلن",
    "dmg": "أضرار في مطارات ومصانع ألمنيوم ومرافق غاز ومناطق سكنية",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03"
+   "asof": "2026-03",
+   "mil_src": "وزارة الدفاع",
+   "mil_h": "@modgovae",
+   "mil_q": "تعاملت الدفاعات الجوية الإماراتية مع 551 صاروخاً باليستياً و29 صاروخاً جوالاً و2265 طائرةً مسيّرة",
+   "mil_u": "https://x.com/modgovae/status/2053425526283575390"
   },
   {
    "c": "قطر",
    "f": "🇶🇦",
    "d": "18",
    "w": "91",
-   "mis": "101",
+   "mis": "7",
    "drn": "63",
-   "itc": "غير معلن",
+   "itc": "جميعها",
    "dmg": "أضرار في قاعدة العديد ومنشآت LNG وخزانات",
    "e": "خسارة سادس قدرة تصدير LNG بقيمة 20 مليار دولار سنويا",
    "src": "ويكيبيديا ورويترز",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03"
+   "asof": "2026-03",
+   "mil_src": "وزارة الدفاع القطرية",
+   "mil_h": "@MOD_Qatar",
+   "mil_q": "تعرض دولة قطر لهجوم بعدد (7) صواريخ باليستية وعدد من الطائرات المسيّرة ونجحت قواتنا المسلحة بالتصدي لجميع الصواريخ الباليستية والطائرات المسيّرة",
+   "mil_u": "https://x.com/MOD_Qatar/status/2041890095507136962"
   },
   {
    "c": "البحرين",
@@ -98,7 +120,9 @@
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03"
+   "asof": "2026-03",
+   "mil_q": "لم يُعثر على بيان رسمي بأرقام محددة",
+   "mil_u": ""
   },
   {
    "c": "عُمان",
@@ -112,7 +136,9 @@
    "e": "غير معلن",
    "src": "ويكيبيديا",
    "u": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Oman",
-   "asof": "2026-07"
+   "asof": "2026-07",
+   "mil_q": "لم يُعثر على بيان رسمي بأرقام محددة",
+   "mil_u": ""
   },
   {
    "c": "العراق",
@@ -120,13 +146,17 @@
    "d": "128",
    "w": "387",
    "mis": "20",
-   "drn": "40",
-   "itc": "غير معلن",
+   "drn": "1",
+   "itc": "1",
    "dmg": "استهداف قواعد ومواقع فصائل واستهدافات متبادلة",
    "e": "غير معلن",
    "src": "ويكيبيديا",
    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
-   "asof": "2026-07"
+   "asof": "2026-07",
+   "mil_src": "خلية الإعلام الأمني",
+   "mil_h": "",
+   "mil_q": "رصدنا طائرة مسيرة صغيرة فوق المنطقة الخضراء وتم التعامل معها دون أضرار",
+   "mil_u": ""
   }
  ],
  "brk": [
