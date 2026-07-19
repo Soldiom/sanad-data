@@ -18,70 +18,45 @@
    "f": "🇺🇸",
    "d": "20",
    "w": "587",
-   "mis": "7",
-   "drn": "4",
-   "itc": "10",
    "dmg": "أضرار في قواعد عسكرية ورادارات وطائرات في المنطقة",
    "e": "29 مليار دولار على الأقل",
    "src": "البنتاغون",
    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
-   "asof": "2026-07",
-   "mil_src": "U.S. Central Command",
-   "mil_h": "@CENTCOM",
-   "mil_q": "Iran fired seven ballistic missiles toward Kuwait and Bahrain hours after CENTCOM shot down four Iranian one-way attack drones Initial assessments indicate six of the missiles were intercepted",
-   "mil_u": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4510668/centcom-forces-defeat-missiles-drones-launched-by-iran/",
-   "mil_ok": [
-    "mis",
-    "drn",
-    "itc"
-   ],
-   "mil_at": "2026-06-05"
+   "asof": "2026-07"
   },
   {
    "c": "الكويت",
    "f": "🇰🇼",
    "d": "11",
    "w": "187",
-   "drn": "1002",
+   "mis": "97",
+   "drn": "283",
+   "itc": "380",
    "dmg": "أضرار في مطار ومرافق كهرباء وقواعد عسكرية",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
    "asof": "2026-03",
-   "mil_src": "رئاسة الأركان العامة للجيش الكويتي — بيان رقم (74)",
-   "mil_h": "@KuwaitArmyGHQ",
-   "mil_q": "منذ بدء الأزمة: 1002 طائرة مسيّرة و387 صاروخًا باليستيًا و25 صاروخًا جوّالًا",
-   "mil_u": "https://x.com/KuwaitArmyGHQ/status/2077830449292812521",
    "mil_ok": [
     "mis",
-    "crz",
-    "drn"
+    "drn",
+    "itc"
    ],
-   "mis": "387",
-   "crz": "25",
-   "mil_at": "2026-07-16"
+   "mil_src": "رئاسة الأركان العامة للجيش الكويتي",
+   "mil_h": "@KuwaitArmyGHQ",
+   "mil_q": "منذ بدء الهجوم تم رصد عدد (97) صاروخاً باليستياً إيرانياً تم إطلاقه تجاه دولة الكويت، وعدد (283) طائرة مسيرة و تم التعامل معهم وفق قواعد الإشتباك.",
+   "mil_u": "https://x.com/KuwaitArmyGHQ/status/2028081681450619069"
   },
   {
    "c": "السعودية",
    "f": "🇸🇦",
    "d": "17",
    "w": "23",
-   "mis": "5",
-   "itc": "5",
    "dmg": "استهداف مصافي وحقول نفط وقواعد مثل الأمير سلطان",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03",
-   "mil_src": "وزارة الدفاع",
-   "mil_h": "@modgovksa",
-   "mil_q": "اعتراض وتدمير 5 صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية",
-   "mil_u": "https://x.com/modgovksa/status/2041627189708234968",
-   "mil_ok": [
-    "mis",
-    "itc"
-   ],
-   "mil_at": "2026-04-07"
+   "asof": "2026-03"
   },
   {
    "c": "الإمارات",
@@ -95,55 +70,41 @@
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
    "asof": "2026-03",
-   "mil_src": "وزارة الدفاع",
-   "mil_h": "@modgovae",
-   "mil_q": "منذ بدء الاعتداءات الإيرانية السافرة تعاملت الدفاعات الجوية مع 551 صاروخا باليستيا و29 جوالا و2265 مسيرة",
-   "mil_u": "https://x.com/modgovae/status/2053425526283575390",
+   "crz": "29",
    "mil_ok": [
     "mis",
     "crz",
-    "drn",
-    "itc"
+    "drn"
    ],
-   "crz": "29",
-   "itc": "2845",
-   "mil_at": "2026-05-10"
+   "mil_src": "وزارة الدفاع",
+   "mil_h": "@modgovae",
+   "mil_q": "ومنذ بدء الاعتداءات الإيرانية السافرة، تعاملت الدفاعات الجوية الإماراتية مع 551 صاروخاً باليستياً، و29 صاروخاً جوالاً و2265 طائرةً مسيّرة.",
+   "mil_u": "https://x.com/modgovae/status/2053425526283575390"
   },
   {
    "c": "قطر",
    "f": "🇶🇦",
    "d": "18",
    "w": "91",
-   "mis": "7",
-   "itc": "جميعها",
    "dmg": "أضرار في قاعدة العديد ومنشآت LNG وخزانات",
    "e": "خسارة سادس قدرة تصدير LNG بقيمة 20 مليار دولار سنويا",
    "src": "ويكيبيديا ورويترز",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
-   "asof": "2026-03",
-   "mil_src": "وزارة الدفاع القطرية",
-   "mil_h": "@MOD_Qatar",
-   "mil_q": "تعرض دولة قطر لهجوم بعدد (7) صواريخ باليستية وعدد من الطائرات المسيّرة ونجحت قواتنا المسلحة بالتصدي لجميع الصواريخ الباليستية والطائرات المسيّرة",
-   "mil_u": "https://x.com/MOD_Qatar/status/2041890095507136962",
-   "mil_ok": [
-    "mis",
-    "itc"
-   ],
-   "mil_at": "2026-04-08"
+   "asof": "2026-03"
   },
   {
    "c": "البحرين",
    "f": "🇧🇭",
    "d": "2",
    "w": "51",
+   "mis": "194",
+   "drn": "523",
+   "itc": "717",
    "dmg": "استهداف مقر الأسطول الخامس ومصفاة سترة ومناطق سكنية",
    "e": "غير معلن",
    "src": "ويكيبيديا استنادا لتقارير رسمية",
    "u": "https://en.wikipedia.org/wiki/List_of_attacks_during_the_2026_Iran_war",
    "asof": "2026-03",
-   "mis": "194",
-   "drn": "523",
-   "itc": "717",
    "mil_ok": [
     "mis",
     "drn",
@@ -151,8 +112,7 @@
    ],
    "mil_src": "القيادة العامة لقوة دفاع البحرين",
    "mil_h": "@BDF_Bahrain",
-   "mil_at": "2026-04-22",
-   "mil_q": "منذ بدء الاعتداءات الإيرانية الآثمة تمكنت من اعتراض وتدمير 194 صاروخا و523 طائرة مسيرة",
+   "mil_q": "منذ بدء الاعتداءات الإيرانية الآثمة تمكنت من اعتراض وتدمير 194 صاروخا، و523 طائرة مسيرة، استهدفت مملكة البحرين.",
    "mil_u": "https://x.com/BDF_Bahrain/status/2046880643741630937"
   },
   {
@@ -171,22 +131,11 @@
    "f": "🇮🇶",
    "d": "128",
    "w": "387",
-   "drn": "1",
-   "itc": "1",
    "dmg": "استهداف قواعد ومواقع فصائل واستهدافات متبادلة",
    "e": "غير معلن",
    "src": "ويكيبيديا",
    "u": "https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war",
-   "asof": "2026-07",
-   "mil_src": "خلية الإعلام الأمني",
-   "mil_h": "",
-   "mil_q": "رصدنا طائرة مسيرة صغيرة فوق المنطقة الخضراء وتم التعامل معها دون أضرار",
-   "mil_u": "",
-   "mil_ok": [
-    "drn",
-    "itc"
-   ],
-   "mil_at": "2026-07-01"
+   "asof": "2026-07"
   }
  ],
  "brk": [
