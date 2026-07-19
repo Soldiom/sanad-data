@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
  "updated": "2026-07-19T15:25+00:00",
  "cats": {
   "عالم": [
@@ -10,11 +11,24 @@
     "fa": false,
     "at": "2026-07-19T09:45+00:00",
     "flag": "روجعت درجته",
+=======
+ "updated": "2026-07-19T15:32+00:00",
+ "cats": {
+  "عالم": [
+   {
+    "head": "قاعدة موفق السلطي: ماذا نعرف عن القاعدة الجوية في الأردن التي تستهدفها إيران؟",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94Z0gyakdFb3VfejEtdWFCN3MxdjdTQ1diQ0dQZVhmTm5KQWhYNnlDNE03alRNUnBmT3ViT2hHNEZtc2JtTlRlUXc3TjM3U2FveHgtSXpUSFptNXNp0gFiQVVfeXFMUDlLQkVfSGNHWDd4VVR6Q193SVBWeTJHM2NqbDJoam04Z1B2b0N1SHN6dFMyb2VmNzJtTjQzR3VNakdYTm1mWkNEU2Jibk5pUWJWY3hjY2ZreVgtcTI0N05qekE?oc=5",
+    "fa": false,
+    "at": "2026-07-19T11:58+00:00",
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 0,
+<<<<<<< HEAD
      "انتفاء العلة": 0
     },
     "score": 2
@@ -36,6 +50,13 @@
     "score": 3
    },
    {
+=======
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "head": "أميركا تُنهي الليلة الثامنة من الضربات الجوية ضد إيران",
     "src": "سكاي نيوز عربية",
     "grade": "حسن",
@@ -70,20 +91,33 @@
    {
     "head": "هجوم صاروخي على ضواحي آبادان واعتراض صواريخ إيرانية بالقرب من إسرائيل في الأردن",
     "src": "بي بي سي فارسي",
+<<<<<<< HEAD
     "grade": "ضعيف الإسناد",
+=======
+    "grade": "حسن",
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "link": "https://www.bbc.co.uk/persian/live/c7vg62731llt?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "",
     "via": "هيئة بث بريطانية عامة",
+<<<<<<< HEAD
     "flag": "روجعت درجته",
+=======
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 0,
+<<<<<<< HEAD
      "انتفاء العلة": 0
     },
     "score": 2
+=======
+     "انتفاء العلة": 1
+    },
+    "score": 3
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
    },
    {
     "head": "القوات المسلحة الأردنية: اعتراض ثلاثة صواريخ أطلقت من إيران",
@@ -139,10 +173,34 @@
    {
     "head": "الخطط الاستراتيجية البديلة تدعم اقتصاد السعودية في تجاوز تحديات استثنائية",
     "src": "العربية",
+<<<<<<< HEAD
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQWENJMkptWXBtUUQ2Q1RHQ2lJdzlnMnhtVW1za203Zk9NOVdnelFuSEJETFN5QW9ocUVLLW9Fb0tVZ2FtVUFPSFZOTzZjMTIxZ3h4cG90Y1AxOTVXbm83dlp0cjBGZXdrSWZmU3cwRV9fa2FWeXkzOXhyNm5LUVpoTmluOGZDc1dFd0c5ai01NFIzT0ptaDRqMHYweWlTdzlfSy1QRWlFdHNQeEpOdGFQdS1Wb3NKUjRhUFV2NUNvdTE1SzVMclJuWjZnVngyUWYyU0J6ZTRqWFVtTVRVTGNUYVM1bVFBekhsTkUyTFVXVHBaYjJwVlNOa1FXYUxqLWVveDgzZ3NmbjlmS2FvR2lYaktTT0JpYlBfUV9xZmhmTWJLMlVGSUZpZlpUanZmanhVOGpubnB6eFhLZTFmRHRlYmg0WldVcGRPbkZJUlhzVFdrUVBGVWtwbzF0NXNzaGNxYlNvR3U5bDNQMnhtbVlZU2ZFcXUyRVEyYVI0LTR5Tmp3akJqb3NsaEwyX2lQbHdNaWREdGxEZmtoWG0tZDM5b1JyQ2tpeHQxaXQ1cWVScDJuOGFVajA5SnRadGZGLWttV2QyRUVmcUJCbXByU1VobmxHZFhUZHRGYWVIN2Rxb3Q5U3ZzcnJGem9WUVVEVXZoai1YVW1PLWVlYUhEM01DZ2xKd2pWekNhczA2Z3V1VWdRSWRmTm9kYUh3cFhhWTVtVXpwZ3piaDNyVjFBeldKdXBGck1LY3F0dURQek5kVjVwX19JVHd5NG1Ua3VLSWFOOWFUcF9rMkVMSU92cmhKWHNKQkZWZEtoY2VKNEc1YkdxTTZVSnM40gH8BEFVX3lxTFBFallwQmdRLUNwRDFyX215M29oWTJOUDF0NnFzMXp0dTBnM3FDQVRaaXVMR2NHV25mRTA2NnRLZFZEb2JNVG1LTU91YVBQSXBMYWFlZUktQXp3V2FQMlFDdHpBWGxHSEk5SmVpWlJLSW1YUEdmS2JNMWNET1VlbnB1UnUzb25BZzMzVlhsdXNiNmpETWNPTlNpaVFrenNwZmZLTVo0cXJsYTFwVFhHUUhOZGxoZXpVV1o2RnVtWkw1eEhMd0pSdG5DZU45elBiN3VXaml4eGp4dTNvbGxjN08wUWpCWVowT1V6UDFfNldUVDJpc2p5N1ZjUTZ6cmxvRFVla0F0NXlMRVdObTYzV195MmxXZEJtc3dXaEMyMkxVZl90RV9PZWRxVHNqTHhfd3lqa3VhYzlBREZWd1N2TlBLUE9xZzNaUXlRN2FJWHFKTGFFNGJmbW10ejY0REtmTlBjU1BUbDg4a1ltU0RMTndOZ0ZaYWZVUVlwc0NVQnBZM3gxbkVtdnpJb2pnQVVJM3RIOW1tbmUyaHdxd2hVcWpKczZhdUFHNlo2amVHRF8yZXVMWVhTUXB3Rm1zVEdZbk44THlLWmdvTlhTRW50QjZaRjRuOFU3alRkNHZzRlMwRFFrRVFsakNOMlhyWGZXQnpaYVphYzM2YW92V2psdDRoVklNazZOMGpkQ0pkYldYaXUtYzVRYlVoekNhTGVINThjTU4ydGVJNkdkQmZLRVFPNjVUR01DSExCQUZ5Ym5YNXVRNkdyWmpTYjdybEhVelI5TnFscEZmYUlsLUJjTGVIZ29JandjNTdYY3B5OENnaXhYcmZpYWp6a1VTZA?oc=5",
     "fa": false,
     "at": "2026-07-19T12:26+00:00",
+=======
+    "grade": "ضعيف الإسناد",
+    "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQWENJMkptWXBtUUQ2Q1RHQ2lJdzlnMnhtVW1za203Zk9NOVdnelFuSEJETFN5QW9ocUVLLW9Fb0tVZ2FtVUFPSFZOTzZjMTIxZ3h4cG90Y1AxOTVXbm83dlp0cjBGZXdrSWZmU3cwRV9fa2FWeXkzOXhyNm5LUVpoTmluOGZDc1dFd0c5ai01NFIzT0ptaDRqMHYweWlTdzlfSy1QRWlFdHNQeEpOdGFQdS1Wb3NKUjRhUFV2NUNvdTE1SzVMclJuWjZnVngyUWYyU0J6ZTRqWFVtTVRVTGNUYVM1bVFBekhsTkUyTFVXVHBaYjJwVlNOa1FXYUxqLWVveDgzZ3NmbjlmS2FvR2lYaktTT0JpYlBfUV9xZmhmTWJLMlVGSUZpZlpUanZmanhVOGpubnB6eFhLZTFmRHRlYmg0WldVcGRPbkZJUlhzVFdrUVBGVWtwbzF0NXNzaGNxYlNvR3U5bDNQMnhtbVlZU2ZFcXUyRVEyYVI0LTR5Tmp3akJqb3NsaEwyX2lQbHdNaWREdGxEZmtoWG0tZDM5b1JyQ2tpeHQxaXQ1cWVScDJuOGFVajA5SnRadGZGLWttV2QyRUVmcUJCbXByU1VobmxHZFhUZHRGYWVIN2Rxb3Q5U3ZzcnJGem9WUVVEVXZoai1YVW1PLWVlYUhEM01DZ2xKd2pWekNhczA2Z3V1VWdRSWRmTm9kYUh3cFhhWTVtVXpwZ3piaDNyVjFBeldKdXBGck1LY3F0dURQek5kVjVwX19JVHd5NG1Ua3VLSWFOOWFUcF9rMkVMSU92cmhKWHNKQkZWZEtoY2VKNEc1YkdxTTZVSnM40gH8BEFVX3lxTFBFallwQmdRLUNwRDFyX215M29oWTJOUDF0NnFzMXp0dTBnM3FDQVRaaXVMR2NHV25mRTA2NnRLZFZEb2JNVG1LTU91YVBQSXBMYWFlZUktQXp3V2FQMlFDdHpBWGxHSEk5SmVpWlJLSW1YUEdmS2JNMWNET1VlbnB1UnUzb25BZzMzVlhsdXNiNmpETWNPTlNpaVFrenNwZmZLTVo0cXJsYTFwVFhHUUhOZGxoZXpVV1o2RnVtWkw1eEhMd0pSdG5DZU45elBiN3VXaml4eGp4dTNvbGxjN08wUWpCWVowT1V6UDFfNldUVDJpc2p5N1ZjUTZ6cmxvRFVla0F0NXlMRVdObTYzV195MmxXZEJtc3dXaEMyMkxVZl90RV9PZWRxVHNqTHhfd3lqa3VhYzlBREZWd1N2TlBLUE9xZzNaUXlRN2FJWHFKTGFFNGJmbW10ejY0REtmTlBjU1BUbDg4a1ltU0RMTndOZ0ZaYWZVUVlwc0NVQnBZM3gxbkVtdnpJb2pnQVVJM3RIOW1tbmUyaHdxd2hVcWpKczZhdUFHNlo2amVHRF8yZXVMWVhTUXB3Rm1zVEdZbk44THlLWmdvTlhTRW50QjZaRjRuOFU3alRkNHZzRlMwRFFrRVFsakNOMlhyWGZXQnpaYVphYzM2YW92V2psdDRoVklNazZOMGpkQ0pkYldYaXUtYzVRYlVoekNhTGVINThjTU4ydGVJNkdkQmZLRVFPNjVUR01DSExCQUZ5Ym5YNXVRNkdyWmpTYjdybEhVelI5TnFscEZmYUlsLUJjTGVIZ29JandjNTdYY3B5OENnaXhYcmZpYWp6a1VTZA?oc=5",
+    "fa": false,
+    "at": "2026-07-19T12:26+00:00",
+    "flag": "روجعت درجته",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 0
+    },
+    "score": 2
+   },
+   {
+    "head": "الكويت تعلن \"التصدي لهجمات\".. والبحرين والسعودية \"تصدران تحذيرات\"",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUw5TG92X3hXaHh5QTEwUC1fZkM5N1pRSEpMS1lvX0QyTm92QlBIcGZPRlpha3psZnBRVy1aNzNtTDlOREViSWdsYXRpdWdYcG1zUkZTRjlhVTNrT2t4dXRoTURkRUYzU1RTY0Vsb0V6S1NfWE1xWGtOT2dZcndsWng2UHZQNUZsVTVmbS1VRk9YSDJhS25EbXNQVW1wWVpnLVF3OGRnT0VrLU9LeV9CWS1KQS1CMDVzR3hMdC1n0gHIAUFVX3lxTE10WjZPNkpHTmJ5VTZmem9VeEtZRVM3bEZZQnJqNzFsdUR1N0wwTjdKWjZzeFhwa2RMMXlNUXFTSjd5MzBvX3N0VHo4Sm8wWHZ2dVRtWkNUdTFMMS1Rd2VvSHJFT2dnNV9PR2RtNS1yUk5WTzNYTnBuS2hXdzNVR1pSaTRZS284SDVrRndmZTNNMFVEYWhKY0Zva1AtWGJua1hFcHRRSS15cFlkX2hCUldLcXBRRVJlRTdmX1Bkc25RMHo2eTJTUWpC?oc=5",
+    "fa": false,
+    "at": "2026-07-18T01:27+00:00",
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -157,25 +215,41 @@
    {
     "head": "تجدد الهجمات الإيرانية ضد محطة القوى الكهربائية في الكويت",
     "src": "العربية",
+<<<<<<< HEAD
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPc1hpdGl5UFVPWFV6VVM1MlhTTS1USkh1NS0tVWs5SUVDcG9JdzJrdmdyTVlRZEZ6bXFIWkR0N1VuMXNNZGJHdjhFNTF3QjIxd1VtSnlGeXZiSHlVb2pyd1FkQ3ZMMkh1azZTTTNjRlctU1ZsT3Q3NGNWTEZnZXBhWUhVZ1BFSGxHVE5EbTROOFFvYUJKZy0xS2daVThhM0xadFg4dnVCUEpBdVFYcGFuekJUc05zdjVKdUFTSmp6V2tMOXJCMGZFSl81aUhPOEx4WVEtZHRKWE53V2dkNG80Y2xhQ2VLZzE2enZzVmt1eE80eHRHVU9oV1k3YjlBekNPSFRkZU5yZXdMM0NacGZEcnQ4eTByU3lJSEdSZ0hzeERjQWtoVnZqUHkyY3A1Rk8wTXRBV3Rmc2RySFNhZFdpbEc4TFl1MUdlOUhhY2l4cHRGUDFQNDNzU1BuSUNTSFJVcTVqNGlaSGxYR0ctZ2JfeHo0bVJGakdIZnVOTnk1Uy1kc0Z4S21SVGZDVjgxTXgyeGJBTmNhYXdjczZPRDk0QWhWQldvaHl3Q2dnZXhYWERJcXdEbFhHazVZdnozdTl5NmZta29aSnVoQWtlb0o4ck9mSm1Rdnk4dXF3SHV2NExwOHZmUE1fYlZPVkhmNGl3Zk9hYXE1OVNjTXNI0gGCBEFVX3lxTE1WOVJ4VUhvT0RZLWc1RTNMS0c1NHFmUnd5M3FLTm1LT2Y1RWotUVY5Wmx0Nk5LRXcwVUxtNGFqeWNjWHNsTDNlSmtvdTVMb1dBVF9uTmlQZmdCR1FRR012RndBSy1KRXZ5WWg0ZDU0ck9IblVhS0ZZTjJERzVibjRrZ0RJRmk5NmotSDYtOTNZbmNRRGFIS2FVajFjdUZ0Y2tWR0Z4OWgxejctYzJuQVlnSU9aWW9yc0ZiRWtDdFJRZFEwVFN4SDlFNzUyc2ZkQmx4MjVua1RhckJZWFhqRHMzNHlKdWJEendNUGV6b183a0lCdW5GSUZHdnlmTWNyRlg4ZXVVdE5SdjZBRFpReVljRnZ5ajY2QU9WRVRpdTRwbkY0ejgySDdJaHVjcWZJdG1fWkdkNjNaVFBZSmQ0MTR2NXZtM3VWUHZKa3p0dnZfZWpqYXdwUi1FQ2RBQjVYN0Z0NlJHemR5cDFHU0dtN1N3NDFpQ2s5OF82anA4ZkFxMkJjeTdNcEctcUNHa3BHWjctZnM0V1JZdWRmVlRGUWZleHRyU25URi0tUE9XQ1ZUd3ZUVVM4aHJFNVFiV3Y1U1IwMmVsMEIwN3BKb2RacU1CamNtNkktSEVGVE5MX2ZMdGU0OXFla3p2SjJCOXZzX2xTaGpYcEJOM3pmQ1ZfZHdNR1E?oc=5",
     "fa": false,
     "at": "2026-07-19T12:12+00:00",
+=======
+    "grade": "ضعيف الإسناد",
+    "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPc1hpdGl5UFVPWFV6VVM1MlhTTS1USkh1NS0tVWs5SUVDcG9JdzJrdmdyTVlRZEZ6bXFIWkR0N1VuMXNNZGJHdjhFNTF3QjIxd1VtSnlGeXZiSHlVb2pyd1FkQ3ZMMkh1azZTTTNjRlctU1ZsT3Q3NGNWTEZnZXBhWUhVZ1BFSGxHVE5EbTROOFFvYUJKZy0xS2daVThhM0xadFg4dnVCUEpBdVFYcGFuekJUc05zdjVKdUFTSmp6V2tMOXJCMGZFSl81aUhPOEx4WVEtZHRKWE53V2dkNG80Y2xhQ2VLZzE2enZzVmt1eE80eHRHVU9oV1k3YjlBekNPSFRkZU5yZXdMM0NacGZEcnQ4eTByU3lJSEdSZ0hzeERjQWtoVnZqUHkyY3A1Rk8wTXRBV3Rmc2RySFNhZFdpbEc4TFl1MUdlOUhhY2l4cHRGUDFQNDNzU1BuSUNTSFJVcTVqNGlaSGxYR0ctZ2JfeHo0bVJGakdIZnVOTnk1Uy1kc0Z4S21SVGZDVjgxTXgyeGJBTmNhYXdjczZPRDk0QWhWQldvaHl3Q2dnZXhYWERJcXdEbFhHazVZdnozdTl5NmZta29aSnVoQWtlb0o4ck9mSm1Rdnk4dXF3SHV2NExwOHZmUE1fYlZPVkhmNGl3Zk9hYXE1OVNjTXNI0gGCBEFVX3lxTE1WOVJ4VUhvT0RZLWc1RTNMS0c1NHFmUnd5M3FLTm1LT2Y1RWotUVY5Wmx0Nk5LRXcwVUxtNGFqeWNjWHNsTDNlSmtvdTVMb1dBVF9uTmlQZmdCR1FRR012RndBSy1KRXZ5WWg0ZDU0ck9IblVhS0ZZTjJERzVibjRrZ0RJRmk5NmotSDYtOTNZbmNRRGFIS2FVajFjdUZ0Y2tWR0Z4OWgxejctYzJuQVlnSU9aWW9yc0ZiRWtDdFJRZFEwVFN4SDlFNzUyc2ZkQmx4MjVua1RhckJZWFhqRHMzNHlKdWJEendNUGV6b183a0lCdW5GSUZHdnlmTWNyRlg4ZXVVdE5SdjZBRFpReVljRnZ5ajY2QU9WRVRpdTRwbkY0ejgySDdJaHVjcWZJdG1fWkdkNjNaVFBZSmQ0MTR2NXZtM3VWUHZKa3p0dnZfZWpqYXdwUi1FQ2RBQjVYN0Z0NlJHemR5cDFHU0dtN1N3NDFpQ2s5OF82anA4ZkFxMkJjeTdNcEctcUNHa3BHWjctZnM0V1JZdWRmVlRGUWZleHRyU25URi0tUE9XQ1ZUd3ZUVVM4aHJFNVFiV3Y1U1IwMmVsMEIwN3BKb2RacU1CamNtNkktSEVGVE5MX2ZMdGU0OXFla3p2SjJCOXZzX2xTaGpYcEJOM3pmQ1ZfZHdNR1E?oc=5",
+    "fa": false,
+    "at": "2026-07-19T12:12+00:00",
+    "flag": "روجعت درجته",
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
+<<<<<<< HEAD
      "عدم الشذوذ": 1,
      "انتفاء العلة": 1
     },
     "score": 4
+=======
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 0
+    },
+    "score": 2
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
    },
    {
-    "head": "الكويت: تعرُّض محطة ثانية لتوليد الكهرباء لهجوم إيراني",
-    "src": "سكاي نيوز عربية",
+    "head": "بالفيديو: الجيش الإسرائيلي يعلن اعتراض صاروخ إيراني باتجاه العقبة في الأردن",
+    "src": "العربية",
     "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPN0F0NTYtZTQ0WVFQdGdSOUlLUlZ2TDdZdnhKLVFFcE9ua2hySjk0TkVVLUZzUFJ4eDl4QTFFQm1SampfYjc2WGdkTXpzUnIzN3FsQU5lWEozTkpGM1N4X182U3ktLWF0ZndyUUR4S0E0YTc0UEpXdlJyZTd6cjVackxDN2ZCalZmZEIyclVsMGs2YTlvMzdQd1dvenN5eVFoeTFQTENfWG9BYmV6ZWRPMU83SDNEaHpINDZMWWpzZFF1ek9CWTU5Z0pZenFNMGR3Z2czZXRSRmxpbXRJTmlzQkxPbDFSTTlKTkozSDJLZFZra0hmV3pieFlscnJ6c0UwdHgwLTZSMGtabm9tUFA3ZkVjSmU1aU8zdFlSWE9WaUhYRG9EM04wNXRxbzVPSE5IbG5BQlZqV3ZyZjZ6MVVOb2QzY0ZIczZzWHZzc1IxbXVUa0tpWWxqOWRTRnBwMFMyQnpNaEJnNVJ5a2hqOWNFNWFrVmZDY0hNQVpyNnJkS19PRzdhN251emhtMGExUDJIaU9nTzlXSmlpUzhDM0ZFbUlFVjdpR0dGTDdsbzVpazItT2tqZ3R6SGotV0twdkJyS0ppY0F2LUnSAc4DQVVfeXFMTkFIOGw3aTBDd3V3UzB0V2UxNWlOVGVRbWxjV2UwX3pyTzBIUW1xamdSMGN4Ny1hWEZ4Z2E4UUtJRVgwRG1wZmMxTkN4dW1vMTBNbzhmNUhWSXgwSzg1UjItelpCN2xvSzd4RC1xRmFUcnh5eElEeU9CWDdxMnRxcEMzRzNRVGtJckYzOS1FYTM0WUlzcFJ4cFhILUF5cWhuTXFjbVhsT2F4UlIteVBxSnJhX1JwUEt0azdUcUU2dXF2OTBwRC1zUU9YYUVZZS1XOER1TkVZckxCUmxRUTN2V1dmNXpyRVhXWGE0eS1jaGJUcUU1bWIzQ0t5LWtDdTlwV1hCRjR1cC1rUFczOGFuT3JBM29GZlNTX0EzV1p2blhhOFFKdnh2OGktOTAyX3YzMEN2dXpmYlMtUUZZdE8teml4bXZTbUNOb29LcU9NbDE0eERNaW1aMWh6NmNDU2JTT2ZZbnlEazRGM204U3N1YS1LQlhvX3FlMHgtSVZjb21uS1FwUzM3dEJZMXJiVHV5QlloQVd0YlBOc3MxVFJxR1VUUnlxZ2hYZmRWdE1VaXFFY2tmU29XZHhqUlROZzZwUjJjWTBhSVNGcFViYXZ3?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxPY0E5S0JTbHhCOE55bHZ6Tkp1QnNFbnJ1VGhiVlVQeUw0eTFNaU5MQU02a2trMUZNQ21TNC1yejNFNXBMeGJwdXNRanh3Qy1KQ1lFRHFPUHRjWWJBMk5sdDV3V3BqTzZReU9RR1YzUG93S1NDU3RQLTdSVWJsdW95eEdtbGZTU191eEQ0MDBJLUtIRlZzRmE0X0paNWRsSlg1REFjRzdGeXhnalI4UHdBS19JanVXRDhrNDFQcTRZcF9PdlVGV1JPVlQxTDRpRms1TDZnRHBJQi1YUEdOTXRPNjU1VklldjJLQV9XWERmUENXb0hDYWVvQU1CRkFkNWNpTTU4dUlkS2tCSm05ajREcFZUclUzV0NaRjhQdmVpMzBZYUhRUDJUQW90VUgyaEhIcElLNHlvR1Rvc3FaU1lLeDAycEdwSmg0ZWJpang4Tm1qMWFsUHNnanIzTjBOS2ZGMXoxVWMwUk5IQzFSUkd5NzFRQjlwSGg1VXJfMUpfN0tlY0tVS2hfdDY1bnp1eTFtdnJVWDBNZHd4R0lsRmVVQjA3cE5ZVEZvUWxlZXdFZlprNTB4U1pzbWZQQUZwYVNHOXUzMFBBdFlvdVdSZGR0bXJWSkVHT3JUYkpKTk0yYnhjT3h2bjRxNmRFLTRMd29lQWF4dDVvWFFENWZSU2Y2Q1UtWE1RZGxjLWpJSWpUSTZPeVl6LWZ4UGlrM1RlQ0F5UWdTLTZoRGMzOEFSdktLSEhFeHJYd29LREYydlhMbjRkRFB4YzJmZDJDZ1hMWERJRjB5a3ZWc3ptN1JtLUV3Z3QwWVFiSlBNTEUxTTA5Y9IB9ARBVV95cUxNVmxtMnNMZjZ5OXV6RmhNNWpPemhRcVFxQjFfbzZtOUNYUkJlQmc2bXVPRlVHV2FHNVV1X2dzNjNsVUtoa0s0RUh3M2xjaW5Eck9wRUFHSTJCdktDVmo5UUxUZ0RrR2k5WEtVeWhpMmVrS1pIVnFIOHVmRHloLXBZQmNWMFRJNU5aWWs4bFQwMTFpeE03dVlnZVNWSWQ0cC1leE11VjJ2SVZKX0xTTHlxLXlvbW9xcFdVMGlJeDRSZTk3YUtKUDRzcVQ1a0RmeV90OXJfNTBPdzVMVUN6U0VJN3FkcHdjLVM4eE1FMTU1eDFZRlYxZXp1WDJlTzhwbXZRalREMnlkaGZRNTQ0WWRxRjJLUkkwVnFtNGF5VXRueDhqQ2tXZXFtT2ZISzBydjY3RzJfc1JzXzVhd1hDaUMyNG1udHh2RllBanZYN0E1V1pHWUlVLTlySHU1aVlzTW9kdUZHQ2tab1FhMTlDVl9tcWZVOWtoZFBYa21NZDQtN0RPa0tEY0ktMWF5cms4cVkxZWp5OEdWQVpYblRFdjExdHZSeVgxOURsN2U3a05iTkFmaUtISFJvZUxyVWNudG9MRmJjam5SWjM2cHo2bFZPYnIyd0poQ2swdDk3dWdRanpJTHdiUjZqRGtseVRCSEU4cmlLejNkd1c3aG5qejlqOHEzSW5JcjNwYlZEOEZfNnBSOHE5UWo1WUpmNUt0eW1BWGFHMTNqY3p5QTFQN1JkX2haUjA1SXg2YnV0azJ1Q2FaYXNWSUpVaFhxeGo2NDR4cXc4eXdmLXNKNVB1djZ0bUYzSEhGNDZ5a3o1YUhwcjFQRkMy?oc=5",
     "fa": false,
+<<<<<<< HEAD
     "at": "2026-07-18T06:46+00:00",
     "isnad": {
      "الاتصال": 1,
@@ -192,6 +266,8 @@
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxPY0E5S0JTbHhCOE55bHZ6Tkp1QnNFbnJ1VGhiVlVQeUw0eTFNaU5MQU02a2trMUZNQ21TNC1yejNFNXBMeGJwdXNRanh3Qy1KQ1lFRHFPUHRjWWJBMk5sdDV3V3BqTzZReU9RR1YzUG93S1NDU3RQLTdSVWJsdW95eEdtbGZTU191eEQ0MDBJLUtIRlZzRmE0X0paNWRsSlg1REFjRzdGeXhnalI4UHdBS19JanVXRDhrNDFQcTRZcF9PdlVGV1JPVlQxTDRpRms1TDZnRHBJQi1YUEdOTXRPNjU1VklldjJLQV9XWERmUENXb0hDYWVvQU1CRkFkNWNpTTU4dUlkS2tCSm05ajREcFZUclUzV0NaRjhQdmVpMzBZYUhRUDJUQW90VUgyaEhIcElLNHlvR1Rvc3FaU1lLeDAycEdwSmg0ZWJpang4Tm1qMWFsUHNnanIzTjBOS2ZGMXoxVWMwUk5IQzFSUkd5NzFRQjlwSGg1VXJfMUpfN0tlY0tVS2hfdDY1bnp1eTFtdnJVWDBNZHd4R0lsRmVVQjA3cE5ZVEZvUWxlZXdFZlprNTB4U1pzbWZQQUZwYVNHOXUzMFBBdFlvdVdSZGR0bXJWSkVHT3JUYkpKTk0yYnhjT3h2bjRxNmRFLTRMd29lQWF4dDVvWFFENWZSU2Y2Q1UtWE1RZGxjLWpJSWpUSTZPeVl6LWZ4UGlrM1RlQ0F5UWdTLTZoRGMzOEFSdktLSEhFeHJYd29LREYydlhMbjRkRFB4YzJmZDJDZ1hMWERJRjB5a3ZWc3ptN1JtLUV3Z3QwWVFiSlBNTEUxTTA5Y9IB9ARBVV95cUxNVmxtMnNMZjZ5OXV6RmhNNWpPemhRcVFxQjFfbzZtOUNYUkJlQmc2bXVPRlVHV2FHNVV1X2dzNjNsVUtoa0s0RUh3M2xjaW5Eck9wRUFHSTJCdktDVmo5UUxUZ0RrR2k5WEtVeWhpMmVrS1pIVnFIOHVmRHloLXBZQmNWMFRJNU5aWWs4bFQwMTFpeE03dVlnZVNWSWQ0cC1leE11VjJ2SVZKX0xTTHlxLXlvbW9xcFdVMGlJeDRSZTk3YUtKUDRzcVQ1a0RmeV90OXJfNTBPdzVMVUN6U0VJN3FkcHdjLVM4eE1FMTU1eDFZRlYxZXp1WDJlTzhwbXZRalREMnlkaGZRNTQ0WWRxRjJLUkkwVnFtNGF5VXRueDhqQ2tXZXFtT2ZISzBydjY3RzJfc1JzXzVhd1hDaUMyNG1udHh2RllBanZYN0E1V1pHWUlVLTlySHU1aVlzTW9kdUZHQ2tab1FhMTlDVl9tcWZVOWtoZFBYa21NZDQtN0RPa0tEY0ktMWF5cms4cVkxZWp5OEdWQVpYblRFdjExdHZSeVgxOURsN2U3a05iTkFmaUtISFJvZUxyVWNudG9MRmJjam5SWjM2cHo2bFZPYnIyd0poQ2swdDk3dWdRanpJTHdiUjZqRGtseVRCSEU4cmlLejNkd1c3aG5qejlqOHEzSW5JcjNwYlZEOEZfNnBSOHE5UWo1WUpmNUt0eW1BWGFHMTNqY3p5QTFQN1JkX2haUjA1SXg2YnV0azJ1Q2FaYXNWSUpVaFhxeGo2NDR4cXc4eXdmLXNKNVB1djZ0bUYzSEhGNDZ5a3o1YUhwcjFQRkMy?oc=5",
     "fa": false,
+=======
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "at": "2026-07-19T12:20+00:00",
     "flag": "روجعت درجته",
     "isnad": {
@@ -253,6 +329,7 @@
     "score": 3
    },
    {
+<<<<<<< HEAD
     "head": "«غياب» مجتبى خامنئي؛ هل يمكن للجمهورية الإسلامية أن تحظى بقائد غائب؟",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
@@ -287,6 +364,8 @@
     "score": 3
    },
    {
+=======
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "head": "سماع دوي انفجار في آبادان",
     "src": "إيران إنترناشونال",
     "grade": "ضعيف الإسناد",
@@ -372,18 +451,32 @@
    {
     "head": "الفرح يقاوم الحرب.. عادات فلسطينية تنبض من قلب مخيمات النزوح في غزة",
     "src": "الجزيرة نت",
+<<<<<<< HEAD
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZHRpM1hYOEt3UzVxRW5KTU5ESWNleXU4MTA1SkJsX1JMdnhDSFFCVklzeHNTeV9MZEl6REhzcWhOMHJSdGRaUTJDdV9MaXV1UV9Xdmo3elVuYUZoVDVxMnlDNVNULVNmQmp2bnlFNy1GRVZuN0p0Y0VZYnd4S0c3ZTZGYnpIQ19LQ21EUzExLXJCMFlCYzk5ZGtINmN2WWJFMmJDMHlkTldfMmZvbjFxZmJPcUlybzNNX3JfZWJQamZ1VHZsVjJSRzMwa29sazFFTWhCM2haQUx5aExUMkhTN3Zodl9CVnRZV1FQbGVtaFUybnBHZHktajBMdDkwVElVVlUwYkpvYXpvdzlfZUhIQjNiSG5UNEpZZkJSQUFVNmJ6SzVOMUxSSHVsb0pUT1ZoQjZ2M3gyY3d0bV94N29xcHc2M01vOE9WaGwwb2xzaFFpVVlKTGh4c2FR0gHfAkFVX3lxTE9manRTb2NGZzJ3a25ITmthNHNfOHhwcEgyN21OVGxEMWFUY3hJbFBWZlFJOUpoRUR2cHFqQUViT0YwZGZQcXlCd0lTdi1YaWZXckVSTEhSenZwcVBDaGlza2wyckd5OFRjMmRONXZDUVhkUDNVS3BuVzdZdTZueFlWNkJDVmhxZXFjTzRhMjBjSEpaclZ0X1A5YkFuRkFtNFdrMlY3NDlRSkRGajI1UFF3QThFYmVFem4tT0JXOGRLZHpSY2tqZjByb1EyNEthRlJ0b3lQQUplM3UzbXdCMXBDNHExbHctanZnbHpQQUp2QlNmaWltZ1VZaU41alNNS0FFM0YxSkw0MnVEdkZXVFB3bldsOVh4OUxOdC1UdTZCeUpJTno2cFI0Y1FxSDduTDFRUGxjTlhlTnM3bGlCNEQteFRvakxUVUFTVE9OMV9vNXp4QWZDaDdXN2hnT3FXZw?oc=5",
     "fa": false,
     "at": "2026-07-19T13:52+00:00",
+=======
+    "grade": "ضعيف الإسناد",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZHRpM1hYOEt3UzVxRW5KTU5ESWNleXU4MTA1SkJsX1JMdnhDSFFCVklzeHNTeV9MZEl6REhzcWhOMHJSdGRaUTJDdV9MaXV1UV9Xdmo3elVuYUZoVDVxMnlDNVNULVNmQmp2bnlFNy1GRVZuN0p0Y0VZYnd4S0c3ZTZGYnpIQ19LQ21EUzExLXJCMFlCYzk5ZGtINmN2WWJFMmJDMHlkTldfMmZvbjFxZmJPcUlybzNNX3JfZWJQamZ1VHZsVjJSRzMwa29sazFFTWhCM2haQUx5aExUMkhTN3Zodl9CVnRZV1FQbGVtaFUybnBHZHktajBMdDkwVElVVlUwYkpvYXpvdzlfZUhIQjNiSG5UNEpZZkJSQUFVNmJ6SzVOMUxSSHVsb0pUT1ZoQjZ2M3gyY3d0bV94N29xcHc2M01vOE9WaGwwb2xzaFFpVVlKTGh4c2FR0gHfAkFVX3lxTE9manRTb2NGZzJ3a25ITmthNHNfOHhwcEgyN21OVGxEMWFUY3hJbFBWZlFJOUpoRUR2cHFqQUViT0YwZGZQcXlCd0lTdi1YaWZXckVSTEhSenZwcVBDaGlza2wyckd5OFRjMmRONXZDUVhkUDNVS3BuVzdZdTZueFlWNkJDVmhxZXFjTzRhMjBjSEpaclZ0X1A5YkFuRkFtNFdrMlY3NDlRSkRGajI1UFF3QThFYmVFem4tT0JXOGRLZHpSY2tqZjByb1EyNEthRlJ0b3lQQUplM3UzbXdCMXBDNHExbHctanZnbHpQQUp2QlNmaWltZ1VZaU41alNNS0FFM0YxSkw0MnVEdkZXVFB3bldsOVh4OUxOdC1UdTZCeUpJTno2cFI0Y1FxSDduTDFRUGxjTlhlTnM3bGlCNEQteFRvakxUVUFTVE9OMV9vNXp4QWZDaDdXN2hnT3FXZw?oc=5",
+    "fa": false,
+    "at": "2026-07-19T13:52+00:00",
+    "flag": "روجعت درجته",
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 0,
+<<<<<<< HEAD
      "انتفاء العلة": 1
     },
     "score": 3
+=======
+     "انتفاء العلة": 0
+    },
+    "score": 2
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
    },
    {
     "head": "إسرائيل تقيم منطقة حظر عسكري حول قطاع غزة",
@@ -400,6 +493,7 @@
      "انتفاء العلة": 1
     },
     "score": 3
+<<<<<<< HEAD
    }
   ],
   "تقنية": [
@@ -466,6 +560,8 @@
      "انتفاء العلة": 1
     },
     "score": 4
+=======
+>>>>>>> 68b2b07 (🎙️ نشرة 2026-07-19 [skip ci])
    }
   ]
  }
