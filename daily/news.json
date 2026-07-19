@@ -1,6 +1,74 @@
 {
- "updated": "2026-07-19T16:22+00:00",
+ "updated": "2026-07-19T17:57+00:00",
  "cats": {
+  "عالم": [
+   {
+    "head": "\"ترامب، وليس إيران، هو الخطر الأكبر على العالم، فهو سلاح دمار شامل بمفرده\" – مقال في الغارديان",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54enZkRktWeEJZamxFNjZWal9RU2hobkdGOFFkcEN1MHJkSjVaYlhtX0R4dG5uR0oyaHRGc2JWQVFhZDdRa0NQb0NDakxFR0lIeEI3MGhWWEw5S2U30gFiQVVfeXFMTU5sVWEyRFBYS2t5TlkxUzZIdFFSMjRfaExLejlKdUZrSEdRYktWci1PVVRtM2wwYlN3VWRSUjBNYTlxbDk1UlNSRFk5WTNTeThsZk80eE9HRTczMllMVDRXT1E?oc=5",
+    "fa": false,
+    "at": "2026-07-19T11:12+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "تقرير: تعزيزات جوية أميركية تتجه إلى الشرق الأوسط",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPdnMwMUNNV2NPNnF6Qk81ZkItSXZhYjU4dHNKT3NnMkd5SXVtbFRUYTMySlBmSnc5OG83WkxoV2I4WWtYYWlnWnA0emRVSVhrZjRpQ0g5MlByYmNNVWJIZ3dCU0NiNjVQT1NraHJIMXBRQkwxbDRBbC11S19HWXdPM1dHQmctbzlEZHdTVTNDdFh6R3NHVnp3RzE3TVN2cl8tc2FqOE9Pd3h4U3ViVGpoMHdhWmlIQzFWSTFoOG9GME1LanNqbG5mNDdZamJBSlVleUhsMEdnQVU5c0N1NWh2Qi1xa1F3d0dDX0JhdXV0cTFrX1doMWZUZ3NHTE5pTk9kNURjaWk5aDYzb2lncEhfZnMxc3NUdUFPRDF1aWpXRzhIbnZSVFFtMUppZFdGdXd2cmVSZjVEWlh5cEdLMUFia18zeUwtbGZYbHEtZ1E4YUthcm9ROFp2UGtuaXZpU2Y4ZWlkUG4xbHVXU0N0dFdGbklPeHZSd9IB-wJBVV95cUxOTWhvbFpyZUpERG5sa2l2ZEx1dTdqaHdxckJsaXBBUElxajBTNldENEJwOEV4dklwUFBMWDFTMkRMRW9IMGJpN2JSRlJwQXVrcVlZZWRhM3drb3NHaUdwbmZSSVhYMjdEVWhwYjRCcGNNaU9IZy10a3RDLTlrRWdmdmFZcDRWaW54WVZPV2x3Nlo3b01PeGRjWmNzamNDRHMxTFl1QjNvc0JKZzI5cTZUWThzUkFNMjE4SWgyYzFLYWFXM3N2SVhYUGNNY0t2QU05S1JhSkxvUWwzRlJSMWZJX0I0M0g0eVJoMEk1dTFzNUhuMGpRRTg2Y1JMNF9tZzZrcTh2RmZOYTdVY25ZWmtBOEFBXzBZODF1RlRBSFg2TlFHYWpQVXZZdFR0ZTh3Ui01ZHJQQjZOQUx0R3ZkVHhhV1NYX3RrNHhsb1FIdEFxWVV1NVIxbExoNmpTSndnN0VZYjN4dnJPcU1TQy1Bd0Z3OFpITXQxTHBTc19Z?oc=5",
+    "fa": false,
+    "at": "2026-07-19T16:27+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "هجوم صاروخي على ضواحي آبادان و«اعتراض» صواريخ إيرانية بالقرب من إسرائيل في الأردن",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+    "link": "https://www.bbc.co.uk/persian/live/c7vg62731llt?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "",
+    "via": "هيئة بث بريطانية عامة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "القوات المسلحة الأردنية: اعتراض ثلاثة صواريخ أطلقت من جانب إيران",
+    "src": "إيران إنترناشونال",
+    "grade": "حسن",
+    "link": "https://www.iranintl.com/202607191497",
+    "fa": true,
+    "at": "2026-07-19T13:30+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   }
+  ],
   "الخليج": [
    {
     "head": "مصادر ووثائق تكشف آخر تفاصيل اتفاق نووي بين السعودية وأمريكا",
@@ -59,14 +127,49 @@
     "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPc1hpdGl5UFVPWFV6VVM1MlhTTS1USkh1NS0tVWs5SUVDcG9JdzJrdmdyTVlRZEZ6bXFIWkR0N1VuMXNNZGJHdjhFNTF3QjIxd1VtSnlGeXZiSHlVb2pyd1FkQ3ZMMkh1azZTTTNjRlctU1ZsT3Q3NGNWTEZnZXBhWUhVZ1BFSGxHVE5EbTROOFFvYUJKZy0xS2daVThhM0xadFg4dnVCUEpBdVFYcGFuekJUc05zdjVKdUFTSmp6V2tMOXJCMGZFSl81aUhPOEx4WVEtZHRKWE53V2dkNG80Y2xhQ2VLZzE2enZzVmt1eE80eHRHVU9oV1k3YjlBekNPSFRkZU5yZXdMM0NacGZEcnQ4eTByU3lJSEdSZ0hzeERjQWtoVnZqUHkyY3A1Rk8wTXRBV3Rmc2RySFNhZFdpbEc4TFl1MUdlOUhhY2l4cHRGUDFQNDNzU1BuSUNTSFJVcTVqNGlaSGxYR0ctZ2JfeHo0bVJGakdIZnVOTnk1Uy1kc0Z4S21SVGZDVjgxTXgyeGJBTmNhYXdjczZPRDk0QWhWQldvaHl3Q2dnZXhYWERJcXdEbFhHazVZdnozdTl5NmZta29aSnVoQWtlb0o4ck9mSm1Rdnk4dXF3SHV2NExwOHZmUE1fYlZPVkhmNGl3Zk9hYXE1OVNjTXNI0gGCBEFVX3lxTE1WOVJ4VUhvT0RZLWc1RTNMS0c1NHFmUnd5M3FLTm1LT2Y1RWotUVY5Wmx0Nk5LRXcwVUxtNGFqeWNjWHNsTDNlSmtvdTVMb1dBVF9uTmlQZmdCR1FRR012RndBSy1KRXZ5WWg0ZDU0ck9IblVhS0ZZTjJERzVibjRrZ0RJRmk5NmotSDYtOTNZbmNRRGFIS2FVajFjdUZ0Y2tWR0Z4OWgxejctYzJuQVlnSU9aWW9yc0ZiRWtDdFJRZFEwVFN4SDlFNzUyc2ZkQmx4MjVua1RhckJZWFhqRHMzNHlKdWJEendNUGV6b183a0lCdW5GSUZHdnlmTWNyRlg4ZXVVdE5SdjZBRFpReVljRnZ5ajY2QU9WRVRpdTRwbkY0ejgySDdJaHVjcWZJdG1fWkdkNjNaVFBZSmQ0MTR2NXZtM3VWUHZKa3p0dnZfZWpqYXdwUi1FQ2RBQjVYN0Z0NlJHemR5cDFHU0dtN1N3NDFpQ2s5OF82anA4ZkFxMkJjeTdNcEctcUNHa3BHWjctZnM0V1JZdWRmVlRGUWZleHRyU25URi0tUE9XQ1ZUd3ZUVVM4aHJFNVFiV3Y1U1IwMmVsMEIwN3BKb2RacU1CamNtNkktSEVGVE5MX2ZMdGU0OXFla3p2SjJCOXZzX2xTaGpYcEJOM3pmQ1ZfZHdNR1E?oc=5",
     "fa": false,
     "at": "2026-07-19T12:12+00:00",
+    "flag": "روجعت درجته",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 0
     },
     "score": 3
+   },
+   {
+    "head": "الكويت: تعرُّض محطة ثانية لتوليد الكهرباء لهجوم إيراني",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPN0F0NTYtZTQ0WVFQdGdSOUlLUlZ2TDdZdnhKLVFFcE9ua2hySjk0TkVVLUZzUFJ4eDl4QTFFQm1SampfYjc2WGdkTXpzUnIzN3FsQU5lWEozTkpGM1N4X182U3ktLWF0ZndyUUR4S0E0YTc0UEpXdlJyZTd6cjVackxDN2ZCalZmZEIyclVsMGs2YTlvMzdQd1dvenN5eVFoeTFQTENfWG9BYmV6ZWRPMU83SDNEaHpINDZMWWpzZFF1ek9CWTU5Z0pZenFNMGR3Z2czZXRSRmxpbXRJTmlzQkxPbDFSTTlKTkozSDJLZFZra0hmV3pieFlscnJ6c0UwdHgwLTZSMGtabm9tUFA3ZkVjSmU1aU8zdFlSWE9WaUhYRG9EM04wNXRxbzVPSE5IbG5BQlZqV3ZyZjZ6MVVOb2QzY0ZIczZzWHZzc1IxbXVUa0tpWWxqOWRTRnBwMFMyQnpNaEJnNVJ5a2hqOWNFNWFrVmZDY0hNQVpyNnJkS19PRzdhN251emhtMGExUDJIaU9nTzlXSmlpUzhDM0ZFbUlFVjdpR0dGTDdsbzVpazItT2tqZ3R6SGotV0twdkJyS0ppY0F2LUnSAc4DQVVfeXFMTkFIOGw3aTBDd3V3UzB0V2UxNWlOVGVRbWxjV2UwX3pyTzBIUW1xamdSMGN4Ny1hWEZ4Z2E4UUtJRVgwRG1wZmMxTkN4dW1vMTBNbzhmNUhWSXgwSzg1UjItelpCN2xvSzd4RC1xRmFUcnh5eElEeU9CWDdxMnRxcEMzRzNRVGtJckYzOS1FYTM0WUlzcFJ4cFhILUF5cWhuTXFjbVhsT2F4UlIteVBxSnJhX1JwUEt0azdUcUU2dXF2OTBwRC1zUU9YYUVZZS1XOER1TkVZckxCUmxRUTN2V1dmNXpyRVhXWGE0eS1jaGJUcUU1bWIzQ0t5LWtDdTlwV1hCRjR1cC1rUFczOGFuT3JBM29GZlNTX0EzV1p2blhhOFFKdnh2OGktOTAyX3YzMEN2dXpmYlMtUUZZdE8teml4bXZTbUNOb29LcU9NbDE0eERNaW1aMWh6NmNDU2JTT2ZZbnlEazRGM204U3N1YS1LQlhvX3FlMHgtSVZjb21uS1FwUzM3dEJZMXJiVHV5QlloQVd0YlBOc3MxVFJxR1VUUnlxZ2hYZmRWdE1VaXFFY2tmU29XZHhqUlROZzZwUjJjWTBhSVNGcFViYXZ3?oc=5",
+    "fa": false,
+    "at": "2026-07-18T06:46+00:00",
+    "flag": "روجعت درجته",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 0
+    },
+    "score": 3
+   },
+   {
+    "head": "الأردن: اعتراض 3 صواريخ إيرانية وسقوط رابع في منطقة نائية",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPbEx6SHVaVlpTdFdweFp6NHNyTDNpLUh1MDE1Qlo1U3J0UUlsZUItVjZGRTRBcVY5blJPWGlzNDZTTjJKa2pOd1djTEVRb0JSbGJXb1c5dmhQZTd2cnhIMkxJYzg2dGpjSjVLWGk2M3U0bVBka09PblZjUzBWd3lQdVBCbnpLSHhhRlpwZUZ6U3ZXSXZxTDdSMUNuM0ZTX3VWUk1DVHFUbEtjdXk5a0FlMVNUOVA3dmYwb0c5LTZVZXpVVjhjaGdiRUNjU01hcHM4VE41WWJLNVhGM0p1dkJTYXg5cm9rdm5UWjJzM044bTZweWE3OXZpOWttdTFKTkZETTBSbWNIRVB3akhlRk9LUWV3UVpXeFctOWszaHNrbHZOc1FGZlRGTW5QVkxoTnJRUjZpaGtvVzVvZXFSalhaYl9lbFFfZDdTNVQ3eUZfM0pzTzdEVU9qaEpyb05WS01mVlpoYzhqb0ZkdTFMbjRSWk9vemhpbmY4LVU5WDBWUFB5MjNVekhnSUFaSjUxSzhCbWd6dmZQeTg4QjJzTE8wMnhzUHJwNWI1M216Y3VIYUgwZEFwalZ2bERwV1ZSUHliZlhpUTIyU3AtSTTSAdADQVVfeXFMTzNQUWF2ZUxnSWpkNWpLTjdUX1NXRlhXS0tXUzFYaWZVWDRqNmgtX3lXcWRnTlBGbnFRWk5sU250Z1pXV09zY3VfUzFkMEpycUNuQ0Y3ZnJScXB1ZVlkUG9KOG5kWjBzMEZNRWZDOFRmSDBWODc2b1ByclRkLWRjTzNZdXJqQ0xQVlBGcERsbXFUNzBpQjhCV2VNd04yN0tMWmNJZEZzNmxYbVhRYU5UcmFhSDM4WDY0M3VwaGsydUJaOWNFZk9xaUxVQlJWUnZjc3JBSVlVV0tMSkZfRjlZTDhVSU4wODVpbHRJNEY0X2lvTG1Sdy1oTXVCMFd6bnRzWjE2b0NYbUtaVVIxenJQTVVTcXI0WGhDdjd1X1VoQXN6Vm1CZmt5a1dWQnktQ1ZWN0loWWUtUkZiTWs4MUpUTXFvTjJjcjhWVnpieUlWQXJOVXFBOHM4VEJXZy1VcUVRS2NRdTRXV3F1dkxUQWJrbGRZaFZ0WW1YbEJSUHM0YmtTUnN1bk1tdUpGSWF5LUEwUmVKTDlmZmtIWEdKS3Q0eEpqT2Y4R3VCSUFWR2ZBT2pZUjlSQ3NMSURjSVRkRXYxQy1DMDBUMkt5aHFVSTZXdUo?oc=5",
+    "fa": false,
+    "at": "2026-07-19T13:24+00:00",
+    "flag": "روجعت درجته",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 0
+    },
+    "score": 4
    },
    {
     "head": "الحرس الثوري يعترض سفينتين حاولتا عبور مضيق هرمز",
@@ -79,10 +182,10 @@
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
-    "score": 4
+    "score": 3
    },
    {
     "head": "نص بيان مجتبى خامنئي للإيرانيين بعد \"النكثان\" بمذكرة التفاهم",
@@ -91,15 +194,14 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGExbVRKdlYyQm1PSk9Cb3pibjlFcl9GLWhIZ19aTFNsd3RLbjVmM2JPNVBqNnBMQXppUHptNldlVTZuc0o2c3NpY2FkMkY4M2s5Z1V5dHV3aFMtSHB2bXQxd0I3VzFwLTBOUmZUY2M1YzU4WDFlUFJjZzF6aVlwS3ZNOW9ub180ZmVGYkdIVzM0Sm1xdURjM0tOVEgzT0xhdmhoRHFVN2hfek4xRDkyaHpjRdIBvgFBVV95cUxQMUtoY25pNVRPN25jT2dJUGJaWGRyMDFETDBYTjBjYV9qdWFTeVB2THBDMkk1SWZyczB1M2xVS2Q5MWJxYVo4azBidGhkSmExbTVtWUxlQUlIS1hjYm1zc2JpLW0wWE94U0NGN0NHWi1veDlMcTA3S0ozcHdjX0xNa2dib2R2dzRjZm1qU0NlcUhvX083NnN3VEJQV3dBR2hqdGE0RzZTV3R0eFAwV2ZUbnNwY2lfV0w1ZllRVGdB?oc=5",
     "fa": false,
     "at": "2026-07-19T04:26+00:00",
-    "flag": "روجعت درجته",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 1,
-     "انتفاء العلة": 0
+     "انتفاء العلة": 1
     },
-    "score": 3
+    "score": 4
    },
    {
     "head": "إدانات عربية متصاعدة للهجمات الإيرانية على دول المنطقة",
@@ -169,23 +271,6 @@
     "score": 4
    },
    {
-    "head": "عراقجي: الثغرة الأمنية التي أدت إلى مقتل قادة النظام لم تُعالج بعد",
-    "src": "إيران إنترناشونال",
-    "grade": "ضعيف الإسناد",
-    "link": "https://www.iranintl.com/202607193941",
-    "fa": true,
-    "at": "2026-07-19T16:00+00:00",
-    "via": "قناة فارسية مقرّها لندن",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
     "head": "سماع دوي انفجار في آبادان",
     "src": "إيران إنترناشونال",
     "grade": "ضعيف الإسناد",
@@ -253,6 +338,22 @@
     "score": 5
    },
    {
+    "head": "ثلاثة أطفال وامرأة من بين 15 قتيلاً في غزة منذ السبت، و مخاوف من توسيع نطاق \"الخط الأصفر\"",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pT0FkZk44dVpkSmZDUC1lTGwyUEZRWXN3bEFiWmlVRVNQakV2eENlaHItTHNQQ1hfbmlxRWV2TW9PNzFFTk1fTmg3TjJBQzZILUJsamdVOTM0Q1ZK0gFiQVVfeXFMUFMxclRjSlJ5LTI1d1dKWWwxaU1yNWtPRWg2RV9waHM0TlR5VzdVTXMyRFdqdGxpVzdPZXNxaWVVVUhkMnFjLWJrN3FFNFZWT2RYa3FaMXBoeEc3NkZzckdsM1E?oc=5",
+    "fa": false,
+    "at": "2026-07-19T15:33+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
     "head": "إسرائيل تقيم منطقة حظر عسكري حول قطاع غزة",
     "src": "العربية",
     "grade": "حسن",
@@ -267,134 +368,21 @@
      "انتفاء العلة": 1
     },
     "score": 3
-   },
-   {
-    "head": "الفرح يقاوم الحرب.. عادات فلسطينية تنبض من قلب مخيمات النزوح في غزة",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZHRpM1hYOEt3UzVxRW5KTU5ESWNleXU4MTA1SkJsX1JMdnhDSFFCVklzeHNTeV9MZEl6REhzcWhOMHJSdGRaUTJDdV9MaXV1UV9Xdmo3elVuYUZoVDVxMnlDNVNULVNmQmp2bnlFNy1GRVZuN0p0Y0VZYnd4S0c3ZTZGYnpIQ19LQ21EUzExLXJCMFlCYzk5ZGtINmN2WWJFMmJDMHlkTldfMmZvbjFxZmJPcUlybzNNX3JfZWJQamZ1VHZsVjJSRzMwa29sazFFTWhCM2haQUx5aExUMkhTN3Zodl9CVnRZV1FQbGVtaFUybnBHZHktajBMdDkwVElVVlUwYkpvYXpvdzlfZUhIQjNiSG5UNEpZZkJSQUFVNmJ6SzVOMUxSSHVsb0pUT1ZoQjZ2M3gyY3d0bV94N29xcHc2M01vOE9WaGwwb2xzaFFpVVlKTGh4c2FR0gHfAkFVX3lxTE9manRTb2NGZzJ3a25ITmthNHNfOHhwcEgyN21OVGxEMWFUY3hJbFBWZlFJOUpoRUR2cHFqQUViT0YwZGZQcXlCd0lTdi1YaWZXckVSTEhSenZwcVBDaGlza2wyckd5OFRjMmRONXZDUVhkUDNVS3BuVzdZdTZueFlWNkJDVmhxZXFjTzRhMjBjSEpaclZ0X1A5YkFuRkFtNFdrMlY3NDlRSkRGajI1UFF3QThFYmVFem4tT0JXOGRLZHpSY2tqZjByb1EyNEthRlJ0b3lQQUplM3UzbXdCMXBDNHExbHctanZnbHpQQUp2QlNmaWltZ1VZaU41alNNS0FFM0YxSkw0MnVEdkZXVFB3bldsOVh4OUxOdC1UdTZCeUpJTno2cFI0Y1FxSDduTDFRUGxjTlhlTnM3bGlCNEQteFRvakxUVUFTVE9OMV9vNXp4QWZDaDdXN2hnT3FXZw?oc=5",
-    "fa": false,
-    "at": "2026-07-19T13:52+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ثلاثة أطفال وامرأة من بين 15 قتيلاً في غزة منذ السبت، و مخاوف من توسيع نطاق \"الخط الأصفر\"",
-    "src": "BBC",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pT0FkZk44dVpkSmZDUC1lTGwyUEZRWXN3bEFiWmlVRVNQakV2eENlaHItTHNQQ1hfbmlxRWV2TW9PNzFFTk1fTmg3TjJBQzZILUJsamdVOTM0Q1ZK0gFiQVVfeXFMUFMxclRjSlJ5LTI1d1dKWWwxaU1yNWtPRWg2RV9waHM0TlR5VzdVTXMyRFdqdGxpVzdPZXNxaWVVVUhkMnFjLWJrN3FFNFZWT2RYa3FaMXBoeEc3NkZzckdsM1E?oc=5",
-    "fa": false,
-    "at": "2026-07-19T15:33+00:00",
-    "flag": "روجعت درجته",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 0
-    },
-    "score": 4
    }
   ],
   "تقنية": [
    {
-    "head": "ليس الذكاء الاصطناعي.. مستثمر صيني يكشف نقطة ضعف بلاده في سباقها مع أميركا",
+    "head": "\"غوغل\" تعيد إحياء أفضل أهداف بيليه بالذكاء الاصطناعي.. لم تلتقطه الكاميرات قبل 67 عامًا",
     "src": "العربية",
     "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxQVHRod3hEb1FHcmh5enZ0OGhhZ1hkVUhQeWRDSm5nWTltLUFkWmJfdk9NekJPMmdmUUJWVTRuZ2N3R1daOTlaeF9oSEVqRnpFclUtaldLWUdzRTN3VlNOUGRlSExmeDVtZkpzM3Z2MG5wS0swRnJ4SHdGRGxrNDFvejBBSlJNOVBWR3FsRjdwY1pKaHZKWGY2OU11OWRPdW9DMWw2MGNPZGJQcDZhcEhWNVNqUklKcUFWY255UXNYQ0xJZE9aVUJWSXZlNUhDWHc2Rml4MzhvcGFHREk3dFFsUmk3Vmw4U19VMjdpWnpCS2NvUnVwcHpfNjhEVVBqQ2l5blpoSGR1bTFiUWhMcXJ3dzc1bFFfT01rWnVJR3phR1dtLU5qU0JFSjh0T0h5SHFoOGRQOVpFTWI2bS1lNW5MZGhRVm9wOExGVjZLb01kV01EWWh1cEt6ZVZ1UHZvbF9VajFicFlDNlZDZVZzOWk4LVNscE1BQlF6UVdVYWZIaXdGdXBNOW41bUdwZ1NFd1pWdGpMcDh2UTR4QVVMay16eXFiejZQTVpONjBPamtBQmU5aXM1ZzRxRC1WMGcwMnVhXzZhNnljVF8tTjU2SDI1c3VoMktZUlJxT0xDVHNjQzdPQnh4LWpMYXNsWjR4RzVBRzc4ODNMbmplWFZCTDcxWUtCcGRoQkh2aHFESFJWR25ZcFdWbFVrUUxmU1pydTA0bDNHWXZPb0lZZWtwYll1NXpkaHJJOUg0cjdnTU5tX1N0TGM5WU5tN1hFSVB2Zk1BZ2d3ejJxV1RSalXSAeAEQVVfeXFMTVo4UjV3SzlRZGxzM3VYNGNOQmpjQzFsTWQ0VzJjUTZXaTY4STM0QUxEVmZqX1lkcmI2b2hpeUdxX3F2MXBYRFpWVy13dnY0YzVFVWZTMEZLU2lvVzQxNTZreFJMeTlEQ1JMNFVRQ1BTMVZRYUJiUFI0aThZSmo5c3ZHWFBWaTJaMUZKSnhST3BSVFFadUV6RWl0MUI5bVVDclRKOWRsbVAxalBhY1pEV282Q0NmLXdtTTljZm5naEQ3MldvY200bGNaN1NCSGJqUU4yT293Y21WWFkzQWY2WDM4LXJ4NDlsN0RhdjI5clB4RFdOMDU4NVdSako2QWlKUThjLV9wT2FDNWRoekFNbEhJR29BcE9pVl93MW15T2JCNmZscWxFSDZZbVZaLS1EV2U1YlhBV1V1WGlDaUR4cVh0UGNmWlBNMy1uLWJlLXMycFVVMjlJR1N5OTYzdnF2NVpWd2V4VDdlVEh1STlzNmhrRE15elRfQjBVOFpOdi1oSi1VZEJKSkQ2ay1OOFFCdGo3R3hLak1zS2RUTVBhcVZ3MHpuNzQtWW80VklLU0RwLXN5MjRWRnRCSl9hZmtlSVhPMUFHeVZlbGl0ZmEzRTh0Ql85dTJZZ0FTMHFRVk5yNG8xa2RWQWVsZF9VMVVRaGxTaWZYRGlVUVNwR0hmSnZuWlZSUUlxRHltaGFMQW82YXdFX2k4dUxVWlk1MjRlcEpZOGd0a2U2a0MyR1ZkVjMweDRlWGpmX1dpNWk4RVg1Q3ozbnM0OGdDRWlCS0t3U0lFelBRcFFHYlZUaXpHNVQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNNkcyaW9ZQ3hFeFJ6VDkzS0lfcUxoN3llMG5JZTFabDBXRkJpNlUyMHRnY1A3X3REU1BIT2ZmY2owTGNFRnYzbFBEbXN3REozQTB3aEJHR2NIR3NuNkVRSnRzNjh4MTdibHFjWmQ0alloMzVrbDNRNW9SajhfWVpISEhNZC1uN0lraG1OZVJLZkFhb3g5NC1vQXpHaF8yUzM3b0x5RmhheDVOLV9SQ2x3MkRTY0xfeFM2dGJOOXphakxrdUNHUlJybFF0SWdBSXlaY2tzRWNuMFQtcFU0T3VGQTA0Z3RMaWpMeFZqQl9UOElwaXdrQ0ptYmViYktmaHJmUUFBTnplNklvWHZPTUdXWmx4SkVYVUl0b2NoU1FCNGtXUUtfODJOTFpnWVlqcUtCLVRHWGtySFZiTXRCcGh3RUNBWGxfSTdsZTF0V1k5TWxoai0wWkIybU5GVXlBSXZ2ckVTSE9kR0RYdnJuOG13STJFZUtKZm0yQmFlZ0xIQThqODhUTW5iSzhnc3U5eWJ2ZkRoaEt5bFV0SnQyeDZ1Uk53eG5xZWpSOXpXTmphWWhBa29xRjJYeTFFSTN6aXEzd3U3Zld6WXZRbnd1MW1acWFqN19ma1VfSmZJTk1aMXJVVEk4ZGpwOVNpVnU1SHIxQWQxTTZ3VERaaFJ5a3RrRzh0Z1hia1gxUGlTSmJjUzBIWVR3ODNOVDFOUkM5aS1wcWhuS1VoTzRSNnZyUjl5R1BrbFdBeUpuRmMzOTgwREV1QzlZRmg1aldyN3ppNjJ0aXhUS3dSZDgtQWhGUVlmSGFCWVlTdENWcXUtUnpHck5UR1p4VnR6dnNPQXpLVzhTb3FEeEl0a0RaWEtaUXfSAZMFQVVfeXFMTk52OV9aUUp6Uk5EWWRMZjVka2h4Mk9waVljbmM2cjMwWHh2ekktcXpRREg2Q2RkRnBmaXVuMEE4Q3dhbjJiRjZJYU9XcjNVTWxoR3ZuME5URmU4dEhwLTZPaXRLWDQ3NS0wUzVBNDNJeFJXQ3Y5emNDdmFnTDJOc3htNW5DQmQwcFhoaTlVeGcwVUQ4MDFsRGdHSUVhdHBIaHB2Zl94ZUpuVy1TX09mUHprWFEwc3ZqXzh6VXE2bnZwbVpYQW5UOEtRLW1lVW5LQl95SEl2enAwSC04b2U2UklQcmhfWXlKSTFibmZkblpta19jMEtmVnRvOFRmS3ptc2FUN2dRRmRKY1lUZFNxdXRsQmdiVW9XMHRUS1pfNEJ1Tnd4dzh3WXcxMVhLREZYbjlVYm9sLTFPWXpGSWdsZE9YU1B5MUZ0STR3SEtOZlFqOGt0NVhUdUNxNkNiYTU2QjZ1Ul9SSWJ4ZVp3Tm1zVlZrVFJ2bXMtZzhNM1p6SkpjbTJjSVFPV3BtUGhTc2pnT0NTV3dDc2xwQnk0cmN6R19xcmhNcUJjN2M1M2JndHUzRUR1S1M5c0drUVFTeTRQZU43bF9idS1oR2ljR0s4bERBOFNYS2xGcTRyeWo2bEJsOTl6MkJucWFlT190c3RxZ2xiYjlfN3Z6X0dLazdwaVd4T0RDeGNiOXoxN1V3UU02SjdTdFJ4MmlDc281YV9OV2FtYUlQWl80S0hFRktxckxTOVhQSGI5RlFUTnkyMW16NGdqdDFDY1Q0eUxQRk1Gc0YxaEs4UlhXNUQxTThzYm5uNy1wOU5CQklUWnFaOTIyaW5fekd1a3RDdWJkZUw2SUZfZFROSG4zN3FRRkxvNnQ0QzA?oc=5",
     "fa": false,
-    "at": "2026-07-19T10:33+00:00",
+    "at": "2026-07-18T07:33+00:00",
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "هجمات وتهديدات تستهدف رؤساء شركات الذكاء الاصطناعي",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPU1ZkU0plVldSaDlRd1BJVW5mbXdjLTJ0TFQ5aHQzd2tYY2lkLWNpU2tFNjc1VEZaZllhMlU5WTV1QVZrdHU4OF9yeWdMZExnMjloSGRveGVJUHRpcFJ2SU56R29NVUhyc1FEYS1kZ2tXaGNvM3YyVV8ycjlRN3Q1TUQwRFpuTXlNNkY5UEdLb3oyU0FhY2ZVZzJpVHV3LXZqVl9Pbjh1Y3dnNVdYdmNOOFdjaEY1VDQ3OXYtOTlmRlNENFpFTHQ5RnduUmtneFplODJQYmMzV1JzQXE2Vnlfa09oNThYSzROQVRwWDFDaU9UMVByaVRNSWNFbG1zRTViMkxTS0djbUIwOTVlTm5JV3hHbHlUNmFDMFhXVmk1WUI4UFlLSXdHV1puYjc0bmNEODdfX19vdHhWWmJybzNOadIBxgJBVV95cUxQZG5BVkx3TDdhRDE1M3BnS0l2dnBMbHdPV2w3ekVNWTdrXzF6ckNpdDVSVGZvMml5S0FrRzFNV0NYR0taTmtSTTBxUWgycmlBOUp4cTJHUjZPUHVzaTZWa0ZqNGdyTDdER29NdUNYeHBHclpUN2IwbS1FRHUxaE90SDJxbnRIUUVmQ3daYlRaS08zTHZOS2VENm9UMXlGTkgyRUNnM1hhRnNndmEzakE4RldoWlRxSUEzTXZZZWdjU1QzbGZHdmZZY2h0VzZXb3R1VG5mZ25McW5FeXdNNHBsU2pFRURLalMyVk9oMFZXZ1I3YVlkRENyT2ItcXFYc2hqMHhFaEhOUnBCaUV1NXpabWw3d2U1UkdpLU5acUNRc1pJSGdJNW1xSnlwcnRQd2w3YzJ1T093bTBqa0NWRHpjRE5PblBRZw?oc=5",
-    "fa": false,
-    "at": "2026-07-19T13:30+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "طفرة الذكاء الاصطناعي تتحول من قصة رقائق إلى سباق على الكهرباء",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxQc3N1aGh3SkdyN2xZNkw3WG51cFdFNWJuLTd5Z3FZc1ZjTFc2aFN0RDBqNGhHVEdlOXZGcXpaY3BxUGNEVWI1ZUk5aFo4bXRqNU9LZ0lDUTZaay1MZWkxb1BXdW1KdDhpamtyWS1MTUpWUTQ2aXpyeW9ZbEUxRURRMFl5MnhVRDBSVzlLOThHSnNiM3RhblZtQl9TQjk3TjA3X0JUM2pIbTBnZUItak9PcmVvczd1bTljdExOQVMtOWR0OHl4VDFEd1V0Rm9mazRCUzQtdzRlbkk2TzFWLTdwZ3pxYk9oT3U5a0xubWVYSjZ3Sks1WmJZaE9WaHVZN09sbGZaWEZpTldFRl9KenJmZS1STHNxeFQ1c2xaQUlqa3V6LU5zc1pQVi1KOHVBVTRnN1JUWHVUbUZpejV1TzRObHpNc1hFNmNKZml6WDBvZHhDQV9qMnlTTnVKckhTeVJ6azVkRHB1MFlSLTVCbEItb2JlOURzWlE5MmhwT2JObl9sZ0NWWGF6ZjhMSkEzY3NDWVAyMGxoRG56TFFTZ0trNGVzSEFwcXpaQlAxSUVlanlCNGR2bnhkRmFtMk5FQWF6dnZITE92Y1ZDdVh6QWlQa2JlMFJvRGM2MWpyR3lYbDdMWG00cXJDQXVBZjVDVHNUOUc5dy1kRjJDOURvV2FQN2V6ZVpTNVlCZTVqMzNLRzhRWVJHTkxkcdIBngRBVV95cUxQeGtMVV9pVnNFNlJmQzVNZGlsRzExNWZ1VEc3bWd3QUk0cjQ0NGZFOG9pNEwwZkZPdTNkcGcweGZoeG1KWGN4NW1Rc3FNUnpYU04yN01pYlA3SVRTRDBsQjk4NWhwSzl5ZklCYk03a3VmcUJ2T08wb2FFSG4weV9RR3hPNjNIdkJtUHhPVFJaNXBrNThOOEs5UnU0R001aDRIdy1ORmtuanBEZHBnRmhfc3Ffc2Jld2FLVUR4Tl83STFsT3VrbUI2MjE3bWlqb0tXYTl2R0VaaVRpR2J4ci1ILVlDaExyX2tDMHFJQkdyM0NSZVdkS1FlYkNRLXpnaE9YcHQ4Qm0xcXJpQmZqcmFURDFZYWlHc21ldFpsOHFGdzlsRjMyaGE0VU5UZVVwdUpPWTVGam1xZi1EdUpweUNPM3pxWG9pSXhTY0o3TEhUV0V4U0NaT0gxeGJjdHUtUUMxUjZ6bEh4bTJPWmVCR0FsUl9Qc0ZkV3EtbDBDYlFJVE4xZEZYcG9OcEJSZzMydnpBVVlfSm04bTdYdGgtUVI0dzhxTmZZLVVDZjRUS05mbmxvQWNBOHE2Y0M3UXh6SEtRQjgwYXpiN3FmRjRjcTJHajB6TlRTeHFqcFZQS2hSckhBanM2V0dKdG1vYXRkenZMVGhRZl93U05sSFktcENXd1J0alRqdVRCLU11MXg4YW5lUjc0M0FYYjlfSTRLdw?oc=5",
-    "fa": false,
-    "at": "2026-07-19T14:43+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "هواتف في الصين تطمح إلى جعل الذكاء الاصطناعي في متناول اليد",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPZGlpWDJMUldZN2pGS1UycHdlWlZYZEJ1U3MweVdTX18wN2d5Ym43VVEzc0FWa3E3WThFcmxhU2Y0QXM5MzV6bFd3bUhRVTg2UEVaeHAya1p1UmRSbkx6QWF1QVZOa2RKSTZXXzBYWUlBVU54Z0lpNTk5N1E0UE1wNzBqTm83VVp2bmVLb3ZsczFKQUlXUFlQendPTmwzMjFfSnljNngtc3c0R29KdS1QTWh1aWlfVEJlbDBoRzNXTHd2MC1OdlVEUURWYkIyeWk3bC1IelZWdHZmdllxaWhEUy01RTgzM19mZjAwM1ZUZGZENGM4bzF0Wmx5eHpEeDZnOEx0S2d6Q0x3eVZ4Zy1Ec01idUF2eXN3ZFNWLS1HVE5HWGcyMXhLTjJrQTRpMW55OHJ0NG9vZ1VkX3p3QW9tdGlKZE5GWUY5LTRHZGNvWDZOWVN5SU5KakZsZ21lTWlKWXBKQVVGeHNFMzZwems1alVlYURwYVNVV1l3R2gxWjBYaVo3czQycXBWUHdQSDlSVGRJM1hsMXQ3VFRqMktvazN5Ti1wMFdHazI0NXdXSlIwNGNQSHV4bEpWX21kU21SMUV4dXAxcmp1SkxxLWtldmp0ZmdLTkd6dXpkT0ZxaVVndUdvdURKb3Btb2wwd2lHNmt5WW9QaUNLWmdfX1dVU2NXc9IBiARBVV95cUxNVWlYNDBUQi1UX1NUMEFLTmVyNmsyY25MZzJJWG9RdzhZVFlDRkJKWWhYM0s5NFhCMjEtVzhhdnR6ZmtJR29Qc1JTN2xtMjg3VUZSUHV1V1Y0V1NLUWNmNmRpZzBXNnRFZ1k2YldJTUNLNnFxOGo5bnlNUGtYNm9RZUZIeHZRSS15R3Ezc2tvRjFLRHBGcUJxZGFvV0NOY0xGZE1SZVlNa2FWYkJqbHVsOEVQZUdOM05pa0NwUTRlU1Z3TEJnV0pobFhrTHpkczRwdVRCeUZQR1lETFJYZmhKUWVMZi1HcmZEZXJ6aU5lR2xYTTd1TUZyMWxlOUFTTlVIcjBlMWFhb2xVc04zU0ZHSWNWTGhwR2VWaThvQ2VKRm5qeC1McDJtMk5mUUhSN1hZN0FERmdhS2xWdmhuVHhSSkxNeU1IbllieGRyb0lXdnBkay12eVM1eUlnd19YUnZ0dEQtLVpNNEptb183eGRnMkp1SG5SM0ZXRGx5cmNaRlA5OGRpQ0VPTmdWWktyc1ptQ1hqMnREazdLXy1leUpRVFlvOUdrLXVTbHRJWUpQdk5NajQzUUNpcVNkWlp6SzB6bjlfZlpBbms3S0RrSDlLdWZOTE5OS2NKLVREWlF3MGVJMVBPVG9JcHR3VENkVTA4ZmVEa2lkWm5BdHBra1I0bHVaZkw4XzQ0?oc=5",
-    "fa": false,
-    "at": "2026-07-19T13:20+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "بعد تراجع أسهم التقنية.. المستثمرون يطالبون عمالقة الذكاء الاصطناعي بإثبات العائد",
-    "src": "الجزيرة نت",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuNGNNc2RWWXo1ZU9qX1MyQzczQWtjTm1WRG9NM3puNlpBOUVoQlh0cFdWaWJYSTlNbkdxWC1LZGc3SmFuM25jbW9oYnZaUGttZTNxS0NldTMyQWVnZ1JIbG4wdkVrVkhNOVRMaHV4SElNcTdoSEdiak03c9IBgAFBVV95cUxOSWZYM1hWSzJmelgwQmo1ZjZQb081cHloSXc3ck1haUlxY2pPT0VLXzBWdE5uVFpWTXkyemc0YlFOeTNNWmRleF9sSVZIWHdrTkkzdGtseVRNR2ZCOTNJcE5aYmJ6OTFTVmhyUUtWU2pxamZxUmdUT2JHRnpQbmxsVg?oc=5",
-    "fa": false,
-    "at": "2026-07-19T15:56+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "البنك الدولي يبرز إسهامات معهد سعودي في الذكاء الاصطناعي",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPcC1tTi1GUE85MWU4ZWNveFM2VVlUNldpSXRmMFlBdUkwWjhadjItR29na2o4ZjFFSmdicEc4ejNsaEZEdXdBQWRhNGRocExuRVJHNUgwb0wxWEh2dExRU282ZGZ3bFJ2djE3bGdpNjItNlYxNVVDNnB5dHFpSmE1c3dQaHNDUWpkMHZnWk54YkkzZ2VzZHBaQnJTNENDMTExQWFQSmplOTlRNGUxaXViVmRtSlNGeHlGN2pCUi04T2dGcjJYWm9yVDVVVTAtOTZobTNZVFFzaFZjOUNzS2JHa01ITXJWTkQ3cEJteERKUE9JZEFnX1FNUE9Fck1QSklmazhKazZUVFJuMHlwYWk3UnhQVmxVSGg4UDUwWklIV0xRNWNORnhVMzg3cmxQd0d4MWNPeFUxT3BwT2MzS0tTZ09WcmN6WFhNcGd1M25SMWhTNmY0Y0dTbXJ2ZzJFelowSXdVekVBYzlvU3FMZ1RLeEdHRndlUUFzQTFrVjRQc2lIN0NiTGI2cnJTV2dEaXp3QXBsUmFDNlVxR1ZGelZiTVdXNlZMUVdOdTNJaVh0TjhYYTNxQ2l5MWlzbU5vYXFFYUZtQzduT1pnMkJqa2hNOXpmVVJJS05UOEN0OE9YWE01NVZnUlZGQVh0Qi1LQjVGc28w0gH4A0FVX3lxTE9TY1VvdGZVemVvUHdTWlUzSldIVkNSMGdQc01rVFpDTkhsZ2p0UzB6Z3YxdGUtTEFzaGFYdjNtR1dUdXc4Ulh1UGZ1OVlKUWluNjFrNUVHWEdubkNUQUo5aGhMUkdZTmxOUk5yNjNmb2lNT2huRVAwYmc2Y1NvUnRULUd2XzEwdHRvZlVMRmdBSHctSzd1MlZJMTE3MTdaX1Y5T1lDN251LWxxcTRGLTVCcVN2ZkUwWHZrRklfZ3VqVWtvWk5IcVhEVWJMS2hVQUs5emRrLWI5TWk0d3UzX1YtZGlMeVRUMi04RjFQNUM5amRPaTZuNVZWZkFlS0NKVzA1WDUzSmsxNVZKSDhlY01GMUtQekQwN2NXVHRJTTN5Y296ODVnYnV3MGtmYnQtR0JGREwzd09OWG0zYVVTMkEtYWN1a282cGdUS19zN0R4cnNRcERJVnhlRHVuMDJmNHNOUE1TbEY4dUY4MFRtc2t0UFRMcExXZGJPTlVwVUNIa0wyZ3lYVXZSQ1QtUF92azlRdWtQSXJKVHNaV3Nnb3k3aVZJNWY5cm5zSUhpVFlvNmgzXzJhYWJsWEdZQ09JMFRLc0dLZmJXZFhZbEhtVFpRUGNvWGhoNHZWTkxkRm54ZHNBYTJ5RGVtYk55Tnh3R0E3UUFGOGh3RQ?oc=5",
-    "fa": false,
-    "at": "2026-07-19T14:45+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
      "انتفاء العلة": 1
     },
     "score": 4
@@ -432,22 +420,6 @@
     "score": 3
    },
    {
-    "head": "اختبارات السلامة تؤجل إصدار نموذج \"OpenAI\" المفتوح لأجل غير مسمى",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOMmpQUzBIZWpuOXFrM29pSVZ2WnpGNHl6VVVzRVB4MjByV2dXZ2tkNnNXTzFLYW56Zmd2d0RadGFFbFdCOW5yRk4zRFdqVmtzOU53bm0yNl9ET01QQk0zY01TYmc2cW45cldWTUEtV256YklhWWJkWVZlcDV5V0xURDNzaXI1UXRwLWMxZnBXakNXUjNrWWMtR0FWMWw1OHlzd19lOFZGbzJrdXRVa25HbHJkNml1ckh2U2tCb09jUkhmNHNMLVZMNkxIcVRqRm9VQTRNcHNULXZHVU43UDk3NzhJaldwemQ1amVtQkxCYXdSR091WXdlaVRYQ3pPaDVzaGVOTlhMcEhDTFZ4RFBGWmc1QmdJVHRyWk5HdUExVE5FM1pqMTVZaVRVYlNPUDFQWEoxbl93OWMzUEFTSFBzUk10bmZhWUg4OGRMcHhCYkRtX2Zma1p5Ul9jTUhxWHhoSkRNQU5yRTBPLTl1REtkOTdTbjQ4SVVqcThlRHlSb1FZaFpySE1Pd3dwMC0yY3N5UE9SRklBWHllMmY2aHkzeWFOLU96d3ItU3ZhaXgtRWVlYU1jclFMS29YVUpOVWNwRUhQQ0szUFZYMVFjeGZrQVZ3anprNEMtU0R0UzR2bURxeXRKVHdhd2lXMzjSAfIDQVVfeXFMTXJyME9XeXJlZ3JaYkZzaUtRYnNpU0FxVVBMSDhJNGRIcDlSRDJzV010cmx4UnZ2UldwdGZxdzBMSlBEMXlCa3BVY2JqTWNCcDFHZEhrWDlNUkFnZFNDNkxBMVoxQnd1Tk1QLXhqLTlKQlJYRXFjOWo4SktVanJXUFdQcE0tVlhxSjE0T3JTQ282WTZFLWVNZUJCeUpCWGE0X05RSU5ZVGNZODE3RGNSSVkxMEVZbUZ6TDdJV2drblR3cFAyLXA5SmJEYVJVdzJTTlgxUnZOcnB5T0RVZzBQdUJxUFNGazkzaWJYRmdDSEJxX2E4aWgzMmpyTm9Bb2kxa0QtX3VYaXJUNVFId25DOTEyOTZiVzNYZzd6cUVDcGpYTHdqdi1YTGNKczBIRWVwRHlnd3NLTnc2SkRxZm9Jc3RlTEFRd19DaGNVNnBSNU9CV3EydWw1cGluUllpejE0T0lSblpWYmpCMl8yUXJvMmY2bk1lWDI0M2hBMkhnSUd4OUhlWkJzWXpKS1ktSzlQSF9sVkZpTkRqanRHTzBnWEJocHlQZk4wQUk4WTRoLVJOdUNPOUxFSXl4SDdweThIT1JsbDRJVWZkb1VsMnlrSWJham9ESWJSR1l3c2h5M3ZvOVhnVlgwYmNObmZfcExpcWN3?oc=5",
-    "fa": false,
-    "at": "2025-07-12T07:00+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
     "head": "\"ميتا\" تؤجل إصدار نموذج الذكاء الاصطناعي \" Behemoth\"",
     "src": "العربية",
     "grade": "حسن",
@@ -478,486 +450,6 @@
      "انتفاء العلة": 1
     },
     "score": 4
-   },
-   {
-    "head": "نماذج أحدث، الميزة نفسها",
-    "src": "هَغِنغ فيس",
-    "grade": "ضعيف الإسناد",
-    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "fa": false,
-    "at": "2026-07-16T11:49+00:00",
-    "en": true,
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "الإفصاح عن حادثة أمنية — يوليو 2026",
-    "src": "هَغِنغ فيس",
-    "grade": "حسن",
-    "link": "https://huggingface.co/blog/security-incident-july-2026",
-    "fa": false,
-    "at": "2026-07-16T00:00+00:00",
-    "en": true,
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ما علمنا إياه بناء Shippy حول بناء الوكلاء",
-    "src": "هَغِنغ فيس",
-    "grade": "ضعيف الإسناد",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "fa": false,
-    "at": "2026-07-15T17:29+00:00",
-    "en": true,
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "توجيه النماذج أمر بسيط. إلى أن يصبح غير ذلك.",
-    "src": "هَغِنغ فيس",
-    "grade": "ضعيف الإسناد",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "fa": false,
-    "at": "2026-07-15T17:27+00:00",
-    "en": true,
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "نرحب بـ Inkling من Thinking Machines",
-    "src": "هَغِنغ فيس",
-    "grade": "ضعيف الإسناد",
-    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-    "fa": false,
-    "at": "2026-07-15T00:00+00:00",
-    "en": true,
-    "via": "منصّة النماذج المفتوحة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "بطاقة أداء لعصر الذكاء الاصطناعي",
-    "src": "أوبن إيه آي",
-    "grade": "حسن",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "fa": false,
-    "at": "2026-07-17T10:00+00:00",
-    "en": true,
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "كيف تقوم Cars24 بتوسيع نطاق المحادثات والبناء بشكل أسرع باستخدام OpenAI",
-    "src": "أوبن إيه آي",
-    "grade": "حسن",
-    "link": "https://openai.com/index/cars24",
-    "fa": false,
-    "at": "2026-07-16T00:00+00:00",
-    "en": true,
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "الولايات المتحدة تعزز سلامة الذكاء الاصطناعي من خلال إجراءات الولاية والإجراءات الفيدرالية",
-    "src": "أوبن إيه آي",
-    "grade": "حسن",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "fa": false,
-    "at": "2026-07-15T12:00+00:00",
-    "en": true,
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "GPT-Red: إطلاق العنان للتحسين الذاتي من أجل المتانة",
-    "src": "أوبن إيه آي",
-    "grade": "ضعيف الإسناد",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "fa": false,
-    "at": "2026-07-15T10:00+00:00",
-    "en": true,
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "كيفية إدارة استثمارات الذكاء الاصطناعي في عصر الوكلاء",
-    "src": "أوبن إيه آي",
-    "grade": "حسن",
-    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "fa": false,
-    "at": "2026-07-14T10:00+00:00",
-    "en": true,
-    "via": "مختبر أبحاث",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "نهجنا تجاه المرونة البيولوجية",
-    "src": "ديب مايند",
-    "grade": "ضعيف الإسناد",
-    "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "fa": false,
-    "at": "2026-07-16T09:30+00:00",
-    "en": true,
-    "via": "مختبر أبحاث — غوغل",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "تمكين الجيل القادم من المبتكرين في الهند باستخدام ATL Saathi",
-    "src": "ديب مايند",
-    "grade": "ضعيف الإسناد",
-    "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "fa": false,
-    "at": "2026-07-13T12:37+00:00",
-    "en": true,
-    "via": "مختبر أبحاث — غوغل",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "ابدأ البناء باستخدام Nano Banana 2 Lite و Gemini Omni Flash",
-    "src": "ديب مايند",
-    "grade": "حسن",
-    "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-    "fa": false,
-    "at": "2026-06-30T16:02+00:00",
-    "en": true,
-    "via": "مختبر أبحاث — غوغل",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "تقديم ميزة استخدام الكمبيوتر في Gemini 3.5 Flash",
-    "src": "ديب مايند",
-    "grade": "حسن",
-    "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "fa": false,
-    "at": "2026-06-24T16:30+00:00",
-    "en": true,
-    "via": "مختبر أبحاث — غوغل",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "فتح آفاق بناء المنازل في المملكة المتحدة باستخدام التخطيط المسرع بالذكاء الاصطناعي",
-    "src": "ديب مايند",
-    "grade": "حسن",
-    "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "fa": false,
-    "at": "2026-06-16T21:29+00:00",
-    "en": true,
-    "via": "مختبر أبحاث — غوغل",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "ربط المزيد من تطبيقاتك بـ Search",
-    "src": "مدونة غوغل",
-    "grade": "ضعيف الإسناد",
-    "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "fa": false,
-    "at": "2026-07-16T16:00+00:00",
-    "en": true,
-    "via": "شركة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "الاحتفال بمرور 25 عاماً على ابتكار البحث المرئي",
-    "src": "مدونة غوغل",
-    "grade": "حسن",
-    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "fa": false,
-    "at": "2026-07-14T16:00+00:00",
-    "en": true,
-    "via": "شركة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "توسيع نطاق الوكلاء المدارين في Gemini API: المهام الخلفية، و MCP البعيد والمزيد",
-    "src": "مدونة غوغل",
-    "grade": "حسن",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "fa": false,
-    "at": "2026-07-07T08:54+00:00",
-    "en": true,
-    "via": "شركة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "أحدث أخبار الذكاء الاصطناعي التي أعلنا عنها في يونيو 2026",
-    "src": "مدونة غوغل",
-    "grade": "حسن",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "fa": false,
-    "at": "2026-07-01T18:15+00:00",
-    "en": true,
-    "via": "شركة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "اجتمع معلمو مدينة نيويورك وقادة الصناعة في مكاتب Google لتشكيل مستقبل الذكاء الاصطناعي في الفصول الدراسية.",
-    "src": "مدونة غوغل",
-    "grade": "حسن",
-    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "fa": false,
-    "at": "2026-07-01T16:00+00:00",
-    "en": true,
-    "via": "شركة",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   }
-  ],
-  "اقتصاد": [
-   {
-    "head": "النفط يقفز 16% في أسبوع وسط تصاعد الهجمات بين أميركا وإيران",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPN3BGbUtEM056RHpCWERQV1picG5rYjlfdldHLTRwSi1zSEFPY19MYUtzdWNFUWRhWHRBLTB5eUxTREU3MXpNaXRGbXRubUFOWm1tZ3ZudjNuREl0eVVOcnUxTWx1MjN5OF95SS1PVUlDTDFaNHhQU09HYng3QXFDVlFfbF90UzRqVlpmanU0NzdaUlhxLTdwVENYdXI3X3BwaFVBbnFwSHQwdkd4bC1wRGVvUDg0elZvMTI2emg3VnVpZlJUSmZrcVFQdXNmRE5tdkJTczJRNWthVFY4X0NENC15S3RBbGJQUjBSX1dTcjNpSk8ycWpJYUdXN3JMTlF2Z0JBZXBkN0xsZ2gxeVRObTBOU1VleWtFa0tncWQxVXNETzRtQ0RmQk9EZldUQ0ZHWWdldzlkcVMwT3RoZzNxcUlXaWh2V3VOSDI2NmdyVlZlQVRhaXlxaGlLeFdCNEtfNVdGbUhNRHRQV1JJVnRMWUNZbGxXQTVOMEFySS1hV3VUQjRsaVhNMHdFS2NvclhkT1o3UHhnUEt3WURlc0pMeEJmSUMwcXp6dkttSlVQS2dBZE5MYWp3Ny1wVm1iNmxoMW5NaVpJMUF1bTBBVDdzSGxSSmg0bWtQOWl2QnRORlU4TG5pMmfSAesDQVVfeXFMTXpCMHZjcEF5aTg5cnRJTjlGa2x4OEdJNkt3ZzREYkF0Y0U3R2dPb1I4dlVibGhjX1JRRjNNTjhVMXpkcnFRbmxJeGdqT1FTeXFOMzNmV1RmUWVEY0lpY0JEak14NEdwekxLQ3A5VnNhTlU1alZuUUdNV284Y1V3enpUY3BRUVZCU2wteHZEOC1iYVZPQ2NmT3BISnBzcHo0SktlTW92dkpKek1aRTRYMzA2NV9jT250SU8yaF9rX285YVVFZXJiNVdEcWFtRG94cDViMThNU0U1ZmI3eE9MV0xBUTlxNF9rV0E0dTNPbVFVVXd5U2F5U0VMaVJCWnFoM2I5cmhMNHJCSGM0MFFWUjlwTUgxUzFjRWVqYTN4eXhRRmR5Y2VvV1FZb0xsbzFtLUR1b0RiNVBiZ2YtUEYxOUZXbUZpWDl2Q2RZOTNDRURrSGF2VWtfYXdmd3FETEotclZpNkpBX0xSTy0xNEFOdGNUOFlYSnhRcm5ZdGttdDZ1Si0wSlVzUlZVMTBqbkE0cWZFdFpsRlFjSGpFU0JwZEJBMDB6X3dtUHFtaUhCZTFURGJvLVFGUzZRb2lZUXZLR2lGZ2c3a2FnRUJ2dlRHa3ZfbXZjRDhrNFVGNzlMcDVtZ0Z2SWh5b2kxZmc?oc=5",
-    "fa": false,
-    "at": "2026-07-18T06:22+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 1,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "الصين على وشك إزالة أكبر صمام أمان لأسعار النفط.. هذا ما ستفعله!",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPU2JRa1Y3N2E0SkNrN3lwX3VYYXczTGlqVG1QeWhRSldZSzVueUt1MDlFRDhBcmZZOWYySVJ2Q0tiZmxzcFE4aTNmSFo0aGFScE9GY1JZWEJRTXQ1SktVM0VVZFlSWElYWmlJYVVWZkZjNk9mLVVEVU5USGM1dmtzc3VzMkZHbmRxWHdKWkxEUUhGYU9FV0FZSDkzbF9FYnFzWkVNUmZrbngxYmVicVY1NVhTOHBGblRibmtCX2tENXhZMlEzLVpzVFFnSG9fRHFHZkItanhfR1NLSXUyUV96SkVPOUthMEQ0czAzdTJ4TE5GVGtpS1FrM21fblV5NV9GOU1RNktoUlNWTFUtVVMtdlE5dDNKTzJPdXZyVnZQZ2dfRzF2NU1lUWVuR1VWRFJ0Y2ZjcnBPcUg0UU1LczFVQzlMeU8xS3NRSl9MbjVxY2ljVTdiOWliQUhTLVVuRnpqdUpaVGlpVy1ZM2cxNThTbzd5X1JDTUNMOTJWRzFsZW1ZVy0xNEhoVS1wdWJQUndVazVLUXBodGhRV2huSUJPNW5JU3FVV2pUZTFJX3VEWFB0bW50aEVtQTItNVRsVFBpa0VPQUFZdy1PanpXMklseXU1c1o3R1JmdnJFN3RnWmtndGFVenAyaDlJSXBYd3k0Z2tETm9oVEZxT243YnNRSHF4NlR0bGY3QnfSAY8EQVVfeXFMTk52UGM4SllVUjhjR2xSWV93d3JPSEllYkpIUWxBRHRZT0JJTHZ6ODUzT19TWUQ0QzNGWEdFRVRfMnRsVWdlTGZGVWpOWFR0UU1HQ09ESjZzTjZucThHcWZaRDQ3VGdMazY5cVg4Z28waUdzbTVYZ1hJdHQzeHl6UVppRzZ0MUdiUXZwR2xzM0FRYVhhdnRXVjBhRzNDWVotT0RTN1dqTzV4eTVSX1hIV3BzMDVXODR2d09SUVEyT2xxVV85dDlIb0c0VzZMalRZWXk1aXd4ODc1a0dLNWRpTTJLMEpRanhsYkNUSFlSeFlPTnllTG1OdFRWbS0wVzNnSnFyemo5THJkbXFYSnoxQVFoVlJucThsSTl0VzJWTjc0SndHZGhyTWpnSVU4LUktUkNTY0luN3BrSENrMVdpQ2hRalY4UWhlNE0xdEZOOE1OZUdFMzdsWUJheHlOYjMtcGRMcUQ2aEdXNE1YNC1ZT0tKdGtMZFU5NVhxalpoejZOWWFHVVprTzViTXUzOHc4R2gySVo3elVZS25USTdnZUN3OEI2UE1NVDJIOGNHZlhiR2t1T3FLTmZLVkJNRXR1Zm5YTHFNZzVnZ09ubXAtRGFpSmdSU0pPVVV1c1dLbEJWSThneUU1V090NWpqZ2lHZHA3WS1ZeVpIYm1GQnQ1VWhhUFpJSDY3Tnlxek5rOEU?oc=5",
-    "fa": false,
-    "at": "2026-07-18T12:38+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   },
-   {
-    "head": "تحديث \"ChatGPT\" الأخير يثير الجدل .. روبوت الدردشة \"يتصرف من تلقاء نفسه\"",
-    "src": "العربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQVzlDZHFxOENFWlVVaUhvbUFQa1ZnUEpka01raWd5WFhYOWwwc3JhS1BwOHZNTjRPaXNJc2VJSkNyQ282OW45OUJNMVVGUHMwLVdZcDA3blc4YmpVdThmN1FjSm1ESEhETC1Tc1ViYVJiRDdHQW9mbi1aNGJBU3N4UllFcjFISGhjTXhCTWltR3hROVhpSFZ4bkk1R1BXOVBGSWFLYWtPd2o4NGZpYW5sSXM3Q2pBU0wwaFhBQmlqUy1vUkV6YjhoTEVSVTNNdkoyOXBXVkMwRDEweGs1dFNkekxEVkxpMHlwY0xQbVRWM0hjVk5jMEZqb3h1VVpoTklsQnZoc0tnYnNiTzZRaE9ZOU93bXl6YUxVZlVFaGRldjBrZ2h4SUlrZE9XbzdpVzUwRmxXYnlsaVpfVmlPWEtTcUJNdW5kellWZTBFcFdJekFVTUtPeGNScW9QWVZBeDR4TjIzUEtFc294WDFFMS0yQ1pJTDBQT3BwTmtQQ01mRXJDVE5QNllDdWtEQzg5OWstNWJiZi13VjBlYWtIWUtVOUFGTTBtWTM1SC1wSENHajFQb1Flb1NJZkt3cjhyemdjdi1zWjZFaEM2Sm5aWWZzcDVTNW5LREk2NjRLUUVRekx6OE00UlBUMUtPVnFaRHV0X3c3cC0yWdIB_ANBVV95cUxPODE2ODhzX3hndXluUFRzT0pRUm9rVXlGSkg1enFQNXBnczRieXdsNTlKWDQtcXNpQXpmdENQN2VjeWlwSXBnZVozcGRIV25ZV2JpeGUwNV9QMkE3czRoTWxERnRzaDhKQTRPT2VMaGw1R2tpRGs3MWxQVFZrMEw1bDBSbE9mQ3h3LXRoOTZUalJZWXZuZjNLbk52OWtjdDdLWXNFVmIyRzdqYWtfRlRBMzhHTlNPQm5tNy1yYTFWMGhxUjFyTl84ZXFUYUd2OGdCSEplZWZEZmVYVFhNVVk1N3JrcE5Rd29lX21pY3p4dU00U3IzYTRXbFpvOFktbV9GMFlPQmJxaXZ3b0VDWWowMFlNa21teFhZTDQtSjYybDFUcXh5RmJrc205V3B3bkZDUHZYa3RlVElUV2p2MklTT2x6SjJSTVNCNFRtQ2dKNTEydTBYR3JITUNtdDhKQWlUX3A1THlIX3diZ0lqalNzVThpRWUtYWFjX1gyaEgxX2NQVE9fOG54dDYxNlJpSDJvdGlHM19qRC1lRTUzYjQ5eGkyQkNqM3VSY2dSY0VTTFdPSFViczlmWHhyUkx2b0VQWFVpdDM2QjRvSTV4NDBQS25ic2RqaEZuaTd1Q1Y4WGk0a25QWDk1TFN0MGlMYmM1ZEJ0ZnpsSXE2UXN4?oc=5",
-    "fa": false,
-    "at": "2026-07-18T11:12+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 3
-   }
-  ],
-  "عاجل": [
-   {
-    "head": "الولايات المتحدة تجدد ضرباتها على إيران بعد مقتل جنديين أمريكيين في هجوم إيراني على الأردن",
-    "src": "Reuters",
-    "grade": "صحيح",
-    "link": "https://x.com/Reuters/status/2078819645746975026",
-    "fa": false,
-    "x": true,
-    "official": false,
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 6
-   },
-   {
-    "head": "الحرس الثوري الإيراني يعلن إسقاط طائرة مسيرة أمريكية MQ-9 فوق الأهواز",
-    "src": "AJEnglish",
-    "grade": "حسن",
-    "link": "https://x.com/AJEnglish/status/2078804979544961145",
-    "fa": false,
-    "x": true,
-    "official": false,
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 1,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "صفارات الإنذار تدوي في الكويت والدفاعات تعترض صواريخ ومسيّرات إيرانية تستهدف قواعد أمريكية",
-    "src": "AJEnglish",
-    "grade": "ضعيف الإسناد",
-    "link": "https://x.com/AJEnglish/status/2078746188946235851",
-    "fa": false,
-    "x": true,
-    "official": false,
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 0,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 2
-   },
-   {
-    "head": "ترامب يدعو الجمهوريين لإضافة إيران إلى مشروع قانون متعلق بروسيا",
-    "src": "Reuters",
-    "grade": "حسن",
-    "link": "https://x.com/Reuters/status/2078819643750334941",
-    "fa": false,
-    "x": true,
-    "official": false,
-    "isnad": {
-     "الاتصال": 2,
-     "عدالة المصدر": 2,
-     "الضبط": 0,
-     "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
-    },
-    "score": 5
    }
   ]
  }
