@@ -1,7 +1,7 @@
 {
- "updated": "2026-07-19T12:41+00:00",
+ "updated": "2026-07-19T12:42+00:00",
  "cats": {
-  "الخليج": [
+  "عالم": [
    {
     "head": "إيران تستهدف الكويت والبحرين وأمريكا ترد على مقتل جنودها بالأردن",
     "src": "الجزيرة نت",
@@ -10,6 +10,24 @@
     "fa": false,
     "at": "2026-07-19T09:45+00:00"
    },
+   {
+    "head": "ترامب، وليس إيران، هو الخطر الأكبر على العالم – مقال في الغارديان",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54enZkRktWeEJZamxFNjZWal9RU2hobkdGOFFkcEN1MHJkSjVaYlhtX0R4dG5uR0oyaHRGc2JWQVFhZDdRa0NQb0NDakxFR0lIeEI3MGhWWEw5S2U30gFiQVVfeXFMTU5sVWEyRFBYS2t5TlkxUzZIdFFSMjRfaExLejlKdUZrSEdRYktWci1PVVRtM2wwYlN3VWRSUjBNYTlxbDk1UlNSRFk5WTNTeThsZk80eE9HRTczMllMVDRXT1E?oc=5",
+    "fa": false,
+    "at": "2026-07-19T11:12+00:00"
+   },
+   {
+    "head": "حقيقة الفيديو المنسوب لـ\"ضربات إيران على قاعدة أمريكية في سوريا\"",
+    "src": "CNN Arabic",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGktQnAwdVpKUWE1TGRvNUZYX08zU0tFS1UzVkpJRTNmOVBDd1RNN3cwQkcxWWZBZXkxUTc3YTBpeHRxUU9XX0c5Qzc0OUpLUWl6LU5sSUk2OFZTOW9EeEY0M1pfTzVDX09aYkU4bWJvMkVsaHR2dUx3QW1lU0E4dURVVTZBbmZNMmp2UWRYVU9RQjJrd0lxR0I4eGVaRU9XYWhIZml2QWhmZndWdjd2eWF0YUxXTEttbWfSAcQBQVVfeXFMTk1ubDU3WVdxOFFtT2xEUWhjWkhnRm50TVBoaFJaM3pwOEMwZlpRQlhxVUhKUERmRnNYcTZVYktkTnJzWFB6UXI0bzlXTEx3ZEpZODFZTDIzWXFna2V2eEtWRUVjem8wXzdTbmxzSThCYk5yREIxR05tbkFYa1R4VXpCLXgwTVlWWFkzdkNiUm1taDVCeGRPc1RjUVJkaTJQSlNJaVh1NkNkckRrNGpKZ2p6VHQxeFE3UjVNYWxHNVBwZW5DVA?oc=5",
+    "fa": false,
+    "at": "2026-07-18T23:40+00:00"
+   }
+  ],
+  "الخليج": [
    {
     "head": "مصادر ووثائق تكشف آخر تفاصيل اتفاق نووي بين السعودية وأمريكا",
     "src": "CNN Arabic",
@@ -49,15 +67,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQVjRYRDZ4SDY0TTVIbExWQkdQSzlUZnhRTms3blpYSV83cjFXTGJNckEwVVFjYXBRRUdaUHNOZ1ZUeVFreFRMdFNDXzFnOGZJNXNhcURKYXd3aERJNExhSEU2Y0FQTFhNQi1ZclE1Z3NGYWJqVjRFTm9WYVdIX3BETWxBNkMzbXBJQXQtQWFwZmVMbDNTUmMxZ3VFM0N5V3VKUnY4aHdpSTdkTDhVN0lvN195U0YzcFpGalNtcWl2bzJGbXp4cGVzRzE5OE4yenBmdzU4VUlvaVIydGNyZ1RpVC1lTWVubUV6dGQ2NUl3T2VLczlBeDBYeE5FMEV3WXlIZV9mWmJXcWwyLUlEZ29YaUpQUjJDaklmWTdOeHFPNFdsakNYUVRXVWgwSkxPOVpDXzlMbF9RQURVcGZjVUw5R1NzN2FqWjB6cWd3VDM3aUJTMnV0OEx6d0h6eldFNnkzU1VjdV9CWUx1NlQ0cjMwVUFoSWs5Y2xWcjJ0SWtUZEFjRVJPd0ZjRng5WTY5TVNLRnBtdi1EalQwdDMteHY1aUduWUJibWhqNHYzS0VoLXQzRm9UaVBuaElzYWpCTmczUnfSAccDQVVfeXFMTlpkNXFCNnNTekFjQWtlaXB2MnUtYnNBRHhDRHQxNk1iaTBpM2hfMmdMUXZhWEJWVy1UQ0tsdFFFRzZYWDJFYUJwOTdhNmp0RTFLeWpzLVVhVHVuaXBLUWpValVWRG9FSFV1ZzZRaUpsRHNpSVctR1NSMS1TM2RrSzFHbzBuQWl5N2QwaDBadjZ4aHJYcUxFOURXajdlcHRGUkMxa3dlQlNZT0syUmwzTnpmVUlSSm16SjRhTlF3aXd4Q1kwRFFuYXBpZktGVWdkUWRBMHB2Nlo2V0JQbTdyZzNRUmcxQ25Ba2xkWHR1WXZoTXptaDNvdWJSQXQxZVNRTXpoc2FWMXcyUzlhUWdGS3AwcDJkVi1rTWpTWHdyWGtBWWRuVXlObVIyMjFoQUVLRXBGZjNWWmplTXotWUhQbk41RjdjYXAxNzJBUHNYWVhiWll5UjhzaHhwQm5XbDNOZndTVjNUOTI3S01xaF91clZ6eTQxdjJpZFFWRGhrNHVhblVHeG5ZanhlUTZ3dEZUWEdkcXB4cWFTanBHQWJuZnhKdXZhRW5JNG9QeW1PRU1pUjU5TU91bllVUktCcVFKSTRaemIySjA?oc=5",
     "fa": false,
     "at": "2026-07-18T07:45+00:00"
-   },
-   {
-    "head": "وزارة الكهرباء الكويتية تعلن هجوماً على محطة كهرباء ومحطة تحلية للمرة الثانية خلال يومين",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607198390",
-    "fa": true,
-    "at": "2026-07-19T11:43+00:00",
-    "via": "قناة فارسية مقرّها لندن"
    }
   ],
   "إيران": [
@@ -92,105 +101,6 @@
     "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPeEtJbGtfa3JaRmJpbXc5UlByNXhLLUg4cllsVjNPdkF4cnJieXVKV3RpbWh4Q0lEWDI4cG9CN1JLangyNVFWb29RQ2pjVU9MbXhRYmdBNjFWZlozcDZKM3MxNThCN2tnVlJXRm9VR2ozRDhKRkc4RnBqSUtfVnNNTlUxZ2djU0VFV09TcS02UWFoSi1lUWFwQ3dpSWItcjJlSzFSUkJsczRiQjNJQ2paOEJIb0Z3RmRRYnF4bzRCYW1FWFQxLVp1Z2xEUlkydGNKekNfMzEtNV8zWjNKS19EdFZ5emhtNEh0a0JYYXNTbXRlbm5yQ25EMWRFMzVqM1JZa2dMRHgtLVhfMUFfSW9JRlNzVktVb3FmQ2pVQi1XYnh5MkhNNWZsdnRJN0M4SXpOUTRlWGhtcnhCcHQ1aGpYQlE1bkhkV2V4WlVTbE5YTWFualF3Y2U0UlNvUDRaRU5xX0d1MnFqNjk5Q2toZzNucmhfLXB3X0FscllSbWxWbWFQVUh1LTN3bHlzaUMzcjdtZkI0WERjQzk1VVNYSDN1R0FSc21WTHFKSk9XdG9xbGpTRGFBaXFnSXJaM3ZDeVNFMG51bWpxZ9IBzANBVV95cUxNdlpqWWszb3hiUll6SWpzS1dEcWdyMGdFYi11dHdKMU1udDdBR09BQVZmVk5WQzkyeWZFUWlKOUwzdEtTR2o0ZlhxVmZKRFFRRlFFUlpveV9adWpuZjZVU19KSEFMOTRxRFNPM3NkM1k0OTNmVXZHdlVmNm9lYmFUZkRXd3h0cmZBcWFPMk0zZ1BiaHZWbHcxQ0xrZG8tMVpvMERsdVV1WmFtU05FMjdTWW5wRUMxSGZqSUxIRHF4eFBhTlpiTngwR083eTlsSkgyY1EzZ3ZmcWR2TXA1NW9IT1dORXdnVnFyb2pPUWt3WllLYURERXNNSFFVSkg5SThMX3p6MXNKOWFKRzVSS0ZWdnB3WHM4aHBCb2wwaEx6T0hRc2NIMVcwUEdBdVp1a3BnbnVBR0tmQmw5bjJjRkNwLXVIVkVQOFZZMkZEeFVlV1hPQjc5UFVVSFRJbkUxWlBHSEFBNlJReHhJVWluSFIxTjYzb3dBYW16R2NlQnlDbzJnX0FlMWVGUEpYUVB2M0cwWExOaG9HV3V6ZFlmbmdnWGhiWXlkMVNsM1dCZVBQWjFkblVmTWFkOFBzMkVJZHNyLWU5bjlkTHJ3NTdS?oc=5",
     "fa": false,
     "at": "2026-07-18T13:34+00:00"
-   },
-   {
-    "head": "الأردن ينفي بيان السفارة الأمريكية بشأن إخلاء مطار وميناء العقبة",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.co.uk/persian/live/c7vg62731llt?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "عراقتشي: الاطلاع على اجتماعات القادة ثغرة أمنية ربما لا تزال موجودة",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/c7vg3d2m96yo?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-07-19T12:12+00:00",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "عرفان إسفندياري وغل محمد محمدي من المعتقلين في احتجاجات دي يُعدمون في إيران",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/c5y3mrxz5y6o?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-07-19T11:13+00:00",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "قصة أول لقاء بين ميسي ولامين يامال؛ «معجزة من قلب القدر»",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/c0km85g6n3yo?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-07-19T11:10+00:00",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "«غياب» مجتبى خامنئي؛ هل تستطيع الجمهورية الإسلامية أن يكون لها قائد غائب؟",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/cdx8lykq99no?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-07-19T04:03+00:00",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "رسالة مكتوبة منسوبة لمجتبى خامنئي: توقيع ترامب بلا قيمة",
-    "src": "بي بي سي فارسي",
-    "grade": "حسن",
-    "link": "https://www.bbc.com/persian/articles/cdj0evyxevlo?at_medium=RSS&at_campaign=rss",
-    "fa": true,
-    "at": "2026-07-18T20:41+00:00",
-    "via": "هيئة بث بريطانية عامة"
-   },
-   {
-    "head": "اعتقال مدرب استقلال التركي في مطار طهران لحمله نقوداً نقدية",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607194723",
-    "fa": true,
-    "at": "2026-07-19T11:53+00:00",
-    "via": "قناة فارسية مقرّها لندن"
-   },
-   {
-    "head": "محمد أميني دهقاني تعرض للتعذيب وأُجبر على الاعتراف ضد نفسه قبل الإعدام",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607194428",
-    "fa": true,
-    "at": "2026-07-19T11:51+00:00",
-    "via": "قناة فارسية مقرّها لندن"
-   },
-   {
-    "head": "الجمهورية الإسلامية تعدم عرفان إسفندياري وغل محمد محمدي من محتجي شهر دي",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607194746",
-    "fa": true,
-    "at": "2026-07-19T11:32+00:00",
-    "via": "قناة فارسية مقرّها لندن"
-   },
-   {
-    "head": "عباس عراقتشي: قصف بيت تم عبر ثغرة أمنية وهذه الثغرة لا تزال موجودة",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607198875",
-    "fa": true,
-    "at": "2026-07-19T11:14+00:00",
-    "via": "قناة فارسية مقرّها لندن"
-   },
-   {
-    "head": "منظمة الطاقة الذرية التابعة للجمهورية الإسلامية: أمريكا هاجمت محطة دارخوين النووية",
-    "src": "إيران إنترناشونال",
-    "grade": "حسن",
-    "link": "https://www.iranintl.com/202607199535",
-    "fa": true,
-    "at": "2026-07-19T10:43+00:00",
-    "via": "قناة فارسية مقرّها لندن"
    }
   ],
   "فلسطين": [
@@ -211,20 +121,20 @@
     "at": "2026-07-19T05:56+00:00"
    },
    {
-    "head": "غزة.. مقتل 14 فلسطينيا نتيجة هجمات الجيش الإسرائيلي",
-    "src": "سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNS3B5NTF5SWZReE14aWg5RGV6RUE4ZUdZTnVfRWNpaFlzUkF1X0w0dl9FWUNYeUl0ZVlQbGo3Q3FGa1NtWnBES21pWFVxenhjZ2xwcjNqMmVabGJYZzdSSkJFTFRxaGRweHdjTHhDbG5VcnNCWHF1bWUwb2xENm9TWm1nUDB2cHFyVU1sQTRoSlpzaTVtTThsZG4xbEZvd2NzTThidm5hUENvdG5BN1NmNlZyNXo5d0R2ZjZUMEllazJCeE4xcXFLdE8xaE51T0FEZlo1REpGSFlZdjJxcmJpTGhjcVB2anVDV1lNcDlQd2Z5UkNxZHNudzlQZWdPVmJFM2Ntb25MVnNkSEVFXzVBMHhEMzRIejYwV3Jya2E0anV6aWVFMzBfby1VczNjdWpNbU5WLW5RQng2NWloZUxreUtNYjZETTVZa24xT3AwTEhuOUJGcnRlWnZnNlp2LXhIVC1zOXBkVnY1WDJ2WFY5U1lvODlnMjNReVNiMzdTWWtUdk9ESl9BY0cwWXowRGRBRm1LaGlSOEMtLUpSOXdXV05Zd1p4NkRxX0Zr0gGwA0FVX3lxTE1qbEV0cEI5U2RfemxqeWlJZjVPUHdjT183U3J2anZCS1JhNHViMnQyUlVRcG5neUszNkNrN0hxbEJzMUhZZ0JwQkoyYUYxTGt1VlRvMHdZNUYwSGVNOXBfT25LUDZyaGNMUjBjQ0stM2F3bkw0WTliQUdfRlpETHVCaW52X0V4TE1nMmdRXzk4dGttNS1kUTZIbENRRWRfOFdlOHEyYlA3N3dtMFh3MlJFNkQtcks2VDlEelh1UmgxM1dQdjd3VVIxYWpjQlhQcHNObldNdGNhczRrQjI3ZS1yN1M0TFZDNVg5eThwdlBMWTVMYlpndFY1emZrS2U2THlxTjJBUVlFYXYwNHkxTkFSMWFubVpjX3VXZ2sxZjlvQU15eDRKdnUxU19NN1IxdlNDTno0NzB6dHdtVVhUSHdVbUhmamZOTEpubFBwUWtvdFlBODNhdWUtSUFUWUVrc0R1LS1pZTdCVmd2NVRxX3ZNdV9nSTFQMVNOT2JPYXF3aVEwYnZxMERhUVdqREVEU3FiQ0d0X1RKdG0xTUhkbmhXbUVWblpxamN0VWxkWkNUQg?oc=5",
-    "fa": false,
-    "at": "2026-07-18T04:11+00:00"
-   },
-   {
     "head": "إسرائيل تقيم منطقة حظر عسكري حول قطاع غزة",
     "src": "العربية",
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOQXBFdmlhYlVlMC1VQ3JXU1RNUzRyblRQNGx2bnUyOVdMWnYxejVkcW93MGJGblhSZTBTOHI0MjhPWjRibWxNNExieEpVMUVHSjdhR1dFRS11RF9FRWhualF3c3B5aTk5UmhlR21qZmNPcXkzRmNIcFVyV1pEb0NYZzN2c3VNTlJRbkUyOTZpZ0NVVnFnM2Q5a1lNcDFJeXYyVTIxeE0zdWZUbXlocjBGMnJBVUpGb0JrSmJ4U1R4UW9MTElUaXlYejR0clpUblBSTFFSWG9DdWJDNzlsQVZ0TDRwV1VBeDV6aXl4TmdYM1pIUDY5M3hCR0h5SGJjajNkLV9oQ3dzYzRGRWx3QkRNdl9ZUVlPUjlJMzFtU0lPTGFjdU9ONWs2S21QVjFHdGoxSjhtcVJINUJuYzBVX3FLQ0tZOGkzMGI0cVc2ZzZJS3ZMV2FOTXhWZmlxNmtsay1Md0dxSFY0M3JvMzVac19LX1FWSGRUYktjX1Z5edIBggNBVV95cUxOUGdKSmwyaUdzX1lneUdTQ0tjM1YtOXR4bVJDOXIzYmVzTjVLczlrS2dac1lNTm5pclJMOVlZaWRaQzZ4SmRBMHFBRWhtT3Y4MDZZMFRDUEM1N1JGTmxhSWx6ZXFyQUkyTHhrV01ndDJpQ3JBVjNvOEgxV1pJWUtMbjBfWUhkbm1ON0Vfa2lTenFDYndLeFhWWVh0SktlX0pNOFZZdmxsTWpoM2NPenlXSERoaElwWUZpdDJrT21NbVQzeXhKS25HVnV3bF9IbldERGl1UHVRMWxRMndnUGZ6WXpvVzV1WEljYUNQMUdsWEx2cFNPck9nQzF1M1VicGxkam14QzZ1cHJ4ZmhnSk9nODlQUkZnb1BFdkRfNDkwcnI1QjdHemo1MTRDYlo2SGlCNDkxc1Z0U2I5NG1jMnNaNy1oeHpOWVFxUjdySVFlbzk3WnYxYllmdHdnZmFQRlgwT2tDQ0pSR3JKRzVtRHpFd2VlUkNHOE0tTUlwcUZzZWRRZw?oc=5",
     "fa": false,
     "at": "2026-07-19T10:58+00:00"
+   },
+   {
+    "head": "3 شهداء بنيران الاحتلال في غزة ومسيرة استيطانية على حدود القطاع",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOZWJFMEF0ZGdfaDB5Z29MWVRWRHJNejUyQ1p6cWtKUWtQUHJUVGNZTFdzbVVhMmF3c3ZCeU9VaVMwOXdwV2VGYy1tbTZXckRvV0E5dVBGeTRjS1pia21uQnN1TjhpQ3BaY2NielhZR3lWRFZIdHFPRFZHSDFLR3Q2V2w0SW5qMVdfbXRvZG1mQTVWc2Q5dll2eFo2dXJsZllpX1pQMkpJN2hXTFhISHhGV2Q3QklIYTdKQ0dZQmo2LVZETW1hVFY0ZXJEcjlaWGFhTW1wejlGQ2Z3VVBETWd3ckdDRFRiTlRxTU1yS1NubGpVcEcyMVV6ekZSa1hZclZpNFJlaTRFSUd3cmJmTmVFWXFaZnNxNElzT2xNTHltdkRlY2pKXzhwZk5tXzFJN0xGelo2dXo4NDh5c0F2a2dNdHZNOEJ0SVc40gHOAkFVX3lxTE1vdWRiRnVjVnR2dEMxWi1YZm9NYl9OQ05Ta09RT0JZQ0hTY0hBbW05Rkdpc0dlODJqaXRXMWxIeDN4cmczQzVCNDBqS2h2bVE5RWJ3STFIV1BRWDZKY0tTVnpkRGl0S3ZZd0NhcHZ4U2NVQ0RDZF94S0pyc0ZCbldOaGRKUUpHUDcwcWg5MXZuczR4OHVyQXVUSHhiR2tqbU1YRkhFVGU2eGY4aTZYZEtVeUR1Y1hHcnJnSXl1Uy1RU1NkbGVVeThFNms1bndCa3k0bFZEMWVmT3M2YVBrWXBUYWpxcTNNTUIwOUg5OVRPbVdjbE1WM2pwNFF0N3NyR2o0cE9xcFplWXVKYS02QmxrY2RqZHBPSnQwdThscmJvVzk0SmQ0ampBcVVPUnZsT2JhbmlwREFnNUZFSmh2eF9STlpKbWhJTFdvaTJDLUE?oc=5",
+    "fa": false,
+    "at": "2026-07-19T12:33+00:00"
    },
    {
     "head": "\"الفارس الشهم 3\" يقدم قافلة أدوية للمنظومة الصحية في غزة",
@@ -243,32 +153,14 @@
     "at": "2026-07-19T07:50+00:00"
    }
   ],
-  "عالم": [
-   {
-    "head": "ترامب، وليس إيران، هو الخطر الأكبر على العالم – مقال في الغارديان",
-    "src": "BBC",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54enZkRktWeEJZamxFNjZWal9RU2hobkdGOFFkcEN1MHJkSjVaYlhtX0R4dG5uR0oyaHRGc2JWQVFhZDdRa0NQb0NDakxFR0lIeEI3MGhWWEw5S2U30gFiQVVfeXFMTU5sVWEyRFBYS2t5TlkxUzZIdFFSMjRfaExLejlKdUZrSEdRYktWci1PVVRtM2wwYlN3VWRSUjBNYTlxbDk1UlNSRFk5WTNTeThsZk80eE9HRTczMllMVDRXT1E?oc=5",
-    "fa": false,
-    "at": "2026-07-19T11:12+00:00"
-   },
-   {
-    "head": "حقيقة الفيديو المنسوب لـ\"ضربات إيران على قاعدة أمريكية في سوريا\"",
-    "src": "CNN Arabic",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGktQnAwdVpKUWE1TGRvNUZYX08zU0tFS1UzVkpJRTNmOVBDd1RNN3cwQkcxWWZBZXkxUTc3YTBpeHRxUU9XX0c5Qzc0OUpLUWl6LU5sSUk2OFZTOW9EeEY0M1pfTzVDX09aYkU4bWJvMkVsaHR2dUx3QW1lU0E4dURVVTZBbmZNMmp2UWRYVU9RQjJrd0lxR0I4eGVaRU9XYWhIZml2QWhmZndWdjd2eWF0YUxXTEttbWfSAcQBQVVfeXFMTk1ubDU3WVdxOFFtT2xEUWhjWkhnRm50TVBoaFJaM3pwOEMwZlpRQlhxVUhKUERmRnNYcTZVYktkTnJzWFB6UXI0bzlXTEx3ZEpZODFZTDIzWXFna2V2eEtWRUVjem8wXzdTbmxzSThCYk5yREIxR05tbkFYa1R4VXpCLXgwTVlWWFkzdkNiUm1taDVCeGRPc1RjUVJkaTJQSlNJaVh1NkNkckRrNGpKZ2p6VHQxeFE3UjVNYWxHNVBwZW5DVA?oc=5",
-    "fa": false,
-    "at": "2026-07-18T23:40+00:00"
-   }
-  ],
   "تقنية": [
    {
-    "head": "هل يقود الذكاء الاصطناعي أوراكل إلى حافة التصنيف الرديء؟",
-    "src": "اقتصاد سكاي نيوز عربية",
+    "head": "\"غوغل\" تعيد إحياء أفضل أهداف بيليه بالذكاء الاصطناعي.. لم تلتقطه الكاميرات قبل 67 عامًا",
+    "src": "العربية",
     "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOOTNWSXJKZnBZRms3RnNJM0pGWFZVSW9RLWpNdGp3c3BHMk1tdFhhZU55cTl2bWJ5WDd1NEVZc2k5bnZfMlFHTllBQWd2TjBBZ1l1V3lmYUxJazAwd1N2NW9Id3RRZHZSZ3VyZEpmR19mYkUwdlc0VFVFTTFNUjlvbVFudWgxRFN4UU5RNFlWQVkxamhQODF5OHdZNFpabi0yT01KR0E3ek5jYWUyMmdNRElqTlYyNXNscDNmalJidlhJa3RmekVnR0ZqUndpcl9fd0dpLUF5Nk1IYXJwQVVScXFPbjB0anNac0RodTJoMWhDWkJ6aHVrMzZBdG9FcDNERDdYVGlyaHhQd1BWelJFaG9vUXNuRFlJZDVYRFNXNjJpbVVEOEpvOEF3N244TlNBWDluRm0tbW9yY3RYYU9PTjdTREI1Q0hkZ1RaWWhOOVdYdUl1WDgzWFl0cmwydU1XcUJmTVN6ZHVHUlZRV2NYdXdlNjU1ak9uUURNRzdFSWV0SVVweXN4SUd2emtKaHdLSDU3Vm1xR2pUNGNnbmNGU1B0TEZTdjFYSmFmVXJCZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMijgVBVV95cUxNNkcyaW9ZQ3hFeFJ6VDkzS0lfcUxoN3llMG5JZTFabDBXRkJpNlUyMHRnY1A3X3REU1BIT2ZmY2owTGNFRnYzbFBEbXN3REozQTB3aEJHR2NIR3NuNkVRSnRzNjh4MTdibHFjWmQ0alloMzVrbDNRNW9SajhfWVpISEhNZC1uN0lraG1OZVJLZkFhb3g5NC1vQXpHaF8yUzM3b0x5RmhheDVOLV9SQ2x3MkRTY0xfeFM2dGJOOXphakxrdUNHUlJybFF0SWdBSXlaY2tzRWNuMFQtcFU0T3VGQTA0Z3RMaWpMeFZqQl9UOElwaXdrQ0ptYmViYktmaHJmUUFBTnplNklvWHZPTUdXWmx4SkVYVUl0b2NoU1FCNGtXUUtfODJOTFpnWVlqcUtCLVRHWGtySFZiTXRCcGh3RUNBWGxfSTdsZTF0V1k5TWxoai0wWkIybU5GVXlBSXZ2ckVTSE9kR0RYdnJuOG13STJFZUtKZm0yQmFlZ0xIQThqODhUTW5iSzhnc3U5eWJ2ZkRoaEt5bFV0SnQyeDZ1Uk53eG5xZWpSOXpXTmphWWhBa29xRjJYeTFFSTN6aXEzd3U3Zld6WXZRbnd1MW1acWFqN19ma1VfSmZJTk1aMXJVVEk4ZGpwOVNpVnU1SHIxQWQxTTZ3VERaaFJ5a3RrRzh0Z1hia1gxUGlTSmJjUzBIWVR3ODNOVDFOUkM5aS1wcWhuS1VoTzRSNnZyUjl5R1BrbFdBeUpuRmMzOTgwREV1QzlZRmg1aldyN3ppNjJ0aXhUS3dSZDgtQWhGUVlmSGFCWVlTdENWcXUtUnpHck5UR1p4VnR6dnNPQXpLVzhTb3FEeEl0a0RaWEtaUXfSAZMFQVVfeXFMTk52OV9aUUp6Uk5EWWRMZjVka2h4Mk9waVljbmM2cjMwWHh2ekktcXpRREg2Q2RkRnBmaXVuMEE4Q3dhbjJiRjZJYU9XcjNVTWxoR3ZuME5URmU4dEhwLTZPaXRLWDQ3NS0wUzVBNDNJeFJXQ3Y5emNDdmFnTDJOc3htNW5DQmQwcFhoaTlVeGcwVUQ4MDFsRGdHSUVhdHBIaHB2Zl94ZUpuVy1TX09mUHprWFEwc3ZqXzh6VXE2bnZwbVpYQW5UOEtRLW1lVW5LQl95SEl2enAwSC04b2U2UklQcmhfWXlKSTFibmZkblpta19jMEtmVnRvOFRmS3ptc2FUN2dRRmRKY1lUZFNxdXRsQmdiVW9XMHRUS1pfNEJ1Tnd4dzh3WXcxMVhLREZYbjlVYm9sLTFPWXpGSWdsZE9YU1B5MUZ0STR3SEtOZlFqOGt0NVhUdUNxNkNiYTU2QjZ1Ul9SSWJ4ZVp3Tm1zVlZrVFJ2bXMtZzhNM1p6SkpjbTJjSVFPV3BtUGhTc2pnT0NTV3dDc2xwQnk0cmN6R19xcmhNcUJjN2M1M2JndHUzRUR1S1M5c0drUVFTeTRQZU43bF9idS1oR2ljR0s4bERBOFNYS2xGcTRyeWo2bEJsOTl6MkJucWFlT190c3RxZ2xiYjlfN3Z6X0dLazdwaVd4T0RDeGNiOXoxN1V3UU02SjdTdFJ4MmlDc281YV9OV2FtYUlQWl80S0hFRktxckxTOVhQSGI5RlFUTnkyMW16NGdqdDFDY1Q0eUxQRk1Gc0YxaEs4UlhXNUQxTThzYm5uNy1wOU5CQklUWnFaOTIyaW5fekd1a3RDdWJkZUw2SUZfZFROSG4zN3FRRkxvNnQ0QzA?oc=5",
     "fa": false,
-    "at": "2026-07-17T06:45+00:00"
+    "at": "2026-07-18T07:33+00:00"
    },
    {
     "head": "ذكاء اصطناعي.. كيمي كا3 الصيني ينافس أوبن أيه.آي وأنثروبيك",
@@ -335,44 +227,6 @@
     "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxQVzlDZHFxOENFWlVVaUhvbUFQa1ZnUEpka01raWd5WFhYOWwwc3JhS1BwOHZNTjRPaXNJc2VJSkNyQ282OW45OUJNMVVGUHMwLVdZcDA3blc4YmpVdThmN1FjSm1ESEhETC1Tc1ViYVJiRDdHQW9mbi1aNGJBU3N4UllFcjFISGhjTXhCTWltR3hROVhpSFZ4bkk1R1BXOVBGSWFLYWtPd2o4NGZpYW5sSXM3Q2pBU0wwaFhBQmlqUy1vUkV6YjhoTEVSVTNNdkoyOXBXVkMwRDEweGs1dFNkekxEVkxpMHlwY0xQbVRWM0hjVk5jMEZqb3h1VVpoTklsQnZoc0tnYnNiTzZRaE9ZOU93bXl6YUxVZlVFaGRldjBrZ2h4SUlrZE9XbzdpVzUwRmxXYnlsaVpfVmlPWEtTcUJNdW5kellWZTBFcFdJekFVTUtPeGNScW9QWVZBeDR4TjIzUEtFc294WDFFMS0yQ1pJTDBQT3BwTmtQQ01mRXJDVE5QNllDdWtEQzg5OWstNWJiZi13VjBlYWtIWUtVOUFGTTBtWTM1SC1wSENHajFQb1Flb1NJZkt3cjhyemdjdi1zWjZFaEM2Sm5aWWZzcDVTNW5LREk2NjRLUUVRekx6OE00UlBUMUtPVnFaRHV0X3c3cC0yWdIB_ANBVV95cUxPODE2ODhzX3hndXluUFRzT0pRUm9rVXlGSkg1enFQNXBnczRieXdsNTlKWDQtcXNpQXpmdENQN2VjeWlwSXBnZVozcGRIV25ZV2JpeGUwNV9QMkE3czRoTWxERnRzaDhKQTRPT2VMaGw1R2tpRGs3MWxQVFZrMEw1bDBSbE9mQ3h3LXRoOTZUalJZWXZuZjNLbk52OWtjdDdLWXNFVmIyRzdqYWtfRlRBMzhHTlNPQm5tNy1yYTFWMGhxUjFyTl84ZXFUYUd2OGdCSEplZWZEZmVYVFhNVVk1N3JrcE5Rd29lX21pY3p4dU00U3IzYTRXbFpvOFktbV9GMFlPQmJxaXZ3b0VDWWowMFlNa21teFhZTDQtSjYybDFUcXh5RmJrc205V3B3bkZDUHZYa3RlVElUV2p2MklTT2x6SjJSTVNCNFRtQ2dKNTEydTBYR3JITUNtdDhKQWlUX3A1THlIX3diZ0lqalNzVThpRWUtYWFjX1gyaEgxX2NQVE9fOG54dDYxNlJpSDJvdGlHM19qRC1lRTUzYjQ5eGkyQkNqM3VSY2dSY0VTTFdPSFViczlmWHhyUkx2b0VQWFVpdDM2QjRvSTV4NDBQS25ic2RqaEZuaTd1Q1Y4WGk0a25QWDk1TFN0MGlMYmM1ZEJ0ZnpsSXE2UXN4?oc=5",
     "fa": false,
     "at": "2026-07-18T11:12+00:00"
-   }
-  ],
-  "عاجل": [
-   {
-    "head": "الولايات المتحدة تجدد ضرباتها على إيران بعد مقتل جنديين أمريكيين في هجوم إيراني على الأردن",
-    "src": "Reuters",
-    "grade": "حسن",
-    "link": "https://x.com/Reuters/status/2078819645746975026",
-    "fa": false,
-    "x": true,
-    "official": false
-   },
-   {
-    "head": "الحرس الثوري الإيراني يعلن إسقاط طائرة مسيرة أمريكية MQ-9 فوق الأهواز",
-    "src": "AJEnglish",
-    "grade": "حسن",
-    "link": "https://x.com/AJEnglish/status/2078804979544961145",
-    "fa": false,
-    "x": true,
-    "official": false
-   },
-   {
-    "head": "صفارات الإنذار تدوي في الكويت والدفاعات تعترض صواريخ ومسيّرات إيرانية تستهدف قواعد أمريكية",
-    "src": "AJEnglish",
-    "grade": "حسن",
-    "link": "https://x.com/AJEnglish/status/2078746188946235851",
-    "fa": false,
-    "x": true,
-    "official": false
-   },
-   {
-    "head": "ترامب يدعو الجمهوريين لإضافة إيران إلى مشروع قانون متعلق بروسيا",
-    "src": "Reuters",
-    "grade": "حسن",
-    "link": "https://x.com/Reuters/status/2078819643750334941",
-    "fa": false,
-    "x": true,
-    "official": false
    }
   ]
  }
