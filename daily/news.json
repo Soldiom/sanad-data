@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
  "updated": "2026-07-20T15:42+00:00",
+=======
+ "updated": "2026-07-20T15:49+00:00",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
  "cats": {
   "الخليج": [
    {
@@ -42,6 +46,8 @@
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SUWsxbS1xcTRWc2lMV2x4bjJfUjVPeExrMDE5U292Qlh1TVhDbTY0M1lOUDBKVVg2ZldZZjZsNFVqWFNNWEl0dEYxZTNFaF9wNzQ3Q3Bna0FjN0JZbzUzUEVjYWtKNUxSQnI5cXY2VDRjTGNzUWRnb1Z1RQ?oc=5",
     "fa": false,
     "at": "2026-07-20T12:48+00:00",
+<<<<<<< HEAD
+=======
     "isnad": {
      "الاتصال": 2,
      "عدالة المصدر": 2,
@@ -71,6 +77,54 @@
     "head": "الحوثيون في اليمن يعلنون \"حصاراً بحرياً\" على السعودية",
     "src": "بي بي سي فارسي",
     "grade": "حسن",
+    "link": "https://www.bbc.co.uk/persian/live/c62v9dxye9pt?at_medium=RSS&at_campaign=rss",
+    "fa": true,
+    "at": "",
+    "via": "هيئة بث بريطانية عامة",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
+    "isnad": {
+     "الاتصال": 2,
+     "عدالة المصدر": 2,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+<<<<<<< HEAD
+    "score": 6
+   },
+   {
+    "head": "قبالة ساحل عُمان.. استهداف سفينة ينتهي بجنوحها وإجلاء الطاقم",
+=======
+    "score": 4
+   }
+  ],
+  "إيران": [
+   {
+    "head": "الإمارات تُدين بشدة الهجمات الإيرانية على البحرين والكويت",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOOTVwVG4wa18wUEx2d3FDRHhSNzRPOHF3dGF1OS14eFJ6UXdkWTl6SUk4Q2J6ZVBDdEFMQ1hmWldSWUd6bnRIalhBbVMxdmlxaTFTZElRSmc1MWhybHRrLWJPQUxSRlpOZ3NrNjJkcmtOdm5PVzZCakxLT2tvRHh5MmZHem9SRC1lTjB4ZnNscFJCYVE1Y2UwV21ON1VxSmFxRHBscWRXVW9MRzZ3eWtkSXJJOEx2VFpyYUVHRWhFR05sSjNJWlU1Sjc2V0tqWDNPMDNxdjBSVlpMbE1Tdm5ucG1HWTl4U2dPOGZpQ0FiZm1PUU84bTBZbEJkZ2VtNnNxRTlzNUlZSmV2N1FPOTVQYzlvUWZXc3V6R0M2NDI3cll5V3FBc1ZRYTF2VFRqZ1piYjRIUDI4NnFxZXU3QU9wQ09LNGVpYzJwLUl3MnRRVVl1MVhCMWNUVGN5MmJ3V2tFNWNYaXk0QlA3SGthMGwzeWk2TWJHSFZxbFFNbHZUTHBQcUt2YWdZbWdUVE5qVjY1WENKMktXa01oUUhydWJzeFY5WGxQYkw2VGlrbWhBc3dhb2dxWGZZNnVBVjdfZVVUdHhXQlFEWGl4MXpRQ24xenp6Skg5SzjSAdwDQVVfeXFMTWNfLVpSVDVUZzhoaW5PSURNcHFDa0RTaVAzUjdmTW5vYmRwVVY3UVJIODJpNllpc19kV3laZk5sTlN0eVF2WTNNbWVpVnh4S0RCWlhvbzF1LXZiTlV5bmsxbVJxMzYxVXlIRkh1SEx2WkZ4eTlfeGZKTHAyc1BGNV9uMEZEQlZLUEFNVk42eWxWSWtJemp4NkVqcklpbU9GenRQaVN6SHpkYlFXa1c2dXRXX2s3b0kyNFhMMkgyU0dDeWJmcEhuWjM2bEV2TW5BWHpEbDM3eHNnemVMOEFWOVR3djFsVkc2YzhSUGxadmk0ZGJXY2Z1OW81a0tXVnBWaFoxT2tBcDNSWDZGbHVwV1RIWTJpeEx6eV9GdF95N0xZY3NTNHBBbHZ6RWVuX3JJWTRGaWZ5U0xFbnRCVHJ1VzMyWHdWUkZUWWlhM1JOeVFuaU45TFNKdV9EYVkyc05IRHd5eTg1d2JKdVp2ZF96VnJmRnRIcHZRM3ZoVzZFUmN2T1BKU1JpNUgzUVBvSUFTQzJZRjJUbHMzY25CNWpvak5tc0pMVU9LemZySzZrVWdtOFpNdVhDdGNFZzFpTUhidGhOaWV2Qm52Vm56NlViZF9JMGNDVy1JYURqN3Q?oc=5",
+    "fa": false,
+<<<<<<< HEAD
+    "at": "2026-07-20T08:44+00:00",
+=======
+    "at": "2026-07-20T14:11+00:00",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الحوثيون في اليمن يعلنون \"حصاراً بحرياً\" على السعودية",
+    "src": "بي بي سي فارسي",
+    "grade": "حسن",
+<<<<<<< HEAD
     "link": "https://www.bbc.co.uk/persian/live/c62v9dxye9pt?at_medium=RSS&at_campaign=rss",
     "fa": true,
     "at": "",
@@ -111,6 +165,11 @@
     "fa": false,
     "at": "2026-07-20T12:48+00:00",
     "flag": "روجعت درجته",
+=======
+    "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPU2pYaU5DcVNBclRSdEItVlFMQmNuek1rdHRxcGtUb1NOZW9vQUh5OFJnNjNiTWFVbHBPWjNIX3F6ZDRld0FrUVZzbGhlWC0tNXVxcGNtbWRPV0owZExtb1dnc1BMcHF6MldvZHpHdmJ6c3pSM3Fza3BhMnhPTVd1LVE1c1doTnJUd2VfbzRzaVU3Nk5wTzU2cElXejFMMTBYYnBvTzJZMDl0cENqOXcyX3hCNnV4NUFDSDZwS2taNjlldzd3eFBsMzZ0Yl9aQnFHaUlsa3g5Uk9Ma3F4cS1FcHVfRVMtYm1fUUM0a2tnRG5maGJGcXdpb3AyZkQ5OVBjQ3hTTHNrYktfMGFZZEp1b2hTMXBodktneVFxd21sQVhaX2NIeldVSlVzNXNRZy14OXlNZ293djJUMU9iYUd3V0pnOXVEWENjQnh1b1NPUzBHYTVzWkJJX1VkRWZKRnF2dXI3S0NiMHJuM3VFX1NldjlEdkhvdDB2Q2Vocl9RLWpjNWZIQjBGX3NJSUpNTkU3MWpoVmNkUGZUX1lXdzBMZ2hKYThWVDVXTDc5dDlHRmNrbW82UVA1dng3UDZKR0FYZWQweXllbmdsYWhzaVlKaF9Lb0JMV0t3M2hGZ3ZHRE14TFFSeWpGRU5fR3psOFhXell6OHF6N0tROXBOT2Jr0gGEBEFVX3lxTE4yM0JiSmh0SklqV1RQQk4yM0xENmh6MmFlNDh5ajAtN3pDTUtqdnYxRkhfLWR6dDlPYUxLcHdqeGY4VWgtWlo4TkxMOU5YQWNTaXhuWWZOVk9tZVJxX0FSSDlydGJlVkZxd1VFS0txZTJqWmRhbUFVUllEQkl5alNfSjRIbEMtaXpsUHdydG12TFl6dGkxTzRheG9sci1Wc2lOWHZtUS1OdEJ5OXBCc0N2SHhWcHhDRlFUUkI1UUZHa1dJZFhzdHIxUjd0Zk5qOEIyVXRaYWdUNmFCZnhkRkNGT2x1WDcwTlB0QWlYRl9MVFRYakNuM21MSWJOLUV2Q1hTM3Vrc29oZ3hjWnZQWVFwYTN4dHlRWUlKWXA3TkRPcThmQzJnOS1oa1JkVW1wNjNocEZvbWhwOVVUR1hGN04xNG1ETTlNM0d3VjRzdHM1cXF0VUtHZS1UQUMzRVdIWDJRcnZRVjcyLTFZc3FwRTdidS1FQ3cxVDZfYzVwVHVkX2llN0o5UnUwYk9CcWpsUlp0OWsyc0lDQzE1cUJTSzEwX3hUSDFCdkZoNHNXOXl0WkV0VHhuYmRKdUxBLURkVWdWdFgxQndwX3NXX2NrMjZzY0NGTmE2a1o5TFV0RzZYeHR4UEhjRW1RaVBMbFFDVmpiN2lROXhtYklMUWtXalRvTE5GMA?oc=5",
+    "fa": false,
+    "at": "2026-07-20T12:48+00:00",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -221,6 +280,7 @@
     "score": 4
    },
    {
+<<<<<<< HEAD
     "head": "غزة.. مقتل 14 فلسطينيا نتيجة هجمات الجيش الإسرائيلي",
     "src": "سكاي نيوز عربية",
     "grade": "حسن",
@@ -237,6 +297,8 @@
     "score": 4
    },
    {
+=======
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
     "head": "اليمين الإسرائيلي يروج لإعادة استيطان غزة مع اقتراب الانتخابات",
     "src": "CNN Arabic",
     "grade": "حسن",
@@ -259,6 +321,25 @@
     "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbGJVMDIzZHQwRTRieWtFR2tpYlZBMTJoWHdQWGZ3aHBqMklmM3lCNlBQY25fMW5DZjVzVk5JS05mY00tS3c2eWZJaFgwek5zNkxpSENFbmZzTHo3M1NJaU1fQkc5S2o5TkU2NHZZOHBRbTJoT2M0aEVSX1ZYeFY4VWp2SENlT29ERjRTN3pZTEJPcXlRcUtoVDNZdVNfU1h2ZGZnYW5OYXVHUmtjSk9lZWpRdm43ajZhMTZwZ3JvTjNVd1RQMlhkbnZOTEw2ZUZCMUVNei0wLW5HVDJ3R0drU0k0d2xjaWtaQ0ktUkl4MXdDY1o2cG1vcVRXTXBmcGhqSlMyUlFDM3FjYXpYNWxrZHk3MEozMHV5M25idjZCd2EzV0haR2RMY9IBrgJBVV95cUxNRG41RUNTY2dIY0VmOEJhS2ZZS0VZTFhIaXNpU2diaHY5RTl0MVo1bEdHaW5MbTVWYlpZRG9maXdUeUtsaTZLQVhseEVsQWJZV2JGWFhwSGRZSHFBVDBHWVFOUThQZERnUUdIWGp0U3lCX09oUkppMURWQVFFY1ZTd21rdGlUT0VHSHZYMGc2aDNrRXBSYkZ4YTJvZkY3QTVFV09qU2F6cVpTYnNoSUJuLWVBZ1YxNk5qbEIxay04UW5kSzFUZzAwRUpPOExkZ1F2Qi1ueXRCTTA4QjBGTEhfTG1VWmJlV3BtQzFQSUFXSENYQWZQMkZNNmRpRU4yUHo4aFZQU3NURHlKV2RLb3FvUUQxVjQwUW9pQXQ5elNpZFZ1dE9IdDQzQThyQUp1Zw?oc=5",
     "fa": false,
     "at": "2026-07-20T13:43+00:00",
+<<<<<<< HEAD
+=======
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "نوال صيام.. نازحة من غزة تصنع الحلويات لتوفير حاجات أسرتها",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOdm1TZmxSSi11R1JqS1M2VUtrbUdMOUl2NFRJTGtlMGdXb0c3WURVR3VGWFVvNElxSXd2a1NmaGpaQTkzMFRweHdUSnlEcGQtYjVBYXVvYlgyc2NwMWFzLXNVc3BvdE5vVWI5MjhKUUdLX2k1TnBQSG03aDZ1QVhxeUo1b19tOVhkdFRtSERfbWV1alpwOTRfbnhhbGZtRlloOHBVVzBxLVFzd1dqWGJGcDdEVVRPNzd4TkxfLWxpVjJYYTJCZjQ1SWlsVEhGME94blpBX1gwcXdxdHZ0YklmSy1Lck5PZ0h3dDFyVktIN3ZFVG1ueG9CcUp0TndKQTIwd1Q2STZkUXJsNzdYN2k3UU5ZVHpieDZrU01DZTRWUUZ6M3VXYlNaX1ZzWFlDeWtTbHBpZlBBbE1URWVpamU1S1l4VDNJZTdMbHlxctIB0gJBVV95cUxQeDZhaHo4WS1tWGpIdW91dzFlM3ozTTl3THNsNnVEQkw0eHhPQkV2N3RSZ29tU211UGd5UWZMZTVyUTJ5VHNaNlRmQnRsZ2xnUXU2VjBhdldadU4zME02d3FrcnlaSTF4M21HcEdXdTRrVmJ1eHoxUU9BZFJaQVZFdTN6S2o5S3VkOXhpUHl2eHdoeVBvLVpwSWpTa3pVWGFyTHlUYVlkdWRWR1VjcnNpbm9STS1zdG1IaE5vcVFORG5BZ3BUMElDUWNFdGU0R05xZ0RSdU5xVTJCUllmR0J3STQ3NEU4NzMyT2hOdGtWMHpmalJPU0l6Z1RWUWFfcXZrSU1naHI2eURiNkpQRUVwMy1LNEo4ei0wajVmc1NiaFpxZnlVSENjc0tJbG1yYjZkQXBDbHFNVTNjTXh2a0lyMGtfM0JqcjhKT3FWdFVoVHZBUQ?oc=5",
+    "fa": false,
+    "at": "2026-07-20T13:29+00:00",
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
     "isnad": {
      "الاتصال": 1,
      "عدالة المصدر": 1,
@@ -271,27 +352,12 @@
   ],
   "تقنية": [
    {
-    "head": "هل يقود الذكاء الاصطناعي أوراكل إلى حافة التصنيف الرديء؟",
-    "src": "اقتصاد سكاي نيوز عربية",
-    "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOOTNWSXJKZnBZRms3RnNJM0pGWFZVSW9RLWpNdGp3c3BHMk1tdFhhZU55cTl2bWJ5WDd1NEVZc2k5bnZfMlFHTllBQWd2TjBBZ1l1V3lmYUxJazAwd1N2NW9Id3RRZHZSZ3VyZEpmR19mYkUwdlc0VFVFTTFNUjlvbVFudWgxRFN4UU5RNFlWQVkxamhQODF5OHdZNFpabi0yT01KR0E3ek5jYWUyMmdNRElqTlYyNXNscDNmalJidlhJa3RmekVnR0ZqUndpcl9fd0dpLUF5Nk1IYXJwQVVScXFPbjB0anNac0RodTJoMWhDWkJ6aHVrMzZBdG9FcDNERDdYVGlyaHhQd1BWelJFaG9vUXNuRFlJZDVYRFNXNjJpbVVEOEpvOEF3N244TlNBWDluRm0tbW9yY3RYYU9PTjdTREI1Q0hkZ1RaWWhOOVdYdUl1WDgzWFl0cmwydU1XcUJmTVN6ZHVHUlZRV2NYdXdlNjU1ak9uUURNRzdFSWV0SVVweXN4SUd2emtKaHdLSDU3Vm1xR2pUNGNnbmNGU1B0TEZTdjFYSmFmVXJCZw?oc=5",
-    "fa": false,
-    "at": "2026-07-17T06:45+00:00",
-    "isnad": {
-     "الاتصال": 1,
-     "عدالة المصدر": 1,
-     "الضبط": 0,
-     "عدم الشذوذ": 1,
-     "انتفاء العلة": 1
-    },
-    "score": 4
-   },
-   {
-    "head": "ليس الذكاء الاصطناعي.. مستثمر صيني يكشف نقطة ضعف بلاده في سباقها مع أميركا",
+    "head": "\"مورغان ستانلي\" يتوقع ارتفاع ديون الذكاء الاصطناعي إلى 570 مليار دولار",
     "src": "العربية",
     "grade": "حسن",
-    "link": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxQVHRod3hEb1FHcmh5enZ0OGhhZ1hkVUhQeWRDSm5nWTltLUFkWmJfdk9NekJPMmdmUUJWVTRuZ2N3R1daOTlaeF9oSEVqRnpFclUtaldLWUdzRTN3VlNOUGRlSExmeDVtZkpzM3Z2MG5wS0swRnJ4SHdGRGxrNDFvejBBSlJNOVBWR3FsRjdwY1pKaHZKWGY2OU11OWRPdW9DMWw2MGNPZGJQcDZhcEhWNVNqUklKcUFWY255UXNYQ0xJZE9aVUJWSXZlNUhDWHc2Rml4MzhvcGFHREk3dFFsUmk3Vmw4U19VMjdpWnpCS2NvUnVwcHpfNjhEVVBqQ2l5blpoSGR1bTFiUWhMcXJ3dzc1bFFfT01rWnVJR3phR1dtLU5qU0JFSjh0T0h5SHFoOGRQOVpFTWI2bS1lNW5MZGhRVm9wOExGVjZLb01kV01EWWh1cEt6ZVZ1UHZvbF9VajFicFlDNlZDZVZzOWk4LVNscE1BQlF6UVdVYWZIaXdGdXBNOW41bUdwZ1NFd1pWdGpMcDh2UTR4QVVMay16eXFiejZQTVpONjBPamtBQmU5aXM1ZzRxRC1WMGcwMnVhXzZhNnljVF8tTjU2SDI1c3VoMktZUlJxT0xDVHNjQzdPQnh4LWpMYXNsWjR4RzVBRzc4ODNMbmplWFZCTDcxWUtCcGRoQkh2aHFESFJWR25ZcFdWbFVrUUxmU1pydTA0bDNHWXZPb0lZZWtwYll1NXpkaHJJOUg0cjdnTU5tX1N0TGM5WU5tN1hFSVB2Zk1BZ2d3ejJxV1RSalXSAeAEQVVfeXFMTVo4UjV3SzlRZGxzM3VYNGNOQmpjQzFsTWQ0VzJjUTZXaTY4STM0QUxEVmZqX1lkcmI2b2hpeUdxX3F2MXBYRFpWVy13dnY0YzVFVWZTMEZLU2lvVzQxNTZreFJMeTlEQ1JMNFVRQ1BTMVZRYUJiUFI0aThZSmo5c3ZHWFBWaTJaMUZKSnhST3BSVFFadUV6RWl0MUI5bVVDclRKOWRsbVAxalBhY1pEV282Q0NmLXdtTTljZm5naEQ3MldvY200bGNaN1NCSGJqUU4yT293Y21WWFkzQWY2WDM4LXJ4NDlsN0RhdjI5clB4RFdOMDU4NVdSako2QWlKUThjLV9wT2FDNWRoekFNbEhJR29BcE9pVl93MW15T2JCNmZscWxFSDZZbVZaLS1EV2U1YlhBV1V1WGlDaUR4cVh0UGNmWlBNMy1uLWJlLXMycFVVMjlJR1N5OTYzdnF2NVpWd2V4VDdlVEh1STlzNmhrRE15elRfQjBVOFpOdi1oSi1VZEJKSkQ2ay1OOFFCdGo3R3hLak1zS2RUTVBhcVZ3MHpuNzQtWW80VklLU0RwLXN5MjRWRnRCSl9hZmtlSVhPMUFHeVZlbGl0ZmEzRTh0Ql85dTJZZ0FTMHFRVk5yNG8xa2RWQWVsZF9VMVVRaGxTaWZYRGlVUVNwR0hmSnZuWlZSUUlxRHltaGFMQW82YXdFX2k4dUxVWlk1MjRlcEpZOGd0a2U2a0MyR1ZkVjMweDRlWGpmX1dpNWk4RVg1Q3ozbnM0OGdDRWlCS0t3U0lFelBRcFFHYlZUaXpHNVQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOenU3R1ppNG83UXFSMk1QSktjd2xWZVhPQ1U3ZU5aajBvSmJfUHBKOUNYSlA0dEF5b1cyODhEbkxtUlZESnZDQ2JtQjFqX0ZMdGlMNEh2eXJINWd6MWdNenNZeThjNjM2MHZLX0hkS1lHaEpvUmRfaGNYdzFvcUgxTGpXbFJSTElqWkZ4UzFPUEtzNklZZURuWFExckJPczhCSlpZeExZWGFIT3oyRnp2QTJQbVpMdllUTGFVX0wxdXYwZm1VTF9RSzFpTmVmZ05PUnJFRUR1c2JlOWNFdDd5U0JYRVg3OVNrRy1sQng0RzdNY1NFV29iOFhHTXFBT3hfYUNpYnJhU2k5ODNCSG9rdVJvWGNldHBNcmtON0dKTWo3YXdzdXNJWlV5X3FRTHdjVTdteWZ1WXlFdVpFYVcxY3VZSF9iMFMzWGVQTnF5RS0yWE9oRHE4a3ZsVDN3MHlWMjI4UUtlemp6Z280U3p4ajQydUtkU2dmTmhFTGdSNUY4a0dTNWtSNHZ1QzVLdjVVUm11RUs4ODhIbWluYy1wRkxWak0xYkhOc3pqaThjeUlRS0IteGNtZEswN1g5VXozMFFnVjl4RUVTaHE5aXdROUhJc0k3VVRJVEV1NElPc0hoX29tLURqUloyUEpvSmhRWFY1NkQ4WTh5eFJGSTBYdzZjdlRLUWZsbUhBM2dyeUZnZThsaVpwYjhZUWRvNnU1V0gwbG11MzVPZw?oc=5",
     "fa": false,
+<<<<<<< HEAD
     "at": "2026-07-19T10:33+00:00",
     "isnad": {
      "الاتصال": 1,
@@ -308,6 +374,8 @@
     "grade": "حسن",
     "link": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxOenU3R1ppNG83UXFSMk1QSktjd2xWZVhPQ1U3ZU5aajBvSmJfUHBKOUNYSlA0dEF5b1cyODhEbkxtUlZESnZDQ2JtQjFqX0ZMdGlMNEh2eXJINWd6MWdNenNZeThjNjM2MHZLX0hkS1lHaEpvUmRfaGNYdzFvcUgxTGpXbFJSTElqWkZ4UzFPUEtzNklZZURuWFExckJPczhCSlpZeExZWGFIT3oyRnp2QTJQbVpMdllUTGFVX0wxdXYwZm1VTF9RSzFpTmVmZ05PUnJFRUR1c2JlOWNFdDd5U0JYRVg3OVNrRy1sQng0RzdNY1NFV29iOFhHTXFBT3hfYUNpYnJhU2k5ODNCSG9rdVJvWGNldHBNcmtON0dKTWo3YXdzdXNJWlV5X3FRTHdjVTdteWZ1WXlFdVpFYVcxY3VZSF9iMFMzWGVQTnF5RS0yWE9oRHE4a3ZsVDN3MHlWMjI4UUtlemp6Z280U3p4ajQydUtkU2dmTmhFTGdSNUY4a0dTNWtSNHZ1QzVLdjVVUm11RUs4ODhIbWluYy1wRkxWak0xYkhOc3pqaThjeUlRS0IteGNtZEswN1g5VXozMFFnVjl4RUVTaHE5aXdROUhJc0k3VVRJVEV1NElPc0hoX29tLURqUloyUEpvSmhRWFY1NkQ4WTh5eFJGSTBYdzZjdlRLUWZsbUhBM2dyeUZnZThsaVpwYjhZUWRvNnU1V0gwbG11MzVPZw?oc=5",
     "fa": false,
+=======
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
     "at": "2026-07-20T08:43+00:00",
     "isnad": {
      "الاتصال": 1,
@@ -319,6 +387,7 @@
     "score": 5
    },
    {
+<<<<<<< HEAD
     "head": "حاسبيني: نماذج الصين للذكاء الاصطناعي تقارب أداء الأميركية",
     "src": "اقتصاد سكاي نيوز عربية",
     "grade": "حسن",
@@ -351,6 +420,8 @@
     "score": 4
    },
    {
+=======
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
     "head": "\"أوبن إيه آي\" تبطئ إصدار نموذجها الجديد بطلب من إدارة ترامب",
     "src": "العربية",
     "grade": "حسن",
@@ -413,6 +484,27 @@
      "انتفاء العلة": 1
     },
     "score": 4
+<<<<<<< HEAD
+=======
+   },
+   {
+    "head": "الاحتفال بمرور 25 عاماً على ابتكار البحث البصري",
+    "src": "مدونة غوغل",
+    "grade": "حسن",
+    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "fa": false,
+    "at": "2026-07-14T16:00+00:00",
+    "en": true,
+    "via": "شركة",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+>>>>>>> 15f4a6e (🎙️ نشرة 2026-07-20 [skip ci])
    }
   ],
   "عاجل": [
