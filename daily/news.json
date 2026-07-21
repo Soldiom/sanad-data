@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
  "updated": "2026-07-21T15:39+00:00",
+=======
+ "updated": "2026-07-21T15:46+00:00",
+>>>>>>> bb0c561 (🎙️ نشرة 2026-07-21 [skip ci])
  "cats": {
   "الخليج": [
    {
@@ -66,6 +70,144 @@
     },
     "score": 4
    },
+<<<<<<< HEAD
+=======
+   {
+    "head": "البحرين تعلن التصدي لهجمات إيرانية، والأردن \"يُسقط صواريخ\" استهدفت المملكة",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12REVjRnpQdkpVNjljOUZfaGI0SXozWjhUazZwakQ3dnZFaWhTNHdraUJNMFZ3LUhKcDZnUENkaGY0M25vZERwYkVOd2JmY2QxaUJ4MU1WTndFUFpO0gFiQVVfeXFMTng3aW1SaF9TOEIwdkRLcnZyQ3BjeWp5ZU96VThPWUE0dVBMQVhqQlo1cWNqRWZSSlk4cTktdFI5UTNoRVRKRzA3QzZiYlh0Yml0QmdoZWZsc0dYR0Jlb0k0ZHc?oc=5",
+    "fa": false,
+    "at": "2026-07-21T11:04+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الحوثيون يحذرون شركات الشحن من التحميل أو التفريغ في \"موانئ السعودية\"",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOWWNwdTVYLURWcWw4UE9abTMwRE5Da3h2MEpvRHdYbHdsWmc5ZGNZeEUyYVJ6T3VsYmk5NTZydTNMRDltUUVDcmkwT0VQcldlQUhSMTJyT3NiTUFxekV4cHhCSVFjd2V1ZW95VzcwVHh4MDJJemx2UUVzNkFKOGpwcmp0MVBaRGs5RGFkT2VMZWdtNHNPX2VsX0x4dlhTUkZQc3pwX3RTLU1KQldwaEkxazV3TVB1N2x0MGhXcHBkWVpWaHpWbFJBVTh4R1JJNHktZjRyUElfNDBVVEJfUUFSVmhhc2ptZEo4cTZieWFqWnhVUXhnNWZnNmkzS1ZPWW9DWW9odWtMS1lIT0VVSFE1OEJObG9TSzI2cHJfSDVkc3RqR1gteGtySHVvV1NyRFJZejh3VG5zQ0RUY1VNRVpuRTRKMF9CWHVnYm5CRldmeEFpSi1kc3YxRXhRMV84a0FvVGZoUU9lNFROM1lBbDNtcVJ1N0FCWjgxMVhVamEyZ2RLSzhHX01hTHJuX1ZEcHpTQXFlcWl3a3RqWHFRTThFR1p1eE1yUGFlMk1sZzBIb09hdk5HazNYQUpQWF9hcldmUzdWZURsUQ?oc=5",
+    "fa": false,
+    "at": "2026-07-21T12:33+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 1,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "استهداف ناقلة نفط بمقذوف قبالة سواحل عُمان",
+    "src": "سكاي نيوز عربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOLXVPZ0Q4TUMwTnhBX1RHZzZDVVoyYVV0OXFCSTZ1Mk1UTDJvRkNTS2hEMVFObHZhb3dFQlVncmlWdEV5eHhvUWpQNm04c0JzMmw2dWo4X0N2X3NFWTR6M0ZIY3RxM3R2YzJLdzlqNUlvWG5RNE5lYTZYXzBHSXBPVmp5eGFJTk56c1IxblduMXozNjBtTDdvT0l2Z2V4QW84dzRBb0FrRkMxN2M2bE0xZWZQTkhxMEI2SkplYU5tbTlQRzJhb3lVSWx1X1hFMDJsZXk4clktU2MwSVFyTWdCZWx4V1c1TGhiSk9rMVZHLVVCOU11M0VvU1JhMV8tS0hKQ1hEb1V3UG1VV2RjbXBBVGRxclI1NnJWT0RkZUhtb1VzdEk1YjQ5aEYxT0hKZXlDd25veVo5TlRLcTNJYTRnSW1Gc3NIWDNnT3ljUWJTWGNaSEFvRkhMRkk1cHQwOGc1VVRuNER1VTJkYnl1Q0NqTlQzZ05aNFI5aHgxVGRvNNIBhANBVV95cUxNOFNzMExQNk5GLS1rc1Z6MEJveWhDal9NcjFnLXExbHRQZlBKQ0F4cjBKc1lqeGthdFJseXVzZ1hyN0R1S09yZFBYRGxsQ2g2UXJpZGl4cHdIckptX3BRbGw1X3dsOVBLcTl6VDY2WVk2el85LTZIM3FVbnRhdWNWSlZSMDFxdWNKY1haTHVwOEg1YTZrajdGd18wcFBSQlR5ZEhWMHFYTmdzWnE0R1NXcndtcHRnN1l0UGtURy0yZ1lFQnVfcXI1eTF5aWkzWjBpVi1uVktrOVNHcTNLQkMwZmxhSXAwOGRuVVUxN3dLSkNSMld0MmUzQm5SNFRWWnVHRFJuc19kaklNWGx3dzg1QXJLUGVKYkZKVDE3Y0V5UGNuUlFiRk5ISHdSa0FrTnNleG1JTXcyS0ZIaHllVDQwZEwyZmVBdkd6UWw3UnpJWTlkcmtNcmk0TE45aEk4eGhzRlBYZnVRY0hjNkVja1U0TG0yNlNGcmdFQ1NvcjVkeGJ3aloz?oc=5",
+    "fa": false,
+    "at": "2026-07-21T03:22+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   }
+  ],
+  "إيران": [
+   {
+    "head": "تفاصيل مقترح هدنة لـ10 أيام بين واشنطن وطهران.. وخياران لإدارة هرمز",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQNjJDcndMVDlCV2s3SWp3ZlU2cVVNNGF4ME1uZndTQjJGRmNFS2JrX0E0VFdhSEZkQ0ZPb3I3SnNMTjR4UmlZTG1JMzRRYTQ2bGJqbzlBWVd0amFVZWY2dzRsbzJ0b3h0dTFTWDhVWEVTVHdRZUxMaktITEVONTI0ZkNBWmUwWlJwQkdVVlFvd2V1Z3NXY2tBVjZ4YVh2UVdzZWxYa2tWRmFJMTJqdWdyNWtMaFhkckt5NlFLb09jbDVFLVlNd2Z4RHJ3OW1zdUtWS1l5ck8xSFRXd0lnb0Y2WjJxRzkxd3Jwekc0NG0wSk5yRUZHUFFLWURvd0ZNYlNwWF9nM2VfQTRaM3JFT3Y3Y1VfcngyTnFBY3JaV1ozcVhwS28yWE5aS3MwclJNSWpnREE1cGh4U3RKVXI1YWNmV0NQS2pYbzdibE9tUUVTRWpLT2lpUGdWRHZtWTRGdFVMdWZ0UU5uWVZmZW9TN3FXQlpHRm1RWUhTUEE0aVhQZWZuYm51LWozc1o5dkRaZ2w0WXhIRGpySUdCN3cySXdZTExKZms4ekdXMW5YSGUwWTNHTzRFMk5fYlFqdDNoMUVQQ01seWU3V3MwTmFJS2lwdE9URdIB2ANBVV95cUxQOU5MWkowbnk2RE9LWExBRTBkbVlsdGtfSHppR29nVm1IU0I5ZmItdnhlYk1RZFEwZkxEbl9reVQ0c1VST2ZfcFVyN005dWZQS05qUy1BRlR3TE1mNlZZRjlKVVlqemhZOF85V2ppdXVrME4tY3BFRzFpUzdHd2RHTV9FMzBxaXROZ1JOdUs5a0NCdGlEWllPWFQ1UlJYblVVelB2WnozV295cWZ2Z3ZVRTNkaTFsUjV2SVpCZS1WWEtTWWtFaDlYYklHT28wSnhkaGRyTjZDWVVYSlh6Q0Q4RVZQRzlWSmpPQUtGRU1wS0dSSGh5WjJ2cm02M1ZNTXExV1lDM3NOemptTXllVEYwZWlWNDBQVDZqM0xwSjk1a2dsbGFTakRKdEo5TDdHaXhtZVYxY2NZTEc3NmZqRHlSRzVweXFBWkZPb3RYbmFiVUZJVTZIdG0zblBEcGhPSmFSeUZud2pXaG5zVV84Q1g4SGR0NEdzTDBoeXJuZEN0MWo0VmR2UFM4Qjd4cmRMTFNNUXhCeGp6eU54UEFtM1BhNUc0aFhiYVY3Qkd6R29nd2JkT0NGRFRwMjQwV05GYkNJRGtEQ3BzN0JvMGZ1REx1ZENlMEFoMlFo?oc=5",
+    "fa": false,
+    "at": "2026-07-21T11:20+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 4
+   },
+   {
+    "head": "ترامب: إيران ستدفع الثمن أضعافاً مقابل كل جندي أميركي يقتل",
+    "src": "العربية",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNcXFIc0J1S2MxbGFhb2lqc2JrV0ttOUNzejRHa3N4cTR5OUppN2U4dEp3SU96TFJ6MHBiS01WdnZNWmt3NEJIVjZtMkNwOEVTdnU3a3E3ZUN2b1R5Yjd2Yjh5T3VheUp5QUhNVHpYNUtVRDMwUXhlTWh5WG1HeFJjUV9vbHJPRHo2dWJiajQyYVZjUHg3d0VNZkxNdks1TnZacE9WRmdEX0tjTU5NZF94d0dKTEMwamlnc1E1LWZuZ2J5T2pjbDBtZnJVVEh6cWNxVkFPS2J0cGg0OUdVbnhJLWhuWDlsYUlfZm1ZX1pxa25iT2N2Ymhoa0swREpzNU9Kb2hVSjZYOXJBUFhTSTM2SGN6QWM5bW9MMTJvYjJFSXlyV1gxcXJlcWJrMGdQX3JxR09zc2lrREtEVFlRTE9JTXhqRDMzNm9IRFFJdVNuMHl4WkdvaWN0VGNjMV9QMXFBbVFXZy1rQlNzN0VfczZpdWVaSjNjZ3pPTXc2UTd4Nld6aVkwSmgyN2JsTnM0R212UWI4UU1qS2F4WmRIOFctZlNpdjlWY0h3Z3BaRHdCY2ltR3BhUHlUc2JyamFtU04xQW5iV3o1V3Y3dmlKRlNNNko0RHZ5b0Fkcno3SDN5VXVfcWZTRVh3V2lIeHMtVmNEVzZlbkVMbnNYeFg5Y01adTlUckR0b0HSAYwEQVVfeXFMTzd1anNXT1hvQlJZNmdrVjdBVzZhQ0xTekNoUldUTFotcEpENnVnYlM5YUJFd25VZl9kNHd3OV82U1otU3NaY00tVmpYbUhmTG1DTkhkZy0tV01hSzVQb3NnUS1CSXJ2dEkxaHRhY1VkNGNMakpWSFhjNkVDYmJ6YThjbnNENWU1ejdPUFdaWUIxaU1pMmJWaWhKMGtqMGN1aUN3SUViczVGSTk0VzRuT0lna21WaDlwdUhmZTB5MVlJOGMzXzF5eDFiT0VSN0JNRkhwdngtQUpfemgtQ21kNDZSVkpmSV9RemE5RXZBX2RiTC1ZdXJHR0pBWDhQWHp4bkJEV2UwdjNlMEZCOFJ2V1hVZi05TzFGUGF4TkJBVFVCT0w1c1dFa1NfQ1BPR2hoQlJXcVBXSVhGNHM3NVdnY3BNMC1RZmJBbTlYWW9CMWRPRTdzYzNCUU8wM0o1M3JtbmY0NzYzbkZIbUdOOXczRkh3emdVU2JVOEk2SW5oNWdVX01iUVc4YWNHTHFyOWwtT3FHRUhac3AtX0d0WkwxQ19Ba3FqRndXNzh3b3AyMU96OWstTWxGVUFaeENKV1dfNE5GY1hwY0VPbHBRLWtCZmJqSVE1MkRKZDQtbVI0c0hiVkFtRWJubTh5SlR6VEdQckFKOHU4eVRVN2lFMGYxNnl4d1ZVS3VTT2ZkNHk?oc=5",
+    "fa": false,
+    "at": "2026-07-20T17:21+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "الدولار يرتفع مع تصاعد الصراع بين أميركا وإيران",
+    "src": "العربية",
+    "grade": "ضعيف الإسناد",
+    "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPRkduMDFzWTZEY0pFYmZ5RVIyQy1KdXpfYzM0c3EyT1B6WTFMeFZ0SXJMeFVFSTN1QVdxTG02d2VpeEQyaFF0ejBJQ3FMUGMtWXVtX2NveTAwbXNyLWZfRlhuVGYycXlFRnhWVXdsV2M1Z3doNThvcFpteG0xTl9vLXRGYUZkdWI2U191UmpyejEzU3prQkQ0MVBoNVMzdVFkektJUzRwTmJHVFNTUXpEekMzRnJBV2dZTjdDLUtXQzJCblVRSFZaZXpqYUFRQ3BXeWtWN0hnY2N5T3V1MlpLZ0Mya2lMTHJwcU1TTEU4MUg1YVl1ZVVSSHREVFpnOGFPSWlCS0RoLWxHbjM5SDAtckdJOW80c21COFBpMU9MenhkQ1Y4MzMySFhjcFhIa3YzZnRsUWxGWmM3QUdBemFPY0pPUXYwblFscWdwNWZzU2Y0NHVSbG1rdVotSXRUZFU0bG5oX2hMMHZEWkFIdWRZZlpkVTB3Ym05dVIxVE9KLV85dkpRYUU2WUdtWVpKbmZFRkd0UXh4LW5CVV85d0MzemFDajk2WmRUemZSbkxDRW9neUt5Q2tN0gG8A0FVX3lxTE1HNUVPOEhaRUg2TTY4WVJlU2Z4VzJmQm1PUkV2ZXhnT0VLZ1FJWG5pazhPa1pLSTlTeXZLRUt4VWFQaGdJYkdOaW5CVlNkbW1DV3Zyb2dPNkowZkFCRzVJQ2pXbG1EVVdINTZkeGdQdGtLcmJUNWx4bF9uTDVVRkFiZ090V0FGY3A5SjJPTjhTdkNDTjNYemJlQ3d5Qk52MlVaU0JZX04tUHZzYkQtY24yYkdTM2M0QXY2TkVZTmQ2eEdGUjBvWlVZRFIwYnVvZ0dpby1Jd0tQWTlnS1ZoXzZUY3k5SmVxaTZScG03aEQzMVd2RUE2VDRUTVY0dWQtNnpuWF9lNGZlaUd5WHNrRTE0VkRDYW1HY1Z1bXM3VnB2VmU1NjFjOXRVUVJwbFhSamEtXzZRdlFONFNObEJROGxQWURjbk0xbWUtVXg2cW54ZXMzV0lKQTBxZUxVVEVVSVk5czVlUmI2elRxb1hWc01zRGY5WXdjSEFfS08zTHNiT1RnX1VDYzlQbzR5ajlPQTEtWlpPSnM0dXNoLU05VXltLUt0WjVXUEtHVTd4ek81eEYxd2UwR2V4RmoxLQ?oc=5",
+    "fa": false,
+    "at": "2026-07-20T05:23+00:00",
+    "flag": "روجعت درجته",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 0
+    },
+    "score": 2
+   },
+   {
+    "head": "إخلاء المحكمة الثورية في أصفهان إثر تحليق طائرة مسيرة فوق المنطقة",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202607216124",
+    "fa": true,
+    "at": "2026-07-21T15:07+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   },
+   {
+    "head": "أمريكا في جنوب إيران؛ تراجع قدرة الجمهورية الإسلامية في الميدان وطاولة المفاوضات",
+    "src": "إيران إنترناشونال",
+    "grade": "ضعيف الإسناد",
+    "link": "https://www.iranintl.com/202607215493",
+    "fa": true,
+    "at": "2026-07-21T13:11+00:00",
+    "via": "قناة فارسية مقرّها لندن",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 0,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 2
+   }
+  ],
+  "فلسطين": [
+>>>>>>> bb0c561 (🎙️ نشرة 2026-07-21 [skip ci])
    {
     "head": "البحرين تعلن التصدي لهجمات إيرانية، والأردن \"يُسقط صواريخ\" استهدفت المملكة",
     "src": "BBC",
@@ -93,12 +235,49 @@
      "الاتصال": 1,
      "عدالة المصدر": 1,
      "الضبط": 0,
+<<<<<<< HEAD
      "عدم الشذوذ": 1,
+=======
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "غزة اليوم: \" أهل غزة ليسوا أبطالا خارقين \" ضيفتنا الكاتبة نجوى العصار",
+    "src": "BBC",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNWxrZ1RuNFVPZE8zOUZzbkdWVzFjUU96MUljWmNIUjRTQnY5WGFDNW1pdTZHT3VEbzNENFB2RUZvdEpqel90WENhUDgyQi1kWXd4bmFrdnZtakRhWGNLWVgyQQ?oc=5",
+    "fa": false,
+    "at": "2026-07-21T13:56+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 0,
+     "عدم الشذوذ": 0,
+     "انتفاء العلة": 1
+    },
+    "score": 3
+   },
+   {
+    "head": "13 شهيدا خلال 24 ساعة في سلسلة غارات إسرائيلية على غزة",
+    "src": "الجزيرة نت",
+    "grade": "حسن",
+    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPemhWRDI1QWhEMkZYTGViRnJfT3AzZ0pJMng2YV9vLUxqN0FTZDdlZi1VVVF6cndxWW92QUNkY1c0eXZXTHJHNldYUXppZXFWa3hST2lvNzV4OXBsaV83a1I2aU1iR012VWJFdDVIVTE3SGxxVU83YmNPZkJOMU14a1dpckg3Sm5VbF85V3hELURxeEdfLXlYTE9oUGh4YkNmT2NWdmczRTJDTXROYklEc1FtR0tIeHJQUVEwZm5zUnQ2dklaNC0zYWdOdFBhdlJoR2paQk5HSHlPbTlTRlQ0N29NWnRudkc2cUdFQ2dWazYzTWtyMUtwMi1LUHB2S1ZlNU1DZDZvOTBaVk5IZ2o0WWU3aGY0MU1mbVo5bVFOcFFPdWp3WlRyNTFaUdIBsAJBVV95cUxQN0w0MUV3MGZLSldXZXNXS2FlTWVVSVN4YzdfSXpnYXU2RHBVNV9yYU1ac0s4NndhNXBNRmhuRHJVejNaakhabmZzQzk5NWsxdHdBUTdReGRzUFhnMVIwRk9zcUJyWGJBVWpkMkphV1h1TER0Ti15Z1RZY2dJUnJzVlhpbnFSS3FyenVlVkM5UDNSUTJVei1HX0RKNDhBcjJlWXc5b3FjQjZrQTloMXYwbW9xZnpSV1ZhR29OdnhZdFhnblQ3RmFxYXFRVE5Pd19yRzhONk9obmxYUlg5am5zeTZRd0M3M3lGaDlvaUR6aEM2aExxM3RFM1BmWVFKckFDU1hQQmp6c1F0azJsR2RETVBCR194dUJuSWM1YV9UYUppako1NjE4eEhlQWI1WTcx?oc=5",
+    "fa": false,
+    "at": "2026-07-21T02:41+00:00",
+    "isnad": {
+     "الاتصال": 1,
+     "عدالة المصدر": 1,
+     "الضبط": 1,
+     "عدم الشذوذ": 0,
+>>>>>>> bb0c561 (🎙️ نشرة 2026-07-21 [skip ci])
      "انتفاء العلة": 1
     },
     "score": 4
    },
    {
+<<<<<<< HEAD
     "head": "استهداف ناقلة نفط بمقذوف قبالة سواحل عُمان",
     "src": "سكاي نيوز عربية",
     "grade": "حسن",
@@ -224,12 +403,21 @@
     "fa": true,
     "at": "2026-07-21T13:11+00:00",
     "via": "قناة فارسية مقرّها لندن",
+=======
+    "head": "أجسادهم تفحمت.. غارة إسرائيلية تمحو عائلة من السجل المدني في غزة",
+    "src": "الجزيرة نت",
+    "grade": "ضعيف الإسناد",
+    "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNM1JTS3NKX2d5MlJQVmRpMEp5NnE0NkhOcTI3bTZIZXJWNWJEWUtpRmt3Yzc4c3JiZGdYbGpaOFV6LVFYeTRDd2ppZlZ5bWhmd09TM2VLVllWSC1feGt1UjkyRnc3M1QtdXhnUlQwUFBleGtsNEJMWlBDZHNQcHpXanIzbmwySFF1T3loVW5WQVhGLWs0WDdrdU1FUzRVNWlqd2NWT3ZtSTVTRWNWVWNIQk0wWHpVaGEyTUtKU3VNT3NnTnFKcEpCdnhJNUhaQjdzMUZSUWR1MHRFUHpyTjU5WWd0TUhxb0Z5R1pWVlJydGZ5aS1uY25fa3JtR1g0TExYbTU4WlIwTm9BUGo4a2RSUnNwVE1IcUxpNXAxcUtCd0ZKdnRYX2I5MTkxZDZWNWlqUnpLUmktdHFMNFU2WVVGM3NkUjVYbHlzMm1rSjBsN0xJYl9fVnBZTnZ30gHfAkFVX3lxTE5va1RpTmtxcXByZ3ZxS0psNkdKQnBiamhXTFZ4MkZPTGotWWtFay11REphYjFWVHJKR05Fa0VLWmpwclhlRVd3OTZEa1pCcG50SlhvYlJHcDFvY1J5MDgxUU5CTkJjWnZxZEZpdkNmc3JpZ2FPenJBZ0U4VXpUVlAtdUxGUFhpSm54eTUxdEVEb19OaDd2RG0yUnRNV01Sd08xNTBjOUlLei1HXzE2VFlGc3dycDA4VW9DRDFzaVFPYXp5NlZzYWJJc2ItTkJuNWotb0tmMzFiZ0lfdXp2MTczbzlsdGl4b0RSbkV2Uk4wdXBEUTR1SG03aDhBSkRiMjdMSE5HdDd5d21Bd09IX25kWXprRU4tY2Jac0IyQWZvOGEtU3dVMmJ0dFB3WWo0NmlmSkYzS1VXaTFQckRVUzNrMVBrMUF3V01jVFJOelV3cVpydmdXek12azBGc181TQ?oc=5",
+    "fa": false,
+    "at": "2026-07-21T08:09+00:00",
+    "flag": "روجعت درجته",
+>>>>>>> bb0c561 (🎙️ نشرة 2026-07-21 [skip ci])
     "isnad": {
      "الاتصال": 1,
-     "عدالة المصدر": 0,
+     "عدالة المصدر": 1,
      "الضبط": 0,
      "عدم الشذوذ": 0,
-     "انتفاء العلة": 1
+     "انتفاء العلة": 0
     },
     "score": 2
    }
