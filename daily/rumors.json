@@ -1,112 +1,13 @@
 {
- "updated": "2026-07-24T18:35+00:00",
+ "updated": "2026-07-24T19:32+00:00",
  "items": [
-  {
-   "id": "e1b0f9da6c",
-   "claim": "إيران استهدفت محطة توليد كهرباء في الكويت",
-   "verdict": "قيد التحقق",
-   "spread": "منصة إكس",
-   "when": "",
-   "why": "وزارة الكهرباء الكويتية أكدت هجوما إيرانيا على محطة توليد وتحلية — لم يصمُدْ مصدرٌ حيٌّ عند الفحص، فأُبقيَ قيد التحقّق.",
-   "sources": [
-    {
-     "u": "https://www.iranintl.com/en/202607176160",
-     "t": "Iran International",
-     "ok": false
-    },
-    {
-     "u": "https://www.aa.com.tr/en/us-israel-iran-war/kuwait-says-iranian-attack-hits-power-plant-causes-fire/4002877",
-     "t": "Anadolu Agency",
-     "ok": false
-    }
-   ],
-   "tier2": true,
-   "gate": {
-    "multaqit": true,
-    "mukharrij": true,
-    "fahis": false
-   },
-   "first_seen": "2026-07-24T18:35+00:00",
-   "resolved_at": null,
-   "updated": "2026-07-24T18:35+00:00"
-  },
-  {
-   "id": "2b44926bb5",
-   "claim": "هجوم أمريكي على منطقة في بندر عباس جنوب إيران أسفر عن إصابة شخصين",
-   "verdict": "قيد التحقق",
-   "spread": "منصة إكس",
-   "when": "",
-   "why": "لا تأكيد رسمي لإصابة شخصين تحديدا في بندر عباس من هجوم أمريكي",
-   "sources": [],
-   "tier2": true,
-   "gate": {
-    "multaqit": true,
-    "mukharrij": true,
-    "fahis": false
-   },
-   "first_seen": "2026-07-24T18:35+00:00",
-   "resolved_at": null,
-   "updated": "2026-07-24T18:35+00:00"
-  },
-  {
-   "id": "b80a7fbab3",
-   "claim": "هجوم الحوثيين على سفينة سعودية عمل إرهابي يخدم إيران",
-   "verdict": "قيد التحقق",
-   "spread": "منصة إكس",
-   "when": "",
-   "why": "الهجمات وقعت و الحوثيون مدعومون إيرانيا لكن وصفها كعمل إرهابي يخدم إيران رأي تفسيري",
-   "sources": [],
-   "tier2": true,
-   "gate": {
-    "multaqit": true,
-    "mukharrij": true,
-    "fahis": false
-   },
-   "first_seen": "2026-07-24T18:35+00:00",
-   "resolved_at": null,
-   "updated": "2026-07-24T18:35+00:00"
-  },
-  {
-   "id": "f384522854",
-   "claim": "الكويت تعرضت لهجمات صاروخية كثيرة في سياق التصعيد الإقليمي",
-   "verdict": "قيد التحقق",
-   "spread": "منصة إكس",
-   "when": "",
-   "why": "تقارير متعددة تؤكد هجمات صاروخية ودرونية إيرانية متكررة على الكويت — حدثٌ عسكريٌّ جسيم لا يُثبَّت هنا كمؤكَّد؛ يبقى قيد التحقّق.",
-   "sources": [
-    {
-     "u": "https://en.wikipedia.org/wiki/Kuwait_in_the_2026_Iran_war",
-     "t": "Wikipedia",
-     "ok": false
-    },
-    {
-     "u": "https://www.bbc.com/news/articles/c5yx135yg53o",
-     "t": "BBC",
-     "ok": true
-    },
-    {
-     "u": "https://www.nbcnews.com/world/iran/iran-attacks-kuwait-strikes-us-ceasefire-peace-talks-trump-rcna348213",
-     "t": "NBC News",
-     "ok": false
-    }
-   ],
-   "tier2": true,
-   "gate": {
-    "multaqit": true,
-    "mukharrij": true,
-    "fahis": true
-   },
-   "first_seen": "2026-07-24T18:35+00:00",
-   "resolved_at": null,
-   "updated": "2026-07-24T18:35+00:00"
-  },
   {
    "id": "49e713a229",
    "claim": "الامتناع التام عن نشر الشائعات أو مقاطع الفيديو غير الموثوقة",
    "verdict": "قيد التحقق",
    "spread": "تنبيه رسميّ",
    "when": "",
-   "why": "ليس ادعاء حدثيا بل توجيه عام",
+   "why": "لا يزال قيد التحقّق — لم يُؤكَّد أو يُنفَ بمصدرٍ موثّق بعد.",
    "sources": [
     {
      "u": "https://en.alwast.net/arab/kuwait-ministry-of-interior-warning/",
@@ -122,7 +23,7 @@
    },
    "first_seen": "2026-07-24T16:42+00:00",
    "resolved_at": null,
-   "updated": "2026-07-24T18:35+00:00"
+   "updated": "2026-07-24T19:32+00:00"
   },
   {
    "id": "35ebb0f94f",
@@ -228,30 +129,14 @@
   }
  ],
  "audit": {
-  "tier2_today": 8,
+  "tier2_today": 4,
   "overload": true,
   "dist": {
    "صحّ": 0,
    "لم يصحّ": 1,
-   "قيد التحقق": 8
+   "قيد التحقق": 4
   },
   "last10": [
-   {
-    "id": "e1b0f9da6c",
-    "verdict": "قيد التحقق"
-   },
-   {
-    "id": "2b44926bb5",
-    "verdict": "قيد التحقق"
-   },
-   {
-    "id": "b80a7fbab3",
-    "verdict": "قيد التحقق"
-   },
-   {
-    "id": "f384522854",
-    "verdict": "قيد التحقق"
-   },
    {
     "id": "49e713a229",
     "verdict": "قيد التحقق"
