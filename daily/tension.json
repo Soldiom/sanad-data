@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-01T22:20+00:00",
+ "updated": "2026-08-01T22:48+00:00",
  "note": "مؤشرٌ حسابيٌّ شفّافٌ من كثافة المواد المُسنَدة وحدَها — ليس تقييمًا استخباراتيًّا رسميًّا",
  "formula": "score = min(100, 4·عاجل + 3·ألفاظ تصعيد + 8·تحذيرات + 4·شائعات + 2·أخبار أخرى + بيانات رسمية)",
  "countries": [
@@ -43,7 +43,7 @@
      "src": "فرانس ٢٤ عربي"
     },
     {
-     "h": "دوكنز نازون لجماهير استقلال: بأي تأشيرة وتذكرة كان يجب أن آتي إلى إيران؟",
+     "h": "دوكنز نازون لمشجعي استقلال: بأي تأشيرة وتذكرة كان عليّ المجيء إلى إيران؟",
      "g": "حسن",
      "u": "https://www.iranintl.com/202608019740",
      "at": "2026-08-01T20:35+00:00",
@@ -113,7 +113,17 @@
      "src": "جريدة الجريدة الكويتية"
     }
    ],
-   "signals": []
+   "signals": [
+    {
+     "kind": "flight",
+     "src": "OpenSky",
+     "lat": 29.3,
+     "lon": 47.8,
+     "detail": "1 طائرةً في المجالِ الجوّيِّ الآن",
+     "url": "https://opensky-network.org/",
+     "at": "2026-08-01T22:48+00:00"
+    }
+   ]
   },
   {
    "id": "sa",
@@ -121,13 +131,13 @@
    "en": "Saudi Arabia",
    "lat": 24.0,
    "lon": 45.0,
-   "score": 32,
+   "score": 29,
    "level": "مترقّب",
-   "delta": -2,
+   "delta": -5,
    "parts": {
     "n": 10,
     "u": 0,
-    "w": 3,
+    "w": 2,
     "a": 0,
     "r": 0,
     "o": 3
@@ -148,13 +158,6 @@
      "src": "العربية"
     },
     {
-     "h": "ضربات سعودية - أميركية ضد أهداف لميليشيا في العراق مرتبطة بالاعتداءات",
-     "g": "حسن",
-     "u": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQYk1fZ2F1M19uX1A1Nkd2VEZFSEFKREkxbDdvcktJazRYcWJna1ZDTjlKT2NkdXpsamh1WEZxM1BseERWMjd0QmNJS2wyMzk2WDJjM3VvNm9jdXBhY0FfR2dNYjR0d0ZUN2wtYVdiSXhtMVRwYVpyVkhZaTVJNHZfcUJFcWhxLTFQdjh4S3c0dFhJUmdlSjcwcDFkYWpKWFowQWJxSlNIOUFZcnFFWGpHSXVOTmFhLUszM0k2MV9Hb2htQ09VSUMyQldvUlU0b1I4b2JnQTkyQ2FreDFndzNpbXpHOThYdEdLdUZoOUh3WTBuU0RqT01xQWdfUkotVTlfeXhJWUVfNUptcTZPOEdnUzJIUXVrWUktN21DLUtjazJkSkZiUFVnZFhqSVFPVkhYdWZwdG9SOWV4YlhDbDlDdnVuUXJHOTBHVXhWb2FOeFZLYlFpel9xSlgtV1VjUWZPVTRlWWlSSXNJbE1uVDRMc29RRnFKdTZFVW52QWswQk5FRklVdER0SGlLb0I5M2pqMnpvekwzZFBqQWtWb3lZZl80X2Q2akVaYnRmN3puRlNtaEszeWl3b0dpREo4dVB3RHJnTHlwUjhkNFVCODhnTklYek1BdEhaMUFhakRIU3NVOTRoc0lNQ2ZDMGxZcnBhU3ZrTC04TFRGaHpvWnlMQ1RhRl9sRklhRUtCVzhlUENjcGtVLVVjS1pCNU5kLVNEeHJMSWdnNWhVTHNtVDBvSFAwZUNZYnRFWUpkUk10a2V1dDd0NjZ5eFJrZ0JLZ0VrSHZFNXFFcWpCUnFqM2dLaTZMdFVFbjVYSjE3aG9yUU1zM0pUSGNjVkFWUUpxNWtkeGtSQ3JYUU5vcDVUNmlWZXduQ09YazY4Vjg1RkxTTGRkZDNLWjBsMUllSUpDYXdK?oc=5",
-     "at": "2026-08-01T11:26+00:00",
-     "src": "aawsat.com"
-    },
-    {
      "h": "السعودية.. الأمن يعلن القبض على 4 إثيوبيين ويكشف ما فعلوه",
      "g": "حسن",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTk92Q25URWM0UllQSW9ObHBWRXhjOXZzX1pyX3FodlM2a2l1QWNCd0dlMXg0NGdrcUQySHNZZ0ZXeE95LUJwczR5eWp3emdia1JscUdCME1MMldCUlhlaFVyQlBBWi02cnU3b1ZCU200alBrM2s5UDlLMVBRNnA4QzhQM2oyYmhiRlJCajh1ZmhnMDlUN0dSOUJBSzZzc1REQm5HVmVmaWVBQmdxV25iWnR2aU3SAb8BQVVfeXFMTks3QnZhTFd0Z3ZvLU5PX210aHkxeTFsakNrdy1MMjZlRlpYcUlZcnlWTlNoX0VNaG9KR2dtSFdnWDlYeEVndUtwc2FMN3VvX0xwREV2TFhFTjNveWZITUZJUGZ4VjdiVkpnZDRmdVAyUU9SNHNVMU1mRHNJQW5BY0thUGY5bHpsczkzcjQ1YmpsMXZ0X21WOENKa0RPdVAzU0diTGppQ0NSSWxMdGFsWTRCNnFuUDY3TGkwMHRjUDg?oc=5",
@@ -167,62 +170,13 @@
      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtYWJWb3FGME1JTGFTTEVtX1AxS0JVdVJxMVU5Y3dweVc0Z3FDcElqUXVSNmJXNFdEelZsdmdWaFZCY3c1TU5jd3FqbzNyVFNRbHhXT3JPU3NIV05U0gFiQVVfeXFMUC1XNm1SN2JvdVUwMTFQcDY5ZmU2UXNWTTVkdVpiTGhSRUNoLWRYVVFKOGNaS3ZBRk4zRGFLeEJIOWxCWmdzVkRXWHJaNTZxemhOaGRjNWM0QXlDQ1JKdVptOVE?oc=5",
      "at": "2026-08-01T07:06+00:00",
      "src": "BBC"
-    }
-   ],
-   "signals": []
-  },
-  {
-   "id": "iq",
-   "name": "العراق",
-   "en": "Iraq",
-   "lat": 33.0,
-   "lon": 44.0,
-   "score": 28,
-   "level": "مترقّب",
-   "delta": 0,
-   "parts": {
-    "n": 8,
-    "u": 0,
-    "w": 4,
-    "a": 0,
-    "r": 0,
-    "o": 0
-   },
-   "events": [
-    {
-     "h": "العراق يؤكد سعيه لمنع أي تهديدات تنطلق من أراضيه تجاه دول الجوار",
-     "g": "حسن",
-     "u": "https://arabic.cnn.com/middle-east/article/2026/08/02/iraqi-pm-prevent-threats-emanating-from-country-toward-neighboring-countries",
-     "at": "2026-08-01T20:37+00:00",
-     "src": "CNN بالعربية"
     },
     {
-     "h": "العربية: سوريا والأردن تحذران العراق من تهديد الجماعات المدعومة من الجمهورية الإسلامية",
+     "h": "عشرة تقدمات في الرياضيات وعلم الحاسوب النظري",
      "g": "حسن",
-     "u": "https://www.iranintl.com/202608014941",
-     "at": "2026-08-01T19:02+00:00",
-     "src": "إيران إنترناشونال"
-    },
-    {
-     "h": "مسؤول أردني لـCNN: أبلغنا العراق بعزمنا الرد على أي هجمات للفصائل الموالية لإيران",
-     "g": "حسن",
-     "u": "https://arabic.cnn.com/middle-east/article/2026/08/01/jordanian-official-told-cnn-jordan-warned-iraq-respond-pro-iranian-factions-attacks",
-     "at": "2026-08-01T18:30+00:00",
-     "src": "CNN بالعربية"
-    },
-    {
-     "h": "تركيا والعراق يمددان اتفاقية تصدير النفط",
-     "g": "حسن",
-     "u": "https://www.bbc.com/persian/articles/cvgw42wqde9o?at_medium=RSS&at_campaign=rss",
-     "at": "2026-08-01T17:41+00:00",
-     "src": "بي بي سي فارسي"
-    },
-    {
-     "h": "ضربات سعودية - أميركية ضد أهداف لميليشيا في العراق مرتبطة بالاعتداءات",
-     "g": "حسن",
-     "u": "https://news.google.com/rss/articles/CBMisAVBVV95cUxQYk1fZ2F1M19uX1A1Nkd2VEZFSEFKREkxbDdvcktJazRYcWJna1ZDTjlKT2NkdXpsamh1WEZxM1BseERWMjd0QmNJS2wyMzk2WDJjM3VvNm9jdXBhY0FfR2dNYjR0d0ZUN2wtYVdiSXhtMVRwYVpyVkhZaTVJNHZfcUJFcWhxLTFQdjh4S3c0dFhJUmdlSjcwcDFkYWpKWFowQWJxSlNIOUFZcnFFWGpHSXVOTmFhLUszM0k2MV9Hb2htQ09VSUMyQldvUlU0b1I4b2JnQTkyQ2FreDFndzNpbXpHOThYdEdLdUZoOUh3WTBuU0RqT01xQWdfUkotVTlfeXhJWUVfNUptcTZPOEdnUzJIUXVrWUktN21DLUtjazJkSkZiUFVnZFhqSVFPVkhYdWZwdG9SOWV4YlhDbDlDdnVuUXJHOTBHVXhWb2FOeFZLYlFpel9xSlgtV1VjUWZPVTRlWWlSSXNJbE1uVDRMc29RRnFKdTZFVW52QWswQk5FRklVdER0SGlLb0I5M2pqMnpvekwzZFBqQWtWb3lZZl80X2Q2akVaYnRmN3puRlNtaEszeWl3b0dpREo4dVB3RHJnTHlwUjhkNFVCODhnTklYek1BdEhaMUFhakRIU3NVOTRoc0lNQ2ZDMGxZcnBhU3ZrTC04TFRGaHpvWnlMQ1RhRl9sRklhRUtCVzhlUENjcGtVLVVjS1pCNU5kLVNEeHJMSWdnNWhVTHNtVDBvSFAwZUNZYnRFWUpkUk10a2V1dDd0NjZ5eFJrZ0JLZ0VrSHZFNXFFcWpCUnFqM2dLaTZMdFVFbjVYSjE3aG9yUU1zM0pUSGNjVkFWUUpxNWtkeGtSQ3JYUU5vcDVUNmlWZXduQ09YazY4Vjg1RkxTTGRkZDNLWjBsMUllSUpDYXdK?oc=5",
-     "at": "2026-08-01T11:26+00:00",
-     "src": "aawsat.com"
+     "u": "https://openai.com/index/ten-advances-in-mathematics",
+     "at": "2026-08-01T00:00+00:00",
+     "src": "أوبن إيه آي"
     }
    ],
    "signals": []
@@ -287,11 +241,67 @@
      "src": "OpenSky",
      "lat": 31.9,
      "lon": 35.2,
-     "detail": "44 طائرةً في المجالِ الجوّيِّ الآن",
+     "detail": "50 طائرةً في المجالِ الجوّيِّ الآن",
      "url": "https://opensky-network.org/",
-     "at": "2026-08-01T22:20+00:00"
+     "at": "2026-08-01T22:48+00:00"
     }
    ]
+  },
+  {
+   "id": "iq",
+   "name": "العراق",
+   "en": "Iraq",
+   "lat": 33.0,
+   "lon": 44.0,
+   "score": 23,
+   "level": "هادئ",
+   "delta": -5,
+   "parts": {
+    "n": 7,
+    "u": 0,
+    "w": 3,
+    "a": 0,
+    "r": 0,
+    "o": 0
+   },
+   "events": [
+    {
+     "h": "العراق يؤكد سعيه لمنع أي تهديدات تنطلق من أراضيه تجاه دول الجوار",
+     "g": "حسن",
+     "u": "https://arabic.cnn.com/middle-east/article/2026/08/02/iraqi-pm-prevent-threats-emanating-from-country-toward-neighboring-countries",
+     "at": "2026-08-01T20:37+00:00",
+     "src": "CNN بالعربية"
+    },
+    {
+     "h": "العربية: سوريا والأردن تحذران العراق من تهديد الجماعات المدعومة من الجمهورية الإسلامية",
+     "g": "حسن",
+     "u": "https://www.iranintl.com/202608014941",
+     "at": "2026-08-01T19:02+00:00",
+     "src": "إيران إنترناشونال"
+    },
+    {
+     "h": "مسؤول أردني لـCNN: أبلغنا العراق بعزمنا الرد على أي هجمات للفصائل الموالية لإيران",
+     "g": "حسن",
+     "u": "https://arabic.cnn.com/middle-east/article/2026/08/01/jordanian-official-told-cnn-jordan-warned-iraq-respond-pro-iranian-factions-attacks",
+     "at": "2026-08-01T18:30+00:00",
+     "src": "CNN بالعربية"
+    },
+    {
+     "h": "تركيا والعراق يمددان عقد تصدير النفط",
+     "g": "حسن",
+     "u": "https://www.bbc.com/persian/articles/cvgw42wqde9o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-08-01T17:41+00:00",
+     "src": "بي بي سي فارسي"
+    },
+    {
+     "h": "«أزمة توقيع» في بغداد؛ هل تعارض إيران المشروع الاستراتيجي لتركيا؟",
+     "g": "حسن",
+     "u": "https://www.bbc.com/persian/articles/cqjxyzv7dz4o?at_medium=RSS&at_campaign=rss",
+     "at": "2026-08-01T05:30+00:00",
+     "src": "بي بي سي فارسي"
+    }
+   ],
+   "signals": []
   },
   {
    "id": "om",
@@ -337,7 +347,7 @@
      "g": "حسن",
      "u": "https://news.google.com/rss/articles/CBMixwRBVV95cUxPLWczY1BvQlZLZlpfXzZpZkhEZXRUbkU3eC1GYlY1aTBfLXU3dlFOem1lODIyU1NndWJjU2ZRbG91N0I3QTlmdDNhS1l6RDNYREpQX05TYVYwMGo5WVE5dDRIa3llaDE3bjFmZjNIM3UxTkVTTk0wV0pTM3dFdHFPVS1LZTZWR2tUUjVlRjNLblEtY1NSV3AxSjFoQWVweHBlTkhtYWhIOXp1NHZvLUkwaTJqU3Q3cERaYWZIRmFhamFYMUlsOVNneVNuUXJzeXdOdWpkSkFCX294WU92YXBXWHEyZG1rdHN4dUNrdU0xdW1QTWdRR19kcTAzV3JsX2stUS1jYjFlOEQtZnIwVEwyT1lCVGFsejE0V3hrOUVBdnZKcGlvYkRVOGg4bG00WjRYT2Z0cGZZOTN1cnh4T19TMW1XaUZDZS0zVDdxOG5FMG5KM3FkeE0yQk1vRmxBczh3emd2S01nNlNfencwTWFIemVYWThBV2lpZmFfSFJzZTRBTTZKS25Jc1RpTVk0NUxfRjVoYks1ckM2VG9YcVFvOFlzNl9WTVhlVFR2a05SNjlkMEpPLXpocFRJR21lMzBzQkRHYTA4T2p2VmsxVVRmNmRJTEI5d2JCQnRZSlowRWxOaDI0UG1QY09rWU1LX2lUOVpPaWJrMjBLc1BLUy1wZl9Wa29KMjhGVWlRODA0aWFRd3Jwem1aN2VxWk04c1NwMnRjOURRVGhrV2lCX1Vib09HRHpleFBaS1A3akF5MUJvb3ctV1hF?oc=5",
      "at": "2026-08-01T06:04+00:00",
-     "src": "aawsat.com"
+     "src": "الشرق الأوسط"
     },
     {
      "h": "هيئة بحرية بريطانية: مقذوف يصطدم بناقلة قبالة سواحل عمان",
@@ -353,9 +363,9 @@
      "src": "OpenSky",
      "lat": 21.0,
      "lon": 57.0,
-     "detail": "7 طائرةً في المجالِ الجوّيِّ الآن",
+     "detail": "12 طائرةً في المجالِ الجوّيِّ الآن",
      "url": "https://opensky-network.org/",
-     "at": "2026-08-01T22:20+00:00"
+     "at": "2026-08-01T22:48+00:00"
     }
    ]
   },
@@ -391,9 +401,9 @@
      "src": "OpenSky",
      "lat": 26.0,
      "lon": 50.5,
-     "detail": "9 طائرةً في المجالِ الجوّيِّ الآن",
+     "detail": "13 طائرةً في المجالِ الجوّيِّ الآن",
      "url": "https://opensky-network.org/",
-     "at": "2026-08-01T22:20+00:00"
+     "at": "2026-08-01T22:48+00:00"
     }
    ]
   },
@@ -429,9 +439,9 @@
      "src": "OpenSky",
      "lat": 25.3,
      "lon": 51.2,
-     "detail": "20 طائرةً في المجالِ الجوّيِّ الآن",
+     "detail": "27 طائرةً في المجالِ الجوّيِّ الآن",
      "url": "https://opensky-network.org/",
-     "at": "2026-08-01T22:20+00:00"
+     "at": "2026-08-01T22:48+00:00"
     }
    ]
   },
@@ -459,9 +469,9 @@
      "src": "OpenSky",
      "lat": 24.2,
      "lon": 54.3,
-     "detail": "39 طائرةً في المجالِ الجوّيِّ الآن",
+     "detail": "47 طائرةً في المجالِ الجوّيِّ الآن",
      "url": "https://opensky-network.org/",
-     "at": "2026-08-01T22:20+00:00"
+     "at": "2026-08-01T22:48+00:00"
     }
    ]
   },
